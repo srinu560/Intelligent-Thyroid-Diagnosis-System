@@ -1,0 +1,2335 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+    .hero-thumb {
+        margin-left: 100px;
+    }
+
+    .slider-shape .shape3 {
+        right: 0;
+    }
+
+    .single-about-content p {
+        width: 65%;
+    }
+
+    .about-thumb {
+        margin-left: -50px;
+    }
+
+    .blog-title h2 a {
+        font-size: 20px;
+    }
+
+    .testi-title h2:before {
+        right: -210px;
+    }
+
+    .recent-post-text h4 a {
+        font-size: 15px;
+    }
+
+    .recent-post-text span.rcomment {
+        font-size: 10px;
+    }
+
+    /* About Inner Page */
+    .portfolio-section .dentist-section-title p {
+        width: 55%;
+    }
+
+    .blog-detials-area .widget-categories-box {
+        padding: 40px 35px 25px;
+    }
+
+    /* Shop Inner Page */
+    .shop-section:before {
+        width: 30%;
+    }
+
+    .single-products-box:hover .product-thumb-icon a:nth-child(1) {
+        left: 65px;
+    }
+    .single-products-box:hover .product-thumb-icon a:nth-child(2) {
+        right: 65px;
+    }
+
+    /* Shop Details Inner Page */
+    .tabs_item img {
+        width: 100%;
+    }
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+    .header_top_menu_address_inner ul li,
+    .header_top_menu_icon_inner ul li {
+        margin-right: 10px;
+    }
+
+    a.logo_img img {
+        width: 100%;
+    }
+
+    a.main_sticky img {
+        width: 100%;
+    }
+
+    .dentist_menu > ul > li > a {
+        font-size: 14px;
+        margin: 29px 5px;
+    }
+
+    .header-button {
+        padding-left: 5px;
+    }
+
+    .header-button a {
+        font-size: 13px;
+        padding: 9px 20px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title {
+        margin-bottom: 40px;
+    }
+
+    /*hero section
+    ===================*/
+
+    .hero-section {
+        height: 600px;
+    }
+
+    .hero-content h2 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+
+    .hero-content p {
+        width: 100%;
+    }
+
+    .hero-all-shape {
+        display: none;
+    }
+
+    /*style two*/
+
+    .hero-content2 h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .hero-thumb {
+        margin-left: 0;
+    }
+
+    .slider-shape .shape1,
+    .slider-shape .shape3 {
+        display: none;
+    }
+
+    .slider-shape .shape2 {
+        left: 0;
+    }
+
+    .hero-thumb img {
+        width: 100%;
+    }
+
+    /* about section */
+    .about-thumb {
+        margin-left: -50px;
+    }
+
+    .single-about-content p {
+        width: 75%;
+    }
+
+    .about-shape .ab-shape1 {
+        display: none;
+    }
+
+    .about-shape .ab-shape2 {
+        right: -45px;
+    }
+
+    /* Team Section */
+    .team-section {
+        padding: 50px 0 50px;
+    }
+
+    /* Service Section */
+    .service-single-box {
+        padding: 45px 18px 35px;
+    }
+
+    /* Blog Section*/
+    .blog-title h2 a {
+        font-size: 17px;
+    }
+
+    .blog-title h2 {
+        margin: 5px 0px 8px;
+    }
+
+    .dentist-blog-meta-left {
+        padding: 28px 25px 15px;
+    }
+
+    .blog-text p {
+        font-size: 14px;
+    }
+
+    /* Testimonial Section */
+    .testimonial-section {
+        padding: 50px 0 80px;
+    }
+
+    .testi-title h2:before {
+        right: -115px;
+    }
+
+    .testimonial-section .owl-nav {
+        bottom: -30px;
+    }
+
+    .dentist-section-title h1 {
+        font-size: 33px;
+        line-height: 33px;
+    }
+
+    .subscribe-form button {
+        right: 78px;
+    }
+
+    .recent-post-image a img {
+        width: 80%;
+    }
+
+    .recent-post-image {
+        margin-right: 0;
+    }
+
+    .recent-post-text h4 a {
+        font-size: 12px;
+    }
+
+    .recent-post-text h4 {
+        line-height: 15px;
+    }
+
+    /* About Inner Page */
+    .portfolio-section .dentist-section-title p {
+        width: 65%;
+    }
+
+    /* Service Inner Page */
+    .service-single-box.style-two .service-content a {
+        font-size: 20px;
+    }
+
+    /* Service Details Inner Page */
+    .technology-thumb img {
+        width: 100%;
+    }
+
+    .info-thumb img {
+        width: 100%;
+    }
+
+    /* Appointment Inner Page */
+    .appointment-section,
+    .team-skill-section {
+        padding: 45px 0 60px;
+    }
+
+    .skill-bar-section {
+        padding: 40px 0 60px;
+    }
+
+    .appointment-section .dentist-section-title {
+        margin-bottom: 0;
+    }
+
+    /* Faq Section */
+    .faq-section {
+        padding: 0;
+    }
+
+    .faq-accordion li a {
+        font-size: 18px;
+    }
+
+    /* Blog Grid Inner Page */
+    .blog-single-box.style-two .blog-meta-top {
+        padding: 13px 13px;
+    }
+
+    .blog-detials-area .widget-categories-box {
+        padding: 40px 20px 25px;
+    }
+
+    .widget-gallery-thumb:nth-child(3),
+    .widget-gallery-thumb:last-child {
+        margin-right: 0;
+    }
+
+    .widget-gallery-thumb {
+        margin-right: 7px;
+    }
+
+    .blog-detials-area {
+        padding: 80px 0;
+    }
+
+    .recent-widget-thumb {
+        margin-right: 10px;
+    }
+
+    .sidber-widget-recent-post .recent-widget-content a {
+        font-size: 18px;
+        line-height: 18px;
+        font-weight: 600;
+    }
+
+    /* Shop Inner Page */
+    .shop-section:before {
+        width: 30%;
+    }
+
+    .single-products-box:hover .product-thumb-icon a:nth-child(1) {
+        left: 65px;
+    }
+    .single-products-box:hover .product-thumb-icon a:nth-child(2) {
+        right: 65px;
+    }
+
+    .product-title h2 {
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    .product-price p {
+        padding: 6px 0 0px;
+    }
+
+    .product-content {
+        padding: 17px 0 0;
+    }
+
+    .product-categories-box {
+        padding: 30px 14px 20px;
+    }
+
+    .categories-title h4 {
+        font-size: 20px;
+    }
+
+    /* Shop Details Inner Page */
+    .shop-detials {
+        padding: 60px 0 40px;
+    }
+
+    .tabs_item img {
+        width: 100%;
+    }
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    .header_top_menu {
+        display: none;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .dentist_nav_manu {
+        display: none;
+    }
+
+    a.logo_img img {
+        width: 100%;
+    }
+
+    a.main_sticky img {
+        width: 100%;
+    }
+
+    .dentist_menu > ul > li > a {
+        font-size: 14px;
+        margin: 29px 5px;
+    }
+
+    .header-button {
+        padding-left: 5px;
+    }
+
+    .header-button a {
+        font-size: 13px;
+        padding: 9px 20px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title {
+        margin-bottom: 40px;
+    }
+
+    /*hero section
+    ===================*/
+
+    .hero-section {
+        height: 600px;
+    }
+
+    .hero-content h2 {
+        font-size: 55px;
+        line-height: 55px;
+    }
+
+    .hero-content p {
+        width: 100%;
+    }
+
+    .hero-all-shape {
+        display: none;
+    }
+
+    /*style two*/
+
+    .hero-content2 h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .hero-thumb {
+        display: none;
+    }
+
+    /* about section */
+    .about-thumb {
+        margin-left: 0;
+        margin-bottom: 50px;
+    }
+
+    .single-about-content p {
+        width: 75%;
+    }
+
+    .about-shape .ab-shape1 {
+        right: 35px;
+    }
+
+    .about-shape .ab-shape2 {
+        right: 35px;
+    }
+
+    /* Team Section */
+    .team-section {
+        padding: 40px 0 30px;
+    }
+
+    .team-section .col-lg-4.col-md-6 {
+        margin: auto;
+    }
+
+    .team-section .dentist-section-title p {
+        width: 100%;
+        margin: auto;
+    }
+
+    /* Choose Us Section */
+    .choose-us-section {
+        padding: 40px 0 60px;
+    }
+
+    .choose-us-section::before {
+        top: 48%;
+        width: 100%;
+        height: 50%;
+    }
+
+    .choose_us_left {
+        margin-bottom: 30px;
+    }
+
+    .choose_us_right {
+        margin-left: 0;
+    }
+
+    /* Service Section */
+    .service-section {
+        padding: 40px 0 30px;
+    }
+
+    .service-single-box {
+        padding: 45px 35px 35px;
+    }
+
+    /* Blog Section*/
+    .blog-section .dentist-section-title p {
+        width: 90%;
+        margin: auto;
+    }
+
+    .blog-title h2 a {
+        font-size: 17px;
+    }
+
+    .blog-title h2 {
+        margin: 5px 0px 10px;
+    }
+
+    .dentist-blog-meta-left {
+        padding: 20px 29px 20px;
+    }
+
+    /* Testimonial Section */
+    .testimonial-section {
+        padding: 50px 0 80px;
+    }
+
+    .testimonial-single-box {
+        padding: 35px 24px 38px 34px;
+    }
+
+    .testi-title h2:before {
+        right: -115px;
+    }
+
+    .testimonial-section .owl-nav {
+        bottom: -30px;
+    }
+
+    .dentist-section-title h1 {
+        font-size: 34px;
+    }
+
+    /* Subscribe Section */
+    .subscribe-section {
+        padding: 40px 0 60px;
+        text-align: center;
+    }
+
+    .subscribe-section .dentist-section-title {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .subscribe-form button {
+        right: 61px;
+    }
+
+    /* Footer Section */
+    .col-lg-3.col-md-6.pl-40:nth-child(3) {
+        padding-left: 0;
+    }
+
+    .widget.widget-nav-menu {
+        margin-bottom: 30px;
+    }
+
+    /* About Inner Page */
+    .about-section.style-two {
+        padding: 0 0 57px;
+    }
+
+    .portfolio-section .dentist-section-title p {
+        width: 80%;
+    }
+
+    /* Portfolio Section */
+    .portfolio-section {
+        padding: 40px 0 70px;
+    }
+
+    /* Service Inner Page */
+    .service-single-box.style-two .service-content a {
+        font-size: 20px;
+    }
+
+    /* Service Inner Page */
+    .service-single-box.style-two .service-content a {
+        font-size: 20px;
+    }
+
+    /* Service Details Inner Page */
+    .details-section {
+        padding: 40px 0;
+    }
+
+    .technology-thumb,
+    .info-thumb {
+        text-align: center;
+    }
+
+    .info-thumb {
+        margin-bottom: 30px;
+    }
+
+    /* Team Details Inner Page */
+    .doctor-info-box {
+        margin-bottom: 30px;
+    }
+
+    /* Appointment Inner Page */
+    .appointment-section,
+    .team-skill-section {
+        padding: 45px 0 60px;
+    }
+
+    .skill-bar-section {
+        padding: 40px 0 60px;
+    }
+
+    .appointment-thumb-tow img,
+    .skill-thumb img {
+        border-radius: 5px;
+    }
+
+    /* Faq Inner Page */
+    .faq-section {
+        padding: 0;
+    }
+
+    .faq-thumb {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .faq-accordion li a {
+        font-size: 18px;
+    }
+
+    .faq-accordion {
+        margin-bottom: 40px;
+    }
+
+    /* Blog Grid Inner Page */
+    .blog-section.style-two {
+        padding: 60px 0 30px;
+    }
+
+    .blog-single-box.style-two .blog-meta-top {
+        padding: 13px 13px;
+    }
+
+    .blog-section.style-two .blog-title h2 {
+        margin: 27px 0px 10px;
+    }
+
+    .blog-section.style-two .blog-title h2 a {
+        font-size: 20px;
+    }
+
+    .blog-section.style-three .blog-title h2 {
+        margin: 30px 0px 10px;
+    }
+
+    .blog-section.style-three .blog-title h2 a {
+        font-size: 20px;
+    }
+
+    .blog-detials-area .widget-categories-box {
+        padding: 40px 20px 25px;
+    }
+
+    .widget-gallery-thumb:nth-child(3),
+    .widget-gallery-thumb:last-child {
+        margin-right: 0;
+    }
+
+    .widget-gallery-thumb {
+        margin-right: 10px;
+    }
+
+    .blog-detials-area {
+        padding: 80px 0;
+    }
+
+    .recent-widget-thumb {
+        margin-right: 10px;
+    }
+
+    .blog-details-main {
+        margin-bottom: 30px;
+    }
+
+    /* Shop Inner Page */
+    .shop-section:before {
+        width: 0;
+    }
+
+    .row.products {
+        padding: 0 40px 0;
+    }
+
+    /* Shop List Inner Page */
+    .shops-section .row.products {
+        padding: 0;
+    }
+
+    .tab {
+        margin-right: 0;
+    }
+
+    /* Shop Details Inner Page */
+    .shop-detials {
+        padding: 60px 0 40px;
+    }
+
+    .tabs_item img {
+        width: 100%;
+    }
+
+    .style-three.tab {
+        padding: 15px 17px 15px;
+        margin-right: 15px;
+    }
+
+    .style-three .tabs li a {
+        margin-right: 10px;
+    }
+
+    .shop-dtls-info {
+        padding-left: 0;
+    }
+
+    .category-button a {
+        padding: 12px 18px;
+        font-size: 12px;
+    }
+
+    table.tab-items-table tr td {
+        padding-right: 50px;
+    }
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+    
+    .header_top_menu {
+        display: none;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .dentist_nav_manu {
+        display: none;
+    }
+
+    a.logo_img img {
+        width: 100%;
+    }
+
+    a.main_sticky img {
+        width: 100%;
+    }
+
+    .dentist_menu > ul > li > a {
+        font-size: 14px;
+        margin: 29px 5px;
+    }
+
+    .header-button {
+        padding-left: 5px;
+    }
+
+    .header-button a {
+        font-size: 13px;
+        padding: 9px 20px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title {
+        margin-bottom: 40px;
+    }
+
+    /*hero section
+    ===================*/
+
+    .hero-section {
+        height: 600px;
+    }
+
+    .hero-content h2 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .hero-content p {
+        width: 100%;
+    }
+
+    .hero-all-shape {
+        display: none;
+    }
+
+    .slider-button .section-button a {
+        padding: 12px 40px;
+        margin-right: 25px;
+    }
+
+    /*style two*/
+
+    .hero-content2 h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .hero-thumb {
+        display: none;
+    }
+
+    /* about section */
+    .about-thumb {
+        margin-left: 0;
+        margin-bottom: 50px;
+    }
+
+    .single-about-content p {
+        width: 75%;
+    }
+
+    .about-shape .ab-shape1 {
+        right: -75px;
+    }
+
+    .about-shape .ab-shape2 {
+        right: -72px;
+    }
+
+    /* Team Section */
+    .team-section {
+        padding: 40px 0 30px;
+    }
+
+    .team-section .col-lg-4.col-md-6 {
+        margin: auto;
+    }
+
+    .team-section .dentist-section-title p {
+        width: 100%;
+        margin: auto;
+    }
+
+    /* Choose Us Section */
+    .choose-us-section {
+        padding: 40px 0 60px;
+    }
+
+    .choose-us-section::before {
+        top: 48%;
+        width: 100%;
+        height: 50%;
+    }
+
+    .choose_us_left {
+        margin-bottom: 30px;
+    }
+
+    .choose_us_right {
+        margin-left: 0;
+    }
+
+    /* Service Section */
+    .service-section {
+        padding: 40px 0 30px;
+    }
+
+    /* Blog Section*/
+    .blog-section .dentist-section-title p {
+        width: 90%;
+        margin: auto;
+    }
+
+    /* Testimonial Section */
+    .testimonial-section {
+        padding: 50px 0 80px;
+    }
+
+    .testimonial-single-box {
+        padding: 35px 24px 38px 34px;
+    }
+
+    .testi-title h2:before {
+        right: -115px;
+    }
+
+    .testimonial-section .owl-nav {
+        bottom: -30px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title h1 {
+        font-size: 32px;
+    }
+
+    /* Subscribe Section */
+    .subscribe-section {
+        padding: 40px 0 60px;
+        text-align: center;
+    }
+
+    .subscribe-section .dentist-section-title {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .subscribe-form button {
+        right: 47px;
+    }
+
+    /* Footer Section */
+    .col-lg-3.col-md-6.pl-40:nth-child(3) {
+        padding-left: 0;
+    }
+
+    .widget.widget-nav-menu {
+        margin-bottom: 30px;
+    }
+
+    /* About Inner Page */
+    .about-section.style-two {
+        padding: 0 0 57px;
+    }
+
+    .portfolio-section .dentist-section-title p {
+        width: 80%;
+    }
+
+    .dreamit-single-case-study {
+        padding: 0 70px;
+    }
+
+    /* Service Details Inner Page */
+    .details-section {
+        padding: 40px 0;
+    }
+
+    .technology-thumb,
+    .info-thumb {
+        text-align: center;
+    }
+
+    .info-thumb {
+        margin-bottom: 30px;
+    }
+
+    .service-info-section {
+        padding: 0 0 60px;
+    }
+
+    .info-thumb img {
+        width: 100%;
+    }
+
+    .team-inner-section {
+        padding: 40px 0 0;
+    }
+
+    /* Team Details Inner Page */
+    .doctor-info-box {
+        margin-bottom: 30px;
+    }
+
+    /* Appointment Inner Page */
+    .appointment-section,
+    .team-skill-section {
+        padding: 30px 0 50px;
+    }
+
+    .skill-bar-section {
+        padding: 40px 0 60px;
+    }
+
+    .appointment-thumb-tow img,
+    .skill-thumb img {
+        border-radius: 5px;
+    }
+
+    .skill:last-child {
+        margin-bottom: 30px;
+    }
+
+    .skill-bar-section .section-button {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    /* Faq Inner Page */
+    .faq-section {
+        padding: 0;
+    }
+
+    .faq-thumb {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .faq-accordion li a {
+        font-size: 18px;
+    }
+
+    .faq-accordion {
+        margin-bottom: 40px;
+    }
+
+    /* Blog Grid Inner Page */
+    .blog-section.style-two {
+        padding: 60px 0 30px;
+    }
+
+    .blog-single-box.style-two .blog-meta-top {
+        padding: 13px 13px;
+    }
+
+    .blog-section.style-two .blog-title h2 {
+        margin: 27px 0px 10px;
+    }
+
+    .blog-section.style-two .blog-title h2 a {
+        font-size: 20px;
+    }
+
+    .blog-section.style-three .blog-title h2 {
+        margin: 30px 0px 10px;
+    }
+
+    .blog-section.style-three .blog-title h2 a {
+        font-size: 20px;
+    }
+
+    .blog-detials-area .widget-categories-box {
+        padding: 40px 20px 25px;
+    }
+
+    .widget-gallery-thumb:nth-child(3),
+    .widget-gallery-thumb:last-child {
+        margin-right: 0;
+    }
+
+    .widget-gallery-thumb {
+        margin-right: 10px;
+    }
+
+    .blog-detials-area {
+        padding: 80px 0;
+    }
+
+    .recent-widget-thumb {
+        margin-right: 10px;
+    }
+
+    .blog-details-main {
+        margin-bottom: 30px;
+    }
+
+    .blog-details-meta {
+        padding: 16px 15px;
+    }
+
+    .blog-details-meta span {
+        font-size: 15px;
+    }
+
+    .blog-details-meta span:last-child {
+        margin-right: 0;
+    }
+
+    .blog-details-author-content p {
+        display: table-cell;
+    }
+
+    /* Shop Inner Page */
+    .shop-section:before {
+        width: 0;
+    }
+
+    .row.products {
+        padding: 0;
+    }
+
+    .form_box {
+        padding: 35px 0 25px;
+    }
+
+    .form_box select {
+        width: 74%;
+    }
+
+    .upper.widget_search input {
+        width: 100%;
+    }
+
+    /* Shop List Inner Page */
+    .shops-section .row.products {
+        padding: 0;
+    }
+
+    .tab {
+        margin-right: 0;
+    }
+
+    .nav-btn.navSidebar-button a i {
+        font-size: 20px;
+        color: #232323;
+        margin-left: 0;
+    }
+
+    .single-products-box2 .product-title h2 {
+        font-size: 22px;
+        line-height: 13px;
+    }
+
+    .single-products-box2 .products-thumb img {
+        width: 210px;
+    }
+
+    /* Shop Details Inner Page */
+    .shop-detials {
+        padding: 60px 0 40px;
+    }
+
+    .tabs_item img {
+        width: 100%;
+    }
+
+    .style-three.tab {
+        padding: 15px 17px 15px;
+        margin-right: 15px;
+    }
+
+    .style-three .tabs li a {
+        margin-right: 10px;
+    }
+
+    .appoinment-tab .tab {
+        padding: 0;
+    }
+
+    .shop-dtls-info {
+        padding-left: 0;
+    }
+
+    .category-button a {
+        padding: 12px 18px;
+        font-size: 12px;
+    }
+
+    .product-details-respond .sidebar-description p {
+        font-size: 14px;
+    }
+
+    table.tab-items-table tr td {
+        padding-right: 35px;
+    }
+
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+    
+    .header_top_menu {
+        display: none;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .dentist_nav_manu {
+        display: none;
+    }
+
+    a.logo_img img {
+        width: 100%;
+    }
+
+    a.main_sticky img {
+        width: 100%;
+    }
+
+    .dentist_menu > ul > li > a {
+        font-size: 14px;
+        margin: 29px 5px;
+    }
+
+    .header-button {
+        padding-left: 5px;
+    }
+
+    .header-button a {
+        font-size: 13px;
+        padding: 9px 20px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title {
+        margin-bottom: 40px;
+    }
+
+    /*hero section
+    ===================*/
+
+    .hero-section {
+        height: 500px;
+    }
+
+    .hero-content h2 {
+        font-size: 45px;
+        line-height: 45px;
+    }
+
+    .hero-content p {
+        width: 100%;
+    }
+
+    .hero-all-shape {
+        display: none;
+    }
+
+    .slider-button {
+        padding-top: 18px;
+    }
+
+    .slider-button .section-button a {
+        padding: 12px 40px;
+    }
+
+    /*style two*/
+
+    .hero-content2 h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .hero-thumb {
+        display: none;
+    }
+
+    /* about section */
+    .about-section {
+        padding: 60px 0;
+    }
+
+    .about-thumb {
+        margin-left: 0;
+        margin-bottom: 50px;
+    }
+
+    .single-about-content p {
+        width: 75%;
+    }
+
+    .about-shape .ab-shape1 {
+        display: none;
+    }
+
+    .about-shape .ab-shape2 {
+        right: -72px;
+    }
+
+    .about-section.style-two .about-thumb img {
+        width: 100%;
+    }
+
+    /* Team Section */
+    .team-section {
+        padding: 40px 0 30px;
+    }
+
+    .team-section .col-lg-4.col-md-6 {
+        margin: auto;
+    }
+
+    .team-section .dentist-section-title p {
+        width: 100%;
+        margin: auto;
+    }
+
+    /* Choose Us Section */
+    .choose-us-section {
+        padding: 40px 0 60px;
+    }
+
+    .choose-us-section::before {
+        top: 48%;
+        width: 100%;
+        height: 50%;
+    }
+
+    .choose_us_left {
+        margin-bottom: 30px;
+    }
+
+    .choose_us_right {
+        margin-left: 0;
+    }
+
+    /* Service Section */
+    .service-section,
+    .service-section.style-two {
+        padding: 40px 0 30px;
+    }
+
+    /* Blog Section*/
+    .blog-section .dentist-section-title p {
+        width: 90%;
+        margin: auto;
+    }
+
+    /* Testimonial Section */
+    .testimonial-section {
+        padding: 40px 0 60px;
+    }
+
+    .testimonial-single-box {
+        padding: 35px 24px 38px 34px;
+    }
+
+    .testi-title h2:before {
+        right: -115px;
+    }
+
+    .testimonial-section .owl-nav {
+        bottom: -30px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title h1 {
+        font-size: 26px;
+        line-height: 15px;
+    }
+
+    /* Subscribe Section */
+    .subscribe-section {
+        padding: 40px 0 60px;
+        text-align: center;
+    }
+
+    .subscribe-section .dentist-section-title {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .subscribe-form button {
+        right: 40px;
+    }
+
+    /* Footer Section */
+    .footer-section {
+        padding: 60px 0 0;
+    }
+
+    .widget.widgets-company-info {
+        padding-left: 25px;
+    }
+
+    .widget-nav-menu h4.widget-title {
+        margin-bottom: 30px;
+    }
+
+    .widget.widget-nav-menu {
+        margin-bottom: 30px;
+    }
+
+    .company-info-desc p {
+        width: 67%;
+    }
+
+    /* Portfolio Section */
+    .portfolio-section {
+        padding: 40px 0 60px;
+    }
+
+    /* Counter Section */
+    .counter-section {
+        padding: 60px 0 30px;
+    }
+
+    /* About Inner Page */
+    .about-section.style-two {
+        padding: 0 0 57px;
+    }
+
+    .portfolio-section .dentist-section-title p {
+        width: 90%;
+    }
+
+    .dreamit-single-case-study {
+        padding: 0 70px;
+    }
+
+    /* Service Details Inner Page */
+    .details-section {
+        padding: 40px 0;
+    }
+
+    .technology-section {
+        padding: 0 0 60px;
+    }
+
+    .technology-thumb,
+    .info-thumb {
+        text-align: center;
+    }
+
+    .info-thumb {
+        margin-bottom: 30px;
+    }
+
+    .service-info-section {
+        padding: 0 0 60px;
+    }
+
+    .info-thumb img {
+        width: 100%;
+    }
+
+    .team-inner-section {
+        padding: 40px 0 0;
+    }
+
+    /* Team Details Inner Page */
+    .team-details-section {
+        padding: 60px 0;
+    }
+
+    .doctor-info-box {
+        margin: 0 30px 30px;
+    }
+
+    .doctor-info-details {
+        margin: 0 30px 0;
+    }
+
+    td.column-1 {
+        width: 30%;
+    }
+
+    .appointment-section,
+    .team-skill-section {
+        padding: 55px 0 60px;
+    }
+
+    .prossess-ber-plugin.style-two {
+        margin-bottom: 30px;
+    }
+
+    /* Appointment Inner Page */
+    .appointment-section,
+    .team-skill-section {
+        padding: 30px 0 50px;
+    }
+
+    .skill-bar-section {
+        padding: 40px 0 60px;
+    }
+
+    .appointment-thumb-tow img,
+    .skill-thumb img {
+        border-radius: 5px;
+    }
+
+    .skill:last-child {
+        margin-bottom: 30px;
+    }
+
+    .skill-bar-section .section-button {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    /* Faq Inner Page */
+    .faq-section {
+        padding: 0;
+    }
+
+    .faq-thumb {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .faq-thumb img {
+        width: 80%;
+    }
+
+    .faq-accordion li a {
+        font-size: 18px;
+    }
+
+    .faq-accordion {
+        margin-bottom: 40px;
+    }
+
+    /* Blog Grid Inner Page */
+    .blog-section.style-two {
+        padding: 60px 0 30px;
+    }
+
+    .blog-single-box.style-two .blog-meta-top {
+        padding: 13px 13px;
+    }
+
+    .blog-section.style-two .blog-title h2 {
+        margin: 27px 0px 10px;
+    }
+
+    .blog-section.style-three .blog-title h2 {
+        margin: 30px 0px 10px;
+    }
+
+    .blog-section.style-three .blog-title h2 a {
+        font-size: 20px;
+    }
+
+    .blog-detials-area .widget-categories-box {
+        padding: 40px 20px 25px;
+    }
+
+    .widget-gallery-thumb {
+        margin-right: 10px;
+    }
+
+    .blog-detials-area {
+        padding: 80px 0;
+    }
+
+    .recent-widget-thumb {
+        margin-right: 10px;
+    }
+
+    .blog-details-main {
+        margin-bottom: 30px;
+    }
+
+    .blog-details-meta {
+        padding: 16px 15px;
+    }
+
+    .blog-details-author-inner {
+        padding: 30px 19px 25px;
+    }
+
+    .blog-details-comment-reply {
+        right: 0;
+    }
+
+    .blog-details-meta span {
+        margin-right: 10px;
+    }
+
+    .blog-details-meta span {
+        font-size: 14px;
+    }
+
+    .blog-details-meta span:last-child {
+        margin-right: 0;
+    }
+
+    .blog-details-author-content p {
+        display: table-cell;
+    }
+
+    /* Shop Inner Page */
+    .shop-section:before {
+        width: 0;
+    }
+
+    .row.products {
+        padding: 0;
+    }
+
+    .form_box {
+        padding: 35px 0 25px;
+    }
+
+    .form_box select {
+        width: 100%;
+    }
+
+    .upper.widget_search input {
+        width: 100%;
+    }
+
+    /* Shop List Inner Page */
+    .shops-section .row.products {
+        padding: 0;
+    }
+
+    .tab {
+        margin-right: 0;
+    }
+
+    .nav-btn.navSidebar-button a i {
+        font-size: 20px;
+        color: #232323;
+        margin-left: 0;
+    }
+
+    .single-products-box2 .product-title h2 {
+        font-size: 18px;
+        line-height: 8px;
+    }
+
+    .shops-section p.description {
+        font-size: 14px;
+    }
+
+    .single-products-box2 .products-thumb img {
+        width: 210px;
+    }
+
+    .tab .widget select {
+        display: none;
+    }
+
+    /* Shop Details Inner Page */
+    .shop-detials {
+        padding: 60px 0 40px;
+    }
+
+    .tabs_item img {
+        width: 100%;
+    }
+
+    .tabs_item {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    .style-three.tab {
+        padding: 0;
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+
+    .style-three .tabs li a {
+        margin-right: 5px;
+    }
+
+    .appoinment-tab .tab {
+        padding: 0;
+    }
+
+    .shop-dtls-info {
+        padding-left: 0;
+    }
+
+    .category-button a {
+        padding: 12px 18px;
+        font-size: 12px;
+    }
+
+    .product-details-respond .sidebar-description p {
+        font-size: 14px;
+    }
+
+    table.tab-items-table tr td {
+        padding-right: 35px;
+    }
+
+    .appoinment-tab .tabs li a {
+        padding: 9px 20px;
+        margin-right: 20px;
+    }
+
+    .tabs_item {
+        padding: 0;
+    }
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    
+    .header_top_menu {
+        display: none;
+    }
+
+    .sticky {
+        position: absolute !important;
+    }
+
+    .dentist_nav_manu {
+        display: none;
+    }
+
+    a.logo_img img {
+        width: 100%;
+    }
+
+    a.main_sticky img {
+        width: 100%;
+    }
+
+    .dentist_menu > ul > li > a {
+        font-size: 14px;
+        margin: 29px 5px;
+    }
+
+    .header-button {
+        padding-left: 5px;
+    }
+
+    .header-button a {
+        font-size: 13px;
+        padding: 9px 20px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title {
+        margin-bottom: 30px;
+    }
+
+    .about-section .dentist-section-title p {
+        margin: auto;
+    }
+
+    /*hero section
+    ===================*/
+
+    .hero-section {
+        height: 600px;
+        text-align: center;
+    }
+
+    .slider-button .section-button a {
+        margin-right: 0;
+        margin-left: 55px;
+    }
+
+    .hero-section .section-button:nth-child(2) {
+        display: none;
+    }
+
+    .hero-content h5 {
+        font-size: 16px;
+    }
+
+    .hero-content h2 {
+        font-size: 35px;
+        line-height: 36px;
+    }
+
+    .hero-content p {
+        width: 100%;
+    }
+
+    .hero-all-shape {
+        display: none;
+    }
+
+    /*style two*/
+
+    .hero-content2 h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+
+    .hero-thumb {
+        display: none;
+    }
+
+    /* about section */
+    .about-section {
+        padding: 60px 0;
+    }
+
+    .about-section .dentist-section-title {
+        margin-bottom: 0;
+        text-align: center;
+    }
+
+    .about-thumb {
+        display: none;
+    }
+
+    .single-about-content p {
+        width: 100%;
+        display: table-cell;
+    }
+
+    .about-shape .ab-shape1 {
+        display: none;
+    }
+
+    .about-shape .ab-shape2 {
+        right: -72px;
+    }
+
+    /* Team Section */
+    .team-section {
+        padding: 40px 0 30px;
+    }
+
+    .team-section .col-lg-4.col-md-6 {
+        margin: auto;
+    }
+
+    .team-section .dentist-section-title p {
+        width: 100%;
+        margin: auto;
+    }
+
+    /* Choose Us Section */
+    .choose-us-section {
+        padding: 40px 0 60px;
+    }
+
+    .choose-us-section::before {
+        top: 54%;
+        width: 100%;
+        height: 46%;
+    }
+
+    .choose_us_left {
+        margin-bottom: 30px;
+    }
+
+    .choose_us_right {
+        margin-left: 0;
+    }
+
+    .choose-us-title {
+        text-align: center;
+    }
+
+    .choose-us-title p {
+        width: 100%;
+        padding-bottom: 0;
+    }
+
+    /* Service Section */
+    .service-section,
+    .service-section.style-two {
+        padding: 40px 0 30px;
+    }
+
+    .service-single-box {
+        padding: 45px 23px 35px;
+    }
+
+    /* Blog Section*/
+    .blog-section .dentist-section-title p {
+        width: 90%;
+        margin: auto;
+    }
+
+    .blog-title h2 {
+        margin: 10px 0px 11px 0px;
+        line-height: 1.1;
+    }
+
+    .blog-title h2 a {
+        font-size: 15px;
+    }
+
+    .blog-text p {
+        font-size: 14px;
+    }
+
+    /* Testimonial Section */
+    .testimonial-section {
+        padding: 50px 0 80px;
+    }
+
+    .testimonial-single-box {
+        padding: 35px 24px 38px 34px;
+    }
+
+    .testi-title h2:before {
+        display: none;
+    }
+
+    .testimonial-section .owl-nav {
+        bottom: -30px;
+    }
+
+    .testi-thumb {
+        margin-right: 16px;
+    }
+
+    .testi-title h2 {
+        font-size: 14px;
+    }
+
+    .testi-text {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    /* Dentist Section Title */
+    .dentist-section-title h1 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .dentist-section-title h5 {
+        padding-bottom: 0;
+    }
+
+    /* Subscribe Section */
+    .subscribe-section {
+        padding: 40px 0 60px;
+        text-align: center;
+    }
+
+    .subscribe-section .dentist-section-title {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .subscribe-form button {
+        right: 28px;
+    }
+
+    /* Footer Section */
+    .widget.widgets-company-info {
+        text-align: center;
+        margin-bottom: 30px;
+        padding: 0 5px 0;
+    }
+
+    .widget-nav-menu h4.widget-title {
+        margin-bottom: 30px;
+    }
+
+    .widget.widget-nav-menu {
+        margin-bottom: 30px;
+    }
+
+    .portfolio-section {
+        padding: 50px 0 70px;
+    }
+
+    #progress {
+        height: 40px;
+        width: 40px;
+    }
+
+    #progress-value {
+        display: none;
+    }
+
+    /* About Inner Page */
+    .about-section.style-two {
+        padding: 57px 0;
+    }
+
+    .portfolio-section .dentist-section-title p {
+        width: 87%;
+    }
+
+    .dreamit-single-case-study {
+        padding: 0;
+    }
+
+    .service-single-box.style-two .service-content a {
+        font-size: 20px;
+    }
+
+    /* Service Details Inner Page */
+    .details-section {
+        padding: 15px 0;
+    }
+
+    .details-section .section-title h3 {
+        font-size: 20px;
+    }
+
+    .technology-section {
+        padding: 0 0 60px;
+    }
+
+    .technology-thumb,
+    .info-thumb {
+        text-align: center;
+    }
+
+    .technology-thumb img,
+    .info-thumb img {
+        width: 100%;
+    }
+
+    .info-thumb {
+        margin-bottom: 30px;
+    }
+
+    .service-info-section {
+        padding: 0 0 60px;
+    }
+
+    body {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .team-inner-section {
+        padding: 30px 0 0;
+    }
+
+    .team-inner-thumb img {
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    /* Team Details Inner Page */
+    .team-details-section {
+        padding: 60px 0;
+    }
+
+    .doctor-info-box {
+        margin: 0 0 30px;
+    }
+
+    .doctor-info-details {
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    td.column-1 {
+        width: 30%;
+    }
+
+    .appointment-section,
+    .team-skill-section {
+        padding: 55px 0 60px;
+    }
+
+    .prossess-ber-plugin.style-two {
+        margin-bottom: 30px;
+    }
+
+    .certificate-thumb img {
+        width: 100%;
+    }
+
+    /* Breadcumb Title */
+    .breadcumb-title h2 {
+        font-size: 38px;
+        line-height: 38px;
+    }
+
+    /* Appointment Inner Page */
+    .appointment-section,
+    .team-skill-section {
+        padding: 25px 0 45px;
+    }
+
+    .skill-bar-section {
+        padding: 40px 0 60px;
+    }
+
+    .appointment-thumb-tow img,
+    .skill-thumb img {
+        border-radius: 5px;
+    }
+
+    .appointment-thumb-tow img {
+        margin-bottom: 30px;
+    }
+
+    .skill:last-child {
+        margin-bottom: 30px;
+    }
+
+    .skill-bar-section .section-button {
+        text-align: left;
+        margin-bottom: 30px;
+    }
+
+    .formbold-main-wrapper {
+        padding: 0;
+    }
+
+    /* Faq Inner Page */
+    .faq-section {
+        padding: 0;
+    }
+
+    .faq-thumb {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .faq-thumb img {
+        width: 80%;
+    }
+
+    .faq-accordion li a {
+        font-size: 10px;
+    }
+
+    .faq-accordion {
+        margin-bottom: 40px;
+    }
+
+    .faq-details .section-title h3 {
+        font-size: 28px;
+        line-height: 28px;
+    }
+
+    /* Blog Grid Inner Page */
+    .blog-section.style-two {
+        padding: 60px 0 30px;
+    }
+
+    .blog-single-box.style-two .blog-meta-top {
+        padding: 13px 13px;
+    }
+
+    .blog-section.style-two .blog-title h2 {
+        margin: 10px 0px 10px;
+    }
+
+    .blog-section.style-two .blog-title h2 a {
+        font-size: 18px;
+    }
+
+    .blog-section.style-three .blog-title h2 {
+        margin: 30px 0px 10px;
+    }
+
+    .blog-section.style-three .blog-title h2 a {
+        font-size: 20px;
+    }
+
+    .blog-detials-area .widget-categories-box {
+        padding: 40px 20px 25px;
+    }
+
+    .widget-gallery-thumb {
+        margin-right: 7px;
+    }
+
+    .widget-gallery-thumb:nth-child(3),
+    .widget-gallery-thumb:last-child {
+        margin-right: 0;
+    }
+
+    .blog-detials-area {
+        padding: 50px 0;
+    }
+
+    .blog-details-button a {
+        margin-bottom: 30px;
+    }
+
+    .blog-details-button {
+        margin-bottom: 0;
+    }
+
+    .blog-details-button a:nth-child(2) {
+        margin-left: 0;
+    }
+
+    .blog-details-social {
+        text-align: left;
+    }
+
+    .recent-widget-thumb {
+        margin-right: 10px;
+    }
+
+    .blog-details-main {
+        margin-bottom: 30px;
+    }
+
+    .blog-details-meta {
+        padding: 16px 15px;
+    }
+
+    .blog-details-author-inner {
+        padding: 30px 19px 25px;
+        text-align: center;
+    }
+
+    .blog-details-author-thumb {
+        display: inline-block;
+        float: none;
+        margin: 0 0 5px;
+    }
+
+    .blog-details-comment-thumb {
+        float: none;
+        margin: 0 0 8px;
+    }
+
+    .blog-details-comment.reply {
+        margin-left: 0;
+    }
+
+    .blog-details-contact {
+        margin: 0;
+    }
+
+    .blog-details-comment-reply {
+        right: 0;
+    }
+
+    .blog-details-meta span {
+        margin-right: 10px;
+    }
+
+    .blog-details-meta span {
+        font-size: 14px;
+    }
+
+    .blog-details-meta span:last-child {
+        margin-right: 0;
+    }
+
+    .blog-details-author-content p {
+        display: table-cell;
+    }
+
+    .blog-details-content h2 {
+        font-size: 24px;
+    }
+
+    /* Shop Inner Page */
+    .shop-section {
+        padding: 70px 0;
+    }
+
+    .shop-section:before {
+        width: 0;
+    }
+
+    .row.products {
+        padding: 0;
+    }
+
+    .form_box {
+        padding: 35px 0 25px;
+    }
+
+    .form_box select {
+        width: 100%;
+    }
+
+    .upper.widget_search input {
+        width: 100%;
+    }
+
+    /* Shop List Inner Page */
+    .shops-section {
+        padding: 35px 0 40px;
+    }
+
+    .shops-section .row.products {
+        padding: 0;
+    }
+
+    .tab {
+        margin-right: 0;
+    }
+
+    .nav-btn.navSidebar-button a i {
+        font-size: 20px;
+        color: #232323;
+        margin-left: 0;
+    }
+
+    .single-products-box2 .products-thumb img {
+        width: inherit;
+    }
+
+    .tab .widget select {
+        display: none;
+    }
+
+    .single-products-box2 {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    /* Shop Details Inner Page */
+    .shop-detials {
+        padding: 60px 0 40px;
+    }
+
+    .tabs_item img {
+        width: 100%;
+    }
+
+    .tabs_item {
+        padding: 0;
+        margin-bottom: 30px;
+    }
+
+    .style-three.tab {
+        padding: 0;
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+
+    .style-three .tabs li a {
+        margin-right: 20px;
+    }
+
+    .style-three .tabs li:nth-child(2) a {
+        margin-right: 0;
+    }
+
+    .appoinment-tab .tab {
+        padding: 0;
+    }
+
+    .shop-dtls-info {
+        padding-left: 0;
+    }
+
+    .product-details-respond .sidebar-description p {
+        font-size: 14px;
+    }
+
+    table.tab-items-table tr td {
+        padding-right: 8px;
+    }
+
+    .appoinment-tab .tabs li a {
+        padding: 9px 20px;
+        margin-right: 15px;
+    }
+
+    .appoinment-tab .tabs li:nth-child(2) a {
+        margin-right: 0;
+    }
+
+    .tabs_item {
+        padding: 0;
+    }
+
+    .category-count-button {
+        display: inline-block;
+    }
+
+    .category-button {
+        padding-left: 0;
+        margin-top: 25px;
+    }
+
+    table.tab-items-table tr {
+        display: flex;
+        padding: 10px 0 0 8px;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .map-section iframe {
+        width: 100%;
+        height: auto;
+    }
+
+}

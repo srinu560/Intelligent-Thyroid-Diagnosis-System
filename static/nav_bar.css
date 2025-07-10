@@ -1,0 +1,129 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding-top: 80px;
+    /* To prevent content from overlapping the navbar */
+}
+
+/* Top social media bar */
+.top-bar {
+    background-color: #0d2746;
+    /* Dark navy blue */
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1001;
+}
+.social-icons a {
+    margin: 0 10px;
+    /* Adds space between icons */
+    font-size: 18px;
+    color: white;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #28a9e2;
+}
+/* Navbar */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* Ensures proper spacing */
+    background-color: white;
+    padding: 10px 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 40px;
+    /* Below the social media bar */
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.logo span {
+    font-size: 22px;
+    font-weight: bold;
+    color: #687680;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #007bff;
+}
+
+.logout-btn {
+    background-color: #28a9e2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+    white-space: nowrap;
+    margin-right: 70px;
+    /* Prevents button from wrapping */
+}
+
+.logout-btn:hover {
+    background-color: #007bff;
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .logout-btn {
+        margin-top: 10px;
+        /* Space below links */
+    }
+}
+.logout-btn a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    margin-bottom: 70px;
+}

@@ -1,0 +1,1996 @@
+Fatigue,Weight Change,Heart Rate,Temperature Sensitivity,Mood Changes,Hair/Nail Changes,Neck Swelling,Digestive Issues,Eye Changes,Goiter Presence,Menstrual Irregularities,Hoarseness,Family History,Previous Thyroid Surgery,Radiation Exposure,Slow Reflexes,Puffy Face,Joint Pain & Stiffness,Muscle Weakness,Memory Problems (Brain Fog),Dry Skin & Brittle Nails,Sweating Excessively,Diagnosis
+0,Gain,Slow,Cold,0,0,1,Normal,0,1,0,0,1,1,0,1,0,0,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,0,Diarrhea,0,0,1,0,1,0,1,1,1,0,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Normal,1,0,1,1,0,0,0,1,1,0,1,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,1,0,Constipation,1,0,1,1,1,1,0,1,0,1,0,1,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,1,0,Constipation,0,0,1,1,0,1,1,1,1,1,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Constipation,0,0,1,1,0,1,0,1,0,1,1,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,1,Diarrhea,0,0,1,1,1,1,0,1,0,1,0,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,1,1,Normal,0,0,1,1,0,1,0,1,1,1,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,1,0,1,Constipation,1,1,0,1,1,0,0,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,1,1,0,Normal,0,1,0,1,0,1,0,1,0,0,1,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,0,1,Normal,0,1,0,1,0,0,1,1,1,0,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,0,Constipation,0,0,0,0,0,0,1,1,1,0,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,1,0,Constipation,0,0,0,0,1,1,1,1,0,0,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Normal,1,0,0,0,1,1,1,1,1,1,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,0,Constipation,0,0,0,1,0,1,1,1,1,1,1,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,0,Constipation,1,0,1,0,0,0,1,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,1,0,1,Constipation,0,1,1,1,1,1,0,1,1,1,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Diarrhea,0,1,1,1,1,1,1,1,0,0,0,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,1,1,Normal,1,0,1,0,0,1,1,1,0,0,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,1,1,Normal,0,0,0,1,0,1,0,1,0,0,0,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,0,0,Diarrhea,1,0,0,0,1,1,0,1,1,1,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,0,1,Normal,1,0,1,0,1,0,1,1,1,0,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,0,1,1,0,1,0,0,1,1,1,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Normal,1,0,0,1,1,0,1,1,1,0,1,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,1,1,0,Constipation,1,0,1,0,1,1,0,1,1,0,1,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,0,Diarrhea,1,0,1,1,0,1,1,1,1,1,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Constipation,1,0,1,0,1,1,0,1,1,0,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,0,Normal,1,1,1,0,0,0,0,1,0,0,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,0,0,Normal,1,0,0,0,1,1,1,1,0,1,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Normal,1,0,1,1,0,1,1,1,1,0,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,1,0,Diarrhea,1,1,1,1,1,1,1,1,1,1,1,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,1,Diarrhea,0,1,0,1,1,0,1,1,1,0,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Normal,0,1,0,0,0,1,1,1,0,0,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Constipation,1,0,1,0,0,0,0,1,0,0,1,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,1,0,Diarrhea,0,0,0,1,1,1,1,1,1,0,0,1,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,1,0,Normal,1,1,1,1,1,0,1,1,1,0,1,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,0,0,Normal,1,1,1,1,1,0,0,1,0,0,1,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,0,1,Diarrhea,0,1,0,1,1,0,0,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Diarrhea,1,1,1,1,1,1,1,1,0,0,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,1,1,Diarrhea,1,1,1,1,0,1,0,1,0,1,1,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,1,Constipation,1,1,1,0,0,0,0,1,1,1,0,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,1,0,Constipation,1,0,1,1,1,0,1,1,0,0,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Normal,0,0,0,0,0,1,0,1,0,0,1,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,0,0,Diarrhea,1,0,0,0,0,1,0,1,1,1,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,0,Constipation,1,1,1,1,0,0,1,1,0,0,0,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,1,0,0,Diarrhea,1,1,0,1,1,1,1,1,0,0,1,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,0,0,Normal,0,1,1,0,0,1,0,1,0,1,0,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Constipation,1,1,1,1,1,1,0,1,1,0,0,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,1,0,1,Constipation,0,1,1,1,0,1,1,1,0,0,1,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,1,1,1,Constipation,0,1,1,0,1,0,0,1,1,1,0,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,0,1,Normal,1,0,1,0,0,1,0,1,1,0,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Diarrhea,1,0,0,0,1,1,0,1,0,0,1,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,0,0,Constipation,0,1,1,1,1,0,1,1,0,1,1,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,1,0,0,Normal,1,0,0,0,0,0,0,1,0,0,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Diarrhea,0,1,0,1,1,1,0,1,0,1,0,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,0,Normal,0,0,1,0,1,1,1,1,1,0,1,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Diarrhea,1,1,1,0,1,1,0,1,0,0,1,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,0,1,Normal,1,1,1,0,1,1,0,1,0,1,0,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,0,0,Diarrhea,0,0,1,1,1,0,1,1,0,1,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,0,0,Constipation,0,0,1,1,1,0,1,1,1,0,1,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,0,1,Diarrhea,0,1,0,0,1,0,1,1,0,1,1,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,0,0,Normal,0,1,1,0,1,1,1,1,0,1,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Normal,1,0,1,0,0,1,0,1,1,0,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,0,Diarrhea,1,0,0,1,0,1,0,1,1,0,1,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Constipation,1,1,0,0,1,1,1,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Constipation,1,0,1,1,1,0,1,1,0,1,0,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,0,0,Diarrhea,1,1,0,0,0,0,0,1,0,1,1,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,1,1,Diarrhea,0,1,1,0,0,1,1,1,0,1,0,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,1,0,Normal,1,1,0,0,0,0,0,1,0,1,0,0,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,1,1,Constipation,1,1,0,0,1,1,1,1,1,0,0,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Diarrhea,1,0,1,0,0,1,0,1,1,1,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,1,1,0,Constipation,1,0,0,0,1,0,1,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,1,1,Diarrhea,1,0,0,1,1,1,1,1,0,1,0,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,0,0,Diarrhea,0,0,0,0,0,1,0,1,1,0,0,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Constipation,0,0,0,1,1,0,1,1,0,0,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Diarrhea,0,0,0,0,1,1,0,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,1,1,Diarrhea,1,0,0,0,1,1,0,1,0,1,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,0,1,Normal,0,1,1,1,1,0,0,1,0,0,1,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,1,0,Diarrhea,0,0,1,0,0,1,0,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,0,0,Diarrhea,1,0,0,1,0,0,0,1,1,1,1,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,1,Diarrhea,1,1,1,1,1,1,1,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Normal,1,0,1,0,1,0,1,1,0,1,0,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Constipation,0,0,1,1,0,0,0,1,0,1,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Normal,0,1,0,1,1,0,1,1,1,0,0,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Normal,1,0,1,0,0,1,0,1,1,0,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Constipation,1,0,0,1,1,0,1,1,1,1,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,0,Normal,0,0,1,0,1,0,1,1,1,0,0,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Constipation,0,1,0,0,0,0,1,1,0,1,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Normal,1,0,0,0,0,0,1,1,1,1,0,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,0,0,Constipation,1,0,1,0,0,0,0,1,0,1,0,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Diarrhea,0,1,1,1,0,1,0,1,0,0,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,0,0,Normal,1,0,0,0,1,1,1,1,1,1,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Normal,0,1,1,0,0,1,1,1,1,0,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,0,0,Normal,0,1,1,1,1,1,0,1,1,0,0,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,1,0,1,Normal,0,0,1,0,0,1,1,1,1,0,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Diarrhea,0,1,0,0,0,1,0,1,1,0,0,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Normal,1,1,0,1,1,1,0,1,0,1,1,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,1,Diarrhea,1,0,1,1,0,0,0,1,1,0,1,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,1,0,Diarrhea,0,1,1,1,0,1,1,1,1,1,1,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,1,0,Diarrhea,0,1,1,1,0,0,0,1,1,1,1,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Diarrhea,0,0,0,1,0,0,1,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Constipation,0,0,0,1,1,1,0,1,1,1,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Constipation,0,0,1,1,1,0,1,1,0,1,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Normal,1,1,1,0,0,0,1,1,1,0,0,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,1,0,0,Constipation,1,0,1,1,0,0,1,1,1,1,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,1,1,1,1,0,0,0,1,0,1,0,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,1,0,0,Normal,1,1,1,1,1,1,0,1,1,1,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Normal,0,1,1,0,1,1,1,1,0,1,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,0,1,Normal,0,1,0,0,1,1,1,1,0,0,1,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,0,1,Constipation,0,1,1,1,1,1,1,1,0,1,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,0,0,Constipation,0,1,0,1,0,1,0,1,1,1,1,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,1,0,Normal,0,1,1,1,0,1,0,1,1,1,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Diarrhea,1,0,1,0,0,1,0,1,1,1,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,0,1,Normal,0,0,0,0,1,1,0,1,0,0,1,1,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Diarrhea,1,1,0,1,0,1,1,1,1,1,1,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,0,Diarrhea,1,1,0,0,1,1,1,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,1,Normal,1,0,0,1,1,0,0,1,1,1,0,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,0,Normal,1,1,1,0,0,1,0,1,0,0,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,1,0,0,Normal,0,0,0,0,0,0,1,1,0,0,1,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,1,1,1,Constipation,1,0,1,1,0,0,0,1,0,0,0,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Diarrhea,1,0,0,1,1,0,0,1,1,0,1,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,1,1,Constipation,1,1,1,1,1,0,0,1,0,0,1,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,0,Constipation,0,1,1,1,0,1,0,1,0,1,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,1,1,Normal,0,0,1,0,0,0,0,1,0,1,1,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,1,1,Constipation,0,0,1,0,1,1,0,1,0,1,0,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,1,1,Normal,1,0,1,0,0,1,1,1,0,0,0,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,0,Diarrhea,1,0,1,1,1,0,0,1,0,1,0,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,0,Normal,0,0,0,0,1,1,0,1,1,0,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Constipation,1,1,1,1,0,0,1,1,1,0,1,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,1,Constipation,0,0,0,0,0,0,1,1,0,1,1,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,1,1,0,Normal,0,1,0,1,0,1,1,1,1,1,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Normal,1,0,1,1,0,1,0,1,1,0,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,0,0,Constipation,1,1,0,0,1,0,1,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,1,1,Diarrhea,1,1,1,1,1,1,0,1,0,1,1,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Diarrhea,1,1,0,1,1,1,0,1,0,1,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,1,0,Normal,0,1,1,0,0,1,0,1,1,1,0,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,1,1,Diarrhea,0,1,0,1,1,0,1,1,0,1,1,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Constipation,0,1,1,1,0,0,1,1,1,0,0,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Normal,0,0,1,1,0,1,1,1,0,1,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,0,Constipation,0,1,1,0,0,1,1,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Constipation,1,0,1,0,0,1,1,1,0,1,0,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,1,1,Diarrhea,0,1,0,1,0,1,0,1,0,0,0,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,0,1,Normal,0,1,1,0,0,1,0,1,1,0,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Normal,0,0,0,1,1,0,0,1,1,0,0,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Diarrhea,1,1,0,1,0,1,0,1,1,0,0,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,0,1,Constipation,1,0,0,1,1,0,1,1,1,1,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,1,Constipation,1,0,1,1,1,1,1,1,1,0,1,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,0,0,Constipation,1,0,0,1,0,0,0,1,1,1,0,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,0,0,Constipation,0,0,0,0,0,1,1,1,0,1,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Normal,0,1,0,1,0,0,1,1,1,1,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,1,0,Normal,1,1,1,0,1,1,0,1,0,1,0,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,0,0,Diarrhea,1,0,1,0,0,0,0,1,0,0,0,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,1,1,Diarrhea,0,1,0,1,1,0,1,1,1,0,1,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,1,0,Normal,0,1,1,1,0,0,1,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,1,0,Normal,1,0,1,0,0,0,0,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,1,1,0,0,1,0,0,1,1,1,1,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,0,Constipation,1,0,0,0,1,0,0,1,0,1,0,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,1,0,0,Diarrhea,1,0,1,1,0,1,1,1,0,1,0,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,1,1,Normal,0,1,0,0,1,0,0,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Diarrhea,0,1,1,1,1,1,0,1,1,0,0,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Normal,0,1,1,1,1,1,1,1,0,1,0,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Constipation,1,0,1,1,1,1,1,1,0,0,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,1,1,Diarrhea,1,0,1,0,1,1,1,1,0,1,1,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,1,1,0,Diarrhea,0,1,1,1,0,1,1,1,0,1,0,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,1,1,0,Normal,0,1,1,1,0,0,1,1,1,0,1,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Constipation,0,1,0,1,1,0,0,1,1,0,0,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,1,0,Diarrhea,0,1,0,1,0,0,0,1,1,1,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,1,1,1,Constipation,1,0,1,1,0,1,1,1,1,1,0,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,0,1,Diarrhea,0,1,1,0,1,0,1,1,0,1,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,0,0,1,1,0,0,1,1,0,1,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Normal,0,0,0,1,1,0,1,1,1,0,1,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,0,Diarrhea,0,1,1,0,1,0,1,1,1,1,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,1,Diarrhea,0,1,0,1,0,0,0,1,1,0,0,0,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,0,1,Constipation,0,1,1,0,1,1,0,1,1,1,1,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,0,0,1,1,1,0,0,1,1,0,0,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,1,1,Diarrhea,1,1,0,0,1,1,0,1,1,0,1,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,1,0,Normal,1,1,0,0,1,1,1,1,1,1,0,0,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,0,1,Constipation,1,0,1,1,1,1,0,1,1,0,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,0,0,Constipation,1,1,1,1,0,1,1,1,1,1,0,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,1,0,Constipation,0,0,1,1,0,1,1,1,0,0,0,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,1,1,Diarrhea,1,1,0,0,1,0,1,1,1,1,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Diarrhea,1,0,0,0,1,0,0,1,0,0,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Diarrhea,0,1,0,0,0,0,1,1,0,1,0,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,0,1,Diarrhea,0,1,0,1,1,1,0,1,1,1,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,0,1,Normal,1,0,0,0,0,0,0,1,1,0,0,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,1,0,Normal,1,0,0,0,1,0,1,1,0,0,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Diarrhea,0,1,1,1,1,1,1,1,0,0,1,1,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,1,1,Normal,1,0,1,0,1,1,1,1,1,0,0,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,1,0,Constipation,0,0,0,0,1,1,0,1,0,1,1,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,0,Constipation,0,0,1,1,1,1,1,1,1,0,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,0,Constipation,0,0,1,0,1,0,0,1,1,1,0,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,0,1,Diarrhea,0,1,0,1,1,1,1,1,1,0,1,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,0,1,Constipation,1,1,1,1,0,1,1,1,0,1,0,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,0,0,Normal,0,0,0,1,0,0,0,1,0,1,0,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,1,1,Diarrhea,0,0,0,1,0,0,0,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Normal,1,0,1,1,1,1,0,1,0,1,0,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,1,0,1,Constipation,0,0,0,0,1,0,0,1,0,0,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,1,1,0,0,1,1,0,1,0,0,1,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,0,0,Constipation,1,1,0,1,1,1,0,1,0,1,0,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Diarrhea,1,0,0,1,1,0,1,1,0,0,0,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,0,1,0,Normal,0,0,0,0,1,0,1,1,0,0,1,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,1,1,Diarrhea,1,0,0,1,1,1,0,1,0,1,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Diarrhea,1,1,0,1,0,1,1,1,1,0,1,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,1,0,Constipation,0,0,0,1,1,1,0,1,0,0,0,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,1,0,Diarrhea,1,1,1,0,0,0,1,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Diarrhea,1,0,1,0,0,1,1,1,0,1,0,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,1,1,1,1,1,1,0,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,0,0,Diarrhea,1,0,0,1,1,1,0,1,0,1,0,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,0,0,Constipation,1,1,0,0,0,1,0,1,0,0,1,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Constipation,0,0,1,0,0,1,1,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,0,0,Constipation,1,0,1,1,1,0,0,1,0,0,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Constipation,1,0,1,1,1,1,1,1,1,1,0,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Diarrhea,0,1,0,0,0,1,0,1,0,1,0,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,1,0,Constipation,0,0,1,0,1,1,1,1,0,0,0,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,0,0,Constipation,0,1,1,0,1,1,1,1,0,1,1,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Diarrhea,1,1,0,1,1,0,0,1,0,0,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,0,1,Diarrhea,0,0,1,0,0,0,1,1,1,1,0,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,0,Normal,1,0,0,1,0,0,1,1,1,1,0,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,0,1,Diarrhea,1,0,0,0,0,1,0,1,1,0,0,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,1,1,Diarrhea,0,1,0,0,1,1,1,1,1,0,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Normal,0,0,1,0,1,0,0,1,1,0,0,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Diarrhea,1,1,1,0,0,0,0,1,1,0,0,0,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,0,1,Diarrhea,0,1,0,1,0,0,0,1,1,1,0,0,1,1,Hypothyroidism
+1,Gain,Normal,Cold,1,0,0,Diarrhea,1,0,1,1,0,1,0,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Normal,Cold,0,1,1,Diarrhea,0,0,1,0,1,1,1,1,1,1,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Normal,0,0,1,1,0,0,1,1,1,0,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,1,1,Diarrhea,0,0,1,0,0,0,1,1,1,0,0,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,1,0,Diarrhea,1,0,0,0,1,0,0,1,1,1,0,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,1,0,1,Normal,0,0,1,0,1,1,1,1,1,0,1,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Constipation,1,1,0,0,1,1,1,1,1,1,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Normal,1,1,0,1,0,1,0,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,0,Constipation,1,1,1,0,1,0,0,1,1,1,1,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,0,Normal,1,0,0,0,1,0,1,1,0,1,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,0,1,Normal,0,1,1,1,0,1,0,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Diarrhea,1,1,1,0,1,0,0,1,0,0,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,0,0,Constipation,1,1,0,0,0,1,0,1,1,0,1,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Diarrhea,0,1,0,0,0,0,0,1,1,0,0,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,1,0,Constipation,1,1,0,1,1,0,1,1,0,1,0,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,0,0,Normal,0,0,0,0,1,0,0,1,1,1,1,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Normal,1,0,1,1,1,0,0,1,0,1,0,0,1,1,Hypothyroidism
+1,Gain,Normal,Cold,1,0,0,Constipation,0,1,1,0,1,1,0,1,0,1,1,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,0,Diarrhea,1,1,1,0,1,0,0,1,0,0,0,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,1,1,Diarrhea,0,1,0,1,1,1,0,1,1,0,1,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,0,0,Diarrhea,1,0,0,0,0,1,0,1,1,1,0,0,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,0,0,Diarrhea,1,0,0,0,0,1,0,1,1,1,1,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,1,0,Normal,0,1,1,1,1,0,0,1,0,1,1,1,1,1,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Normal,0,0,0,1,0,1,1,1,0,0,1,0,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Normal,0,0,1,1,1,1,0,1,1,0,0,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Normal,0,1,0,1,0,1,1,1,1,0,0,1,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,1,1,Normal,1,0,1,1,0,0,0,1,1,1,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,0,Diarrhea,1,0,1,0,0,0,0,1,1,1,1,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Diarrhea,0,1,0,1,1,1,0,1,1,0,0,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,1,1,Diarrhea,1,0,0,0,0,0,0,1,0,1,0,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,0,0,Diarrhea,0,0,1,0,1,1,1,1,0,0,0,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,0,0,Normal,0,1,1,0,0,1,0,1,0,1,0,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Normal,1,0,0,1,0,0,0,1,1,0,0,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Normal,1,0,0,1,0,1,1,1,0,1,0,1,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,0,1,Constipation,1,1,1,0,0,0,1,1,0,0,1,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Diarrhea,1,1,0,1,0,0,0,1,0,0,0,0,1,0,Hypothyroidism
+0,Gain,Slow,Cold,0,0,1,Diarrhea,1,1,1,1,1,1,1,1,0,0,1,1,1,0,Hypothyroidism
+0,Gain,Fast,Cold,1,0,0,Normal,1,0,1,1,1,0,1,1,0,0,0,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,0,1,Diarrhea,1,1,0,1,0,0,1,1,1,0,0,0,1,0,Hypothyroidism
+0,Gain,Normal,Cold,0,1,1,Diarrhea,0,0,0,0,0,1,0,1,0,0,1,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,1,1,0,Normal,0,1,0,0,0,1,0,1,1,1,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,1,0,0,Constipation,0,0,0,1,0,0,0,1,1,1,0,0,1,0,Hypothyroidism
+1,Gain,Normal,Cold,1,0,1,Constipation,0,1,0,0,1,0,1,1,1,1,1,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,0,1,Constipation,0,1,1,1,0,1,0,1,1,0,1,1,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Normal,1,1,1,1,1,0,1,1,1,0,1,0,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,1,Diarrhea,0,1,0,0,0,0,0,1,0,1,1,1,1,0,Hypothyroidism
+0,Gain,Slow,Cold,1,0,0,Normal,0,0,0,0,1,0,0,1,0,0,0,0,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,1,1,Normal,0,1,0,0,0,0,1,1,1,0,1,0,1,1,Hypothyroidism
+1,Gain,Normal,Cold,0,1,1,Diarrhea,0,1,1,1,0,0,0,1,1,0,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,0,0,0,Constipation,0,0,0,0,1,0,1,1,1,0,0,1,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,1,1,Constipation,0,1,0,1,0,0,1,1,0,0,0,1,1,1,Hypothyroidism
+0,Gain,Fast,Cold,0,1,0,Normal,0,0,1,0,0,1,0,1,1,1,0,0,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Constipation,1,1,1,0,0,1,1,1,0,1,1,1,1,1,Hypothyroidism
+0,Gain,Slow,Cold,0,1,0,Normal,1,1,0,1,1,1,0,1,1,1,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Normal,0,1,0,1,0,1,0,1,0,1,0,1,1,1,Hypothyroidism
+0,Gain,Normal,Cold,0,0,1,Diarrhea,1,0,0,1,0,1,1,1,1,1,0,1,1,0,Hypothyroidism
+1,Gain,Slow,Cold,1,1,0,Diarrhea,1,1,1,1,1,0,0,1,0,0,0,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,0,0,1,Diarrhea,1,1,0,1,1,0,1,1,1,0,0,0,1,1,Hypothyroidism
+1,Gain,Fast,Cold,1,0,1,Normal,1,1,0,1,1,0,0,1,0,0,1,1,1,1,Hypothyroidism
+1,Gain,Slow,Cold,1,0,0,Diarrhea,0,0,0,1,0,0,0,1,0,0,0,1,1,0,Hypothyroidism
+0,Gain,Normal,Cold,1,0,0,Constipation,1,0,1,1,0,1,0,1,0,1,1,0,1,0,Hypothyroidism
+1,Gain,Fast,Cold,0,0,1,Constipation,1,1,1,0,0,0,0,1,0,1,0,0,1,0,Hypothyroidism
+0,Loss,Fast,Hot,1,0,0,Diarrhea,0,1,0,0,1,0,1,1,0,0,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Normal,0,1,1,0,0,1,1,1,1,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,1,0,1,1,0,1,1,0,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,1,1,1,1,1,0,0,1,0,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Diarrhea,1,1,1,0,0,1,0,0,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,0,1,1,0,1,1,1,1,0,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,1,0,0,1,0,1,0,1,1,1,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Normal,1,0,0,0,1,1,0,1,0,1,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,1,1,1,1,1,0,1,0,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Normal,1,0,0,1,1,1,1,0,0,1,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,1,0,1,1,0,0,0,0,1,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Constipation,0,0,1,1,0,1,1,0,1,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Constipation,0,1,1,1,0,1,0,0,0,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Constipation,1,0,0,1,0,0,1,0,1,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Normal,0,0,0,0,0,0,1,1,0,0,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,0,1,1,1,1,0,1,0,1,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Diarrhea,1,0,0,1,1,0,0,1,1,1,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Constipation,1,1,0,0,1,1,0,0,1,0,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,0,1,1,1,1,1,1,0,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Constipation,1,0,0,0,1,1,1,0,1,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Normal,0,1,0,1,1,1,1,1,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Constipation,0,1,1,0,1,0,0,0,1,1,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Diarrhea,1,1,1,0,0,1,1,0,1,1,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,0,1,0,1,1,1,1,1,1,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Constipation,0,0,1,1,0,0,1,1,1,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Constipation,0,1,0,1,1,1,1,1,1,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Diarrhea,1,0,1,1,1,1,0,1,1,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Constipation,1,1,1,0,0,1,0,0,0,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Diarrhea,1,1,1,0,1,1,1,1,0,1,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Diarrhea,1,1,1,0,0,0,0,0,0,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Constipation,0,0,0,1,1,0,0,0,1,1,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,1,0,0,0,0,1,0,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,1,0,1,1,1,0,1,0,1,1,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,1,1,1,1,0,0,0,1,0,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,1,1,0,0,0,1,0,0,0,1,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Diarrhea,0,1,0,1,1,1,0,1,1,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Diarrhea,0,1,1,0,1,0,1,1,1,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Constipation,0,0,1,1,0,0,1,1,0,1,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,1,1,1,0,1,0,0,1,0,1,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Diarrhea,1,0,1,1,0,1,0,1,0,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Diarrhea,0,1,1,0,1,0,1,1,0,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,1,0,1,0,0,1,1,0,1,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,1,0,0,1,1,1,0,0,0,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,1,1,1,0,1,0,0,1,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,0,1,1,0,1,1,1,1,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,1,0,1,1,0,0,1,0,0,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Normal,1,1,1,1,0,1,0,1,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,1,1,1,1,1,1,1,0,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,0,0,1,0,1,0,0,0,1,0,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Constipation,0,0,0,0,0,1,0,1,1,1,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,0,0,1,0,1,0,0,0,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,0,0,0,1,0,1,1,0,1,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Diarrhea,1,1,0,0,0,0,0,0,1,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,0,0,1,1,1,0,1,0,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Constipation,0,0,0,0,0,1,1,0,1,1,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,1,0,1,1,0,0,1,1,1,1,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,1,1,1,1,0,0,0,0,0,0,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Diarrhea,1,0,1,1,1,1,0,0,0,0,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Normal,0,1,1,0,0,1,1,0,1,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,1,0,1,0,1,0,1,0,1,1,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,1,0,1,0,1,1,1,1,1,0,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Diarrhea,0,1,0,0,1,0,0,0,0,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Constipation,0,0,1,1,1,1,0,1,1,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Normal,1,0,0,1,1,0,0,1,1,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Normal,0,1,0,0,1,1,1,0,1,1,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,1,0,1,1,1,0,0,0,1,1,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Constipation,1,0,1,1,0,0,1,1,1,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Diarrhea,0,0,1,0,0,0,0,1,1,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,1,0,1,1,1,0,1,0,0,0,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,0,1,1,1,0,0,0,0,0,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Constipation,0,0,1,0,0,1,0,0,1,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,1,1,1,1,1,0,1,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Normal,1,0,0,1,0,0,1,0,0,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Constipation,0,1,1,1,1,1,0,1,0,1,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,0,0,1,0,0,1,1,0,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Normal,1,1,0,0,1,1,1,0,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Diarrhea,1,0,1,1,1,1,0,1,1,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Diarrhea,1,1,1,1,0,1,1,0,1,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,1,1,0,1,0,1,0,0,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,0,1,0,1,0,0,1,0,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Constipation,0,1,1,0,1,1,1,0,0,0,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Diarrhea,0,0,1,0,1,1,1,1,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Constipation,1,0,1,1,0,1,0,0,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Diarrhea,1,0,1,1,0,0,0,0,1,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Diarrhea,0,0,1,1,0,1,0,0,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,1,0,0,1,0,1,0,1,0,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,1,1,1,1,1,1,0,1,0,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,0,0,1,0,1,0,0,1,0,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,0,0,0,1,1,1,1,1,0,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Diarrhea,1,0,0,1,1,0,1,0,0,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,1,1,0,1,1,1,1,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Diarrhea,1,0,0,0,1,0,0,1,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,0,1,1,1,0,1,1,0,0,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Diarrhea,0,1,1,0,0,0,0,0,0,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,0,1,0,0,0,1,0,0,0,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,0,0,1,0,1,0,1,1,1,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,0,1,1,0,0,0,0,1,1,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Normal,1,0,0,0,1,0,0,0,1,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Normal,1,0,0,1,0,0,0,1,0,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Constipation,1,0,0,1,0,1,0,1,1,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Constipation,0,0,0,0,1,1,0,1,0,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,0,0,1,0,0,1,0,1,1,1,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Diarrhea,0,1,0,0,1,1,1,0,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Constipation,1,1,0,1,0,0,0,0,1,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Normal,0,1,0,1,0,1,0,0,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Normal,0,1,0,0,0,0,0,1,0,0,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,1,0,0,1,0,1,0,1,1,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Constipation,0,1,1,1,0,1,1,0,0,1,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,1,0,0,0,1,1,1,0,0,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Constipation,0,1,1,0,0,0,0,0,0,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Normal,0,1,0,1,1,1,0,1,0,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Diarrhea,1,1,0,1,0,1,0,0,0,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Normal,1,1,0,1,1,1,1,1,0,0,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Diarrhea,1,0,0,0,0,0,1,1,0,0,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Constipation,1,1,0,0,1,1,1,0,1,0,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Constipation,1,1,0,0,1,1,1,0,0,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,1,0,0,1,0,0,0,1,0,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Constipation,0,0,0,1,0,0,1,0,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,1,0,0,1,1,0,1,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Constipation,1,0,0,1,1,1,0,1,1,1,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,0,0,1,0,1,1,0,1,1,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Constipation,1,0,0,1,0,0,1,1,0,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Normal,0,1,1,0,0,0,1,1,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Normal,1,0,0,1,1,0,1,1,1,1,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Diarrhea,0,1,0,1,1,1,1,0,0,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Constipation,0,1,0,0,0,0,0,1,0,0,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,0,1,1,0,1,1,0,1,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Constipation,0,1,1,0,0,0,1,1,1,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,0,0,1,0,0,0,1,0,0,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,1,1,1,0,0,0,1,1,1,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,1,0,0,1,1,1,1,1,0,1,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Constipation,1,1,0,0,1,1,1,1,0,1,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Diarrhea,0,0,0,0,1,1,0,0,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Constipation,1,1,1,0,1,1,0,1,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,0,0,0,0,0,0,1,0,1,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,1,1,0,1,1,1,1,0,0,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Diarrhea,0,1,1,1,0,0,1,0,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Constipation,1,0,1,0,0,1,0,0,0,1,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Normal,0,1,1,0,0,1,0,0,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Diarrhea,1,1,1,0,1,0,1,0,1,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Diarrhea,1,1,0,1,0,0,0,1,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Normal,0,0,1,1,0,1,1,1,1,1,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Normal,0,1,1,0,1,1,1,0,1,1,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,1,1,0,0,0,0,0,0,1,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Constipation,1,0,1,1,1,0,0,1,0,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Normal,1,0,1,1,1,0,0,1,0,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,1,0,0,1,1,0,1,0,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Diarrhea,1,0,0,0,0,0,1,0,1,1,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,0,0,1,1,0,0,1,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,0,1,1,1,1,1,1,0,0,1,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Constipation,1,1,0,0,1,1,1,1,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,1,1,0,1,1,1,1,0,1,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Normal,1,0,0,1,0,0,0,0,1,1,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Constipation,1,1,1,1,1,0,1,1,0,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,0,0,0,0,0,0,0,1,1,0,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Diarrhea,0,0,1,1,1,1,0,1,1,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,1,1,1,1,0,0,1,1,1,0,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Constipation,1,0,0,0,1,0,0,1,1,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Constipation,1,0,1,1,0,1,1,0,1,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Diarrhea,0,1,1,0,1,1,0,0,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,0,0,1,0,1,0,0,1,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Constipation,0,0,1,0,0,0,1,1,0,0,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,0,1,0,0,0,0,0,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Normal,0,0,1,1,1,1,0,1,1,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Diarrhea,0,0,1,1,0,1,0,0,1,1,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,1,1,0,1,0,0,1,0,1,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,0,1,0,1,1,1,0,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,0,1,1,0,0,0,0,1,0,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Diarrhea,1,1,1,0,1,1,0,0,1,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,0,0,0,1,0,1,0,0,0,1,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Diarrhea,1,0,1,1,0,1,1,0,1,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,0,1,1,1,0,0,1,0,1,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,1,0,1,0,1,0,0,0,1,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Constipation,1,0,1,0,0,1,1,1,1,1,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Normal,1,1,0,1,0,0,1,1,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Diarrhea,1,1,0,0,0,1,1,1,1,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,1,0,0,1,0,1,1,1,1,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,0,1,0,1,1,0,0,0,0,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,0,1,0,0,1,0,1,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,1,1,0,0,0,0,1,1,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,1,1,1,0,0,0,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Constipation,1,1,0,1,1,1,0,1,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,0,0,1,1,1,0,1,0,0,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Constipation,1,0,1,0,0,0,1,0,0,0,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,1,0,1,0,1,1,0,0,1,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Normal,1,1,0,0,0,1,0,1,0,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Normal,1,1,1,1,1,1,0,1,1,1,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,0,1,0,0,0,1,1,1,1,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Constipation,1,1,1,1,1,0,1,1,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,1,1,1,0,0,0,0,0,0,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Diarrhea,0,0,0,1,1,1,1,0,0,0,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,1,0,1,0,0,1,0,0,0,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,1,1,0,0,1,0,1,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,0,1,1,0,0,0,0,1,0,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Constipation,0,0,1,0,0,0,0,0,0,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,0,0,0,0,0,1,0,0,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,1,1,1,1,0,0,1,0,0,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Diarrhea,1,1,1,0,0,1,1,1,0,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,0,0,0,0,0,1,1,1,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Diarrhea,0,0,1,0,1,1,1,1,1,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Normal,0,1,1,0,0,1,1,0,0,1,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Diarrhea,1,1,1,1,0,0,0,1,0,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,1,Constipation,1,1,1,0,1,1,1,0,1,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Normal,0,1,0,1,0,0,0,0,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Constipation,1,0,1,1,1,0,0,0,1,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Constipation,0,0,0,1,0,0,1,1,1,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,1,1,1,1,1,0,0,1,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,1,0,1,0,1,0,0,0,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,1,1,0,0,1,0,0,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Diarrhea,1,1,0,1,1,0,1,1,0,1,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Constipation,0,0,1,1,0,1,1,1,1,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Diarrhea,1,0,1,1,0,0,0,1,1,0,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Diarrhea,1,0,0,0,0,1,1,0,0,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Normal,0,1,0,0,0,1,1,0,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,1,1,0,1,1,0,1,0,0,1,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Constipation,0,0,0,1,0,0,1,1,1,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Diarrhea,0,1,1,1,1,1,0,1,1,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Constipation,1,1,1,0,1,1,1,1,0,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Normal,1,1,1,0,0,1,0,0,0,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Constipation,0,0,1,0,0,1,1,0,0,1,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Diarrhea,0,0,0,0,0,0,0,1,1,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,0,1,1,0,0,0,0,0,0,0,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,1,1,1,0,0,1,0,0,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Normal,0,0,1,0,0,1,1,0,1,1,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Normal,0,0,1,0,1,0,0,1,1,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Diarrhea,0,0,0,1,0,1,1,0,0,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Diarrhea,1,0,1,0,0,0,1,0,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,0,1,1,0,0,1,1,1,0,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,1,0,1,0,0,0,1,1,0,1,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Diarrhea,1,0,0,1,1,0,1,1,1,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Constipation,0,0,0,0,1,1,0,1,1,1,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,1,1,1,1,0,1,1,1,0,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,0,1,1,1,1,1,0,0,0,1,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Diarrhea,1,1,1,0,1,1,0,1,0,1,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Constipation,1,0,0,0,0,1,0,1,1,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,1,0,0,0,0,1,0,0,0,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,0,1,1,0,1,1,0,0,0,0,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,1,1,1,0,0,1,1,1,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Normal,1,1,0,0,1,0,0,1,1,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Normal,1,0,1,1,1,0,1,1,0,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,0,1,1,1,0,0,0,0,0,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Normal,0,1,0,1,0,0,1,0,1,1,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Normal,1,0,0,1,1,1,0,1,0,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Constipation,1,0,1,1,0,1,0,0,0,0,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,1,Constipation,1,1,0,0,1,0,0,1,1,1,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Constipation,0,0,1,1,1,0,0,0,1,0,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Constipation,1,1,0,1,0,1,1,1,1,1,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Normal,0,0,0,0,1,1,1,0,0,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,1,Diarrhea,1,0,1,0,1,0,1,1,1,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Normal,1,1,1,1,0,1,0,1,1,1,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Normal,0,0,1,1,0,1,0,0,0,1,0,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,0,1,0,0,1,1,0,1,0,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Diarrhea,0,0,1,1,1,0,1,1,1,1,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Constipation,1,1,1,0,0,1,0,1,1,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,1,0,1,0,1,0,1,1,0,0,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,1,0,1,1,1,0,1,0,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Constipation,0,0,1,0,0,0,0,1,1,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Normal,1,0,0,1,0,0,0,0,1,0,1,0,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,1,Diarrhea,0,0,1,1,0,0,1,0,0,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Normal,0,1,1,1,0,1,1,0,1,1,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Normal,0,0,0,0,0,0,1,0,0,0,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Constipation,1,1,1,1,0,0,0,1,1,1,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Normal,1,1,1,0,1,0,0,1,0,0,1,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,1,Normal,0,1,1,1,1,1,0,0,0,1,1,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,0,0,Diarrhea,1,0,1,1,0,1,0,1,1,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,0,1,1,0,0,1,0,0,1,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Constipation,0,0,0,1,1,1,0,1,0,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Diarrhea,1,1,0,1,1,1,1,1,1,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Normal,0,1,0,0,1,1,1,1,1,1,0,1,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,1,0,Constipation,0,1,1,0,0,1,1,0,1,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,1,1,0,0,0,0,0,0,0,1,1,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,1,Normal,0,1,1,1,1,0,1,1,1,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,1,Normal,0,0,1,0,0,1,0,0,1,0,0,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Constipation,0,1,1,0,0,0,0,0,0,1,0,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Normal,0,1,0,1,0,0,1,1,1,0,1,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,1,Constipation,0,0,0,0,1,1,0,0,1,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,0,0,0,1,1,0,1,1,0,1,0,0,0,1,Hyperthyroidism
+0,Loss,Fast,Hot,0,0,0,Normal,0,0,1,1,0,0,1,1,0,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Diarrhea,1,1,0,0,0,1,0,1,1,0,1,0,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,1,0,Normal,1,1,1,1,0,0,1,0,1,0,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Diarrhea,0,1,0,0,0,1,1,1,0,0,0,1,1,1,Hyperthyroidism
+1,Loss,Fast,Hot,0,0,0,Normal,0,1,0,0,0,1,1,1,0,0,1,1,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,1,0,Constipation,1,1,1,0,1,0,1,0,1,1,1,0,0,1,Hyperthyroidism
+1,Loss,Fast,Hot,1,0,0,Constipation,1,1,1,0,0,0,0,0,1,0,0,1,1,1,Hyperthyroidism
+0,Loss,Fast,Hot,1,1,0,Normal,1,0,0,1,0,0,1,0,1,1,1,0,0,1,Hyperthyroidism
+1,Gain,Slow,Cold,0,1,0,Diarrhea,0,0,1,0,0,0,1,0,0,0,1,1,0,1,Hashimoto’s
+1,Gain,Normal,Hot,1,0,1,Diarrhea,0,1,0,1,0,1,0,1,1,1,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Hot,1,0,0,Normal,0,0,1,1,0,1,0,1,1,1,0,1,0,0,Hashimoto’s
+1,Loss,Normal,Hot,0,0,0,Constipation,0,0,1,0,1,1,0,0,0,0,0,1,0,1,Hashimoto’s
+1,Gain,Slow,Normal,1,1,0,Normal,0,1,0,0,0,0,1,0,0,1,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Cold,1,0,1,Diarrhea,1,1,1,1,0,1,1,0,0,0,0,1,1,0,Hashimoto’s
+1,Loss,Fast,Cold,1,1,1,Constipation,1,0,0,0,0,0,0,0,1,0,0,1,1,0,Hashimoto’s
+1,No Change,Slow,Cold,1,0,0,Normal,1,0,0,1,1,0,0,1,0,1,1,1,0,1,Hashimoto’s
+1,Gain,Fast,Normal,0,1,0,Constipation,1,1,1,0,1,1,0,1,1,0,1,1,1,0,Hashimoto’s
+1,No Change,Slow,Normal,1,1,0,Constipation,1,0,1,0,1,1,1,1,0,0,0,1,0,0,Hashimoto’s
+1,Gain,Fast,Hot,1,0,0,Diarrhea,0,0,1,0,1,1,0,0,0,1,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Hot,0,1,0,Constipation,0,1,1,0,0,1,1,0,1,1,0,1,1,1,Hashimoto’s
+1,Gain,Slow,Cold,0,1,0,Normal,0,0,0,1,1,0,1,1,1,1,1,1,1,1,Hashimoto’s
+1,Gain,Slow,Normal,0,1,1,Constipation,0,1,0,1,0,0,1,1,0,1,0,1,1,1,Hashimoto’s
+1,Loss,Fast,Normal,0,0,0,Constipation,0,0,0,1,1,1,0,1,1,1,0,1,0,0,Hashimoto’s
+1,Loss,Fast,Cold,1,1,0,Normal,1,1,1,0,0,0,0,0,1,1,1,1,0,0,Hashimoto’s
+1,Gain,Slow,Cold,0,0,1,Diarrhea,1,1,0,1,0,1,1,1,0,0,0,1,0,1,Hashimoto’s
+1,No Change,Slow,Hot,1,0,0,Diarrhea,0,1,0,1,0,1,1,0,1,0,0,1,1,1,Hashimoto’s
+1,Gain,Fast,Hot,1,1,0,Normal,0,0,1,1,0,1,1,1,0,0,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Hot,0,0,0,Normal,0,1,1,0,0,1,1,1,0,1,0,1,0,1,Hashimoto’s
+1,No Change,Fast,Cold,0,1,0,Diarrhea,1,0,1,1,1,0,0,1,1,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Cold,0,0,1,Constipation,1,1,0,0,0,0,0,0,0,1,0,1,0,0,Hashimoto’s
+1,Loss,Fast,Hot,0,1,0,Normal,0,1,1,0,0,1,1,0,1,0,1,1,1,1,Hashimoto’s
+1,No Change,Normal,Hot,0,0,1,Constipation,1,1,0,1,0,1,1,0,0,1,1,1,1,1,Hashimoto’s
+1,Loss,Slow,Normal,0,1,0,Normal,0,0,0,0,0,0,1,0,1,0,1,1,1,0,Hashimoto’s
+1,Loss,Fast,Normal,1,1,0,Diarrhea,1,0,0,1,1,0,0,0,1,1,1,1,0,0,Hashimoto’s
+1,Loss,Slow,Hot,1,1,1,Constipation,1,1,0,1,1,0,1,0,1,1,1,1,0,0,Hashimoto’s
+1,Loss,Normal,Hot,1,1,0,Constipation,0,0,0,1,0,1,0,1,1,1,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Normal,1,0,1,Normal,1,0,1,1,0,0,1,0,1,1,0,1,1,1,Hashimoto’s
+1,Loss,Fast,Hot,0,0,1,Constipation,1,0,0,1,0,1,0,1,0,0,0,1,1,0,Hashimoto’s
+1,Loss,Normal,Normal,0,1,1,Normal,0,1,1,0,0,1,0,0,0,0,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Normal,1,0,0,Diarrhea,1,0,0,1,1,0,1,1,1,1,0,1,1,0,Hashimoto’s
+1,Loss,Fast,Normal,1,1,0,Constipation,0,1,0,0,1,1,0,1,0,1,1,1,1,1,Hashimoto’s
+1,Gain,Fast,Cold,1,1,0,Normal,1,1,1,1,0,0,0,0,1,1,0,1,0,1,Hashimoto’s
+1,Gain,Fast,Cold,0,0,0,Constipation,0,1,0,1,0,1,0,1,1,0,1,1,1,0,Hashimoto’s
+1,Loss,Slow,Hot,0,0,1,Normal,0,0,0,1,0,1,0,0,0,1,0,1,1,0,Hashimoto’s
+1,Gain,Slow,Normal,0,1,0,Normal,1,1,1,0,0,1,1,0,0,1,0,1,1,1,Hashimoto’s
+1,No Change,Slow,Cold,1,0,0,Normal,1,0,1,0,0,1,1,0,1,0,1,1,0,1,Hashimoto’s
+1,Gain,Fast,Hot,1,1,1,Diarrhea,0,0,0,0,1,1,1,0,1,1,0,1,1,0,Hashimoto’s
+1,Loss,Fast,Hot,0,0,1,Constipation,1,1,0,0,1,1,1,1,1,1,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Hot,0,0,0,Diarrhea,1,1,0,1,0,0,1,0,1,0,1,1,1,0,Hashimoto’s
+1,Gain,Normal,Hot,1,0,1,Normal,1,1,1,1,1,0,0,1,1,1,0,1,0,1,Hashimoto’s
+1,Loss,Slow,Hot,1,0,1,Normal,0,0,0,0,1,1,0,1,1,1,0,1,0,0,Hashimoto’s
+1,No Change,Normal,Normal,0,0,1,Diarrhea,0,0,1,0,1,0,0,1,0,0,1,1,1,0,Hashimoto’s
+1,No Change,Fast,Hot,1,1,1,Diarrhea,0,1,1,0,0,1,0,0,1,1,1,1,1,1,Hashimoto’s
+1,Loss,Fast,Normal,0,0,1,Constipation,1,1,0,1,1,0,1,1,1,0,1,1,1,0,Hashimoto’s
+1,No Change,Slow,Cold,0,0,0,Normal,1,0,1,0,1,0,1,0,0,1,1,1,1,1,Hashimoto’s
+1,No Change,Slow,Hot,1,1,0,Diarrhea,0,0,0,0,0,1,0,1,1,1,1,1,0,1,Hashimoto’s
+1,Gain,Fast,Cold,1,1,0,Normal,0,1,0,1,1,0,1,0,1,1,0,1,1,1,Hashimoto’s
+1,No Change,Slow,Normal,1,1,0,Normal,1,0,1,0,0,1,0,0,0,1,1,1,0,0,Hashimoto’s
+1,Gain,Fast,Normal,0,0,0,Constipation,1,0,1,1,1,0,0,0,1,1,1,1,1,0,Hashimoto’s
+1,Loss,Fast,Cold,1,0,0,Constipation,1,0,1,1,0,1,1,0,0,0,0,1,0,0,Hashimoto’s
+1,Gain,Normal,Hot,1,1,0,Constipation,1,0,1,1,0,0,1,1,1,1,0,1,0,1,Hashimoto’s
+1,Loss,Slow,Hot,0,1,1,Diarrhea,0,0,1,1,1,1,1,1,0,1,0,1,1,0,Hashimoto’s
+1,Loss,Fast,Cold,0,1,0,Normal,1,0,1,1,1,0,1,0,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Cold,1,1,0,Diarrhea,1,1,0,0,0,1,1,1,0,0,0,1,1,0,Hashimoto’s
+1,Loss,Normal,Cold,0,0,0,Diarrhea,0,0,0,0,0,0,1,0,1,1,1,1,0,0,Hashimoto’s
+1,Loss,Normal,Hot,0,0,1,Constipation,0,1,0,1,1,1,1,0,1,0,0,1,0,1,Hashimoto’s
+1,Gain,Slow,Hot,0,0,0,Normal,1,1,1,1,1,0,0,1,0,1,1,1,1,0,Hashimoto’s
+1,Loss,Slow,Hot,1,0,0,Normal,0,0,1,0,1,1,1,0,0,0,0,1,1,1,Hashimoto’s
+1,No Change,Fast,Cold,1,0,1,Constipation,1,1,1,0,1,0,0,0,1,0,1,1,0,1,Hashimoto’s
+1,No Change,Normal,Hot,0,1,0,Normal,1,1,0,1,0,1,0,0,1,1,0,1,0,1,Hashimoto’s
+1,Loss,Normal,Normal,0,0,0,Constipation,0,1,0,0,0,1,1,0,1,0,1,1,1,1,Hashimoto’s
+1,No Change,Normal,Cold,0,1,1,Diarrhea,0,0,1,0,0,1,0,0,1,1,1,1,1,0,Hashimoto’s
+1,Gain,Slow,Hot,1,1,0,Diarrhea,1,1,1,1,1,1,1,1,1,0,1,1,1,0,Hashimoto’s
+1,Gain,Fast,Cold,0,1,1,Constipation,0,0,1,0,1,0,0,1,0,0,1,1,0,0,Hashimoto’s
+1,Loss,Slow,Normal,0,0,0,Diarrhea,1,1,1,0,0,0,0,1,1,0,1,1,1,1,Hashimoto’s
+1,Loss,Slow,Normal,1,1,0,Diarrhea,1,1,0,0,0,0,0,0,0,1,1,1,1,0,Hashimoto’s
+1,Loss,Slow,Cold,0,0,0,Constipation,1,1,0,0,0,1,1,0,1,1,1,1,0,1,Hashimoto’s
+1,No Change,Fast,Cold,1,1,1,Diarrhea,0,1,0,1,0,1,0,0,0,0,1,1,1,0,Hashimoto’s
+1,No Change,Slow,Normal,1,0,1,Normal,1,0,1,0,0,1,0,0,0,1,1,1,1,0,Hashimoto’s
+1,Gain,Normal,Cold,1,1,1,Diarrhea,1,1,0,1,0,1,0,0,1,1,1,1,1,0,Hashimoto’s
+1,No Change,Normal,Normal,0,0,0,Constipation,1,1,1,0,1,1,1,0,0,1,0,1,1,1,Hashimoto’s
+1,Gain,Normal,Normal,0,1,0,Normal,0,0,1,1,0,0,0,1,0,0,1,1,0,0,Hashimoto’s
+1,No Change,Fast,Hot,1,1,1,Normal,1,0,1,1,0,0,1,0,0,1,1,1,1,1,Hashimoto’s
+1,Gain,Slow,Cold,0,1,1,Diarrhea,1,0,0,0,0,0,0,1,0,0,0,1,1,1,Hashimoto’s
+1,Loss,Fast,Cold,1,1,0,Normal,1,1,0,1,0,1,0,0,1,0,1,1,1,1,Hashimoto’s
+1,No Change,Slow,Hot,0,0,0,Constipation,0,0,1,1,0,1,0,1,0,0,1,1,1,0,Hashimoto’s
+1,Gain,Normal,Normal,1,0,0,Normal,1,0,0,1,0,1,1,0,1,0,0,1,1,0,Hashimoto’s
+1,No Change,Slow,Cold,1,0,0,Diarrhea,1,0,1,1,0,1,0,1,0,0,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Hot,0,1,1,Diarrhea,0,0,1,1,1,1,0,1,1,1,1,1,0,1,Hashimoto’s
+1,Gain,Slow,Hot,0,1,0,Normal,0,0,1,0,0,1,0,0,1,1,0,1,0,1,Hashimoto’s
+1,No Change,Fast,Cold,0,1,0,Constipation,1,0,0,1,1,1,0,0,1,0,1,1,0,1,Hashimoto’s
+1,No Change,Slow,Hot,0,1,0,Constipation,1,1,0,1,1,0,1,1,0,1,1,1,1,1,Hashimoto’s
+1,Loss,Slow,Normal,1,1,0,Diarrhea,1,0,1,0,1,0,0,0,1,1,1,1,1,0,Hashimoto’s
+1,Loss,Slow,Hot,1,1,0,Diarrhea,0,1,0,0,0,1,0,0,1,1,0,1,1,0,Hashimoto’s
+1,Gain,Fast,Normal,0,0,0,Constipation,0,0,0,1,0,1,0,0,0,1,1,1,0,0,Hashimoto’s
+1,No Change,Fast,Normal,0,0,0,Normal,1,0,0,0,0,1,0,1,1,1,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Cold,1,0,1,Normal,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Hashimoto’s
+1,Loss,Slow,Hot,0,0,1,Normal,1,1,1,0,0,0,0,1,0,1,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Normal,0,0,1,Normal,1,0,0,0,0,1,0,1,1,0,1,1,1,0,Hashimoto’s
+1,Gain,Normal,Normal,0,0,0,Constipation,0,0,1,0,0,0,1,0,0,0,1,1,0,1,Hashimoto’s
+1,No Change,Normal,Hot,0,0,1,Diarrhea,1,0,1,0,0,0,0,1,0,0,1,1,0,1,Hashimoto’s
+1,No Change,Slow,Normal,1,0,0,Diarrhea,0,0,0,1,0,0,0,0,0,1,1,1,0,1,Hashimoto’s
+1,Gain,Normal,Hot,1,1,0,Normal,0,1,1,1,0,1,0,0,1,1,1,1,0,0,Hashimoto’s
+1,Gain,Normal,Cold,0,1,0,Constipation,1,1,1,0,1,0,1,1,0,0,0,1,0,1,Hashimoto’s
+1,Loss,Normal,Normal,1,1,0,Constipation,0,1,0,0,0,0,0,1,0,1,1,1,0,1,Hashimoto’s
+1,Loss,Slow,Normal,0,1,1,Normal,1,1,1,1,0,1,1,1,0,1,1,1,1,1,Hashimoto’s
+1,Gain,Normal,Hot,0,1,0,Normal,0,1,1,0,0,1,1,1,1,0,0,1,0,0,Hashimoto’s
+1,Gain,Normal,Hot,0,1,0,Normal,1,0,0,1,1,0,1,1,0,0,1,1,1,1,Hashimoto’s
+1,No Change,Slow,Hot,1,1,1,Diarrhea,1,0,0,0,0,1,1,0,1,0,1,1,1,0,Hashimoto’s
+1,Gain,Fast,Hot,1,0,1,Normal,1,0,0,1,0,0,1,1,0,1,0,1,1,1,Hashimoto’s
+1,Gain,Normal,Normal,1,0,1,Diarrhea,0,1,0,1,1,0,1,0,1,1,0,1,1,1,Hashimoto’s
+1,No Change,Fast,Cold,1,1,0,Constipation,1,0,0,0,0,1,1,0,1,1,0,1,1,0,Hashimoto’s
+1,Gain,Normal,Cold,1,0,1,Constipation,0,1,1,0,1,1,0,1,1,0,0,1,0,1,Hashimoto’s
+1,Loss,Slow,Cold,0,0,0,Diarrhea,0,0,1,0,1,0,0,1,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Fast,Cold,0,0,0,Diarrhea,0,1,0,0,1,1,1,1,0,1,0,1,0,1,Hashimoto’s
+1,No Change,Fast,Hot,1,0,1,Diarrhea,0,0,0,1,1,1,1,1,0,0,0,1,1,0,Hashimoto’s
+1,Gain,Fast,Normal,1,0,1,Diarrhea,0,0,1,0,0,0,1,1,1,0,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Normal,1,1,1,Normal,1,0,0,1,1,0,1,0,0,1,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Normal,0,0,0,Constipation,0,0,0,0,1,0,1,0,0,0,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Hot,1,1,0,Normal,1,1,1,1,0,0,1,0,1,0,0,1,1,1,Hashimoto’s
+1,Loss,Fast,Normal,0,1,0,Diarrhea,1,0,1,0,0,0,0,1,0,0,1,1,1,0,Hashimoto’s
+1,Gain,Normal,Hot,0,1,0,Normal,0,0,1,0,0,0,0,1,0,1,0,1,0,1,Hashimoto’s
+1,Gain,Fast,Normal,1,0,0,Normal,1,0,0,1,1,1,1,0,1,1,1,1,0,0,Hashimoto’s
+1,Gain,Fast,Cold,0,1,0,Constipation,1,1,1,0,0,1,1,1,1,0,1,1,0,1,Hashimoto’s
+1,Gain,Slow,Hot,0,1,1,Normal,0,0,0,0,1,0,1,1,0,1,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Normal,1,1,0,Constipation,1,0,1,0,1,1,0,1,1,1,1,1,0,1,Hashimoto’s
+1,No Change,Normal,Cold,0,1,1,Diarrhea,0,0,0,0,0,1,1,0,0,1,0,1,1,1,Hashimoto’s
+1,No Change,Fast,Cold,1,0,1,Normal,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Cold,0,1,1,Diarrhea,0,0,0,1,0,1,0,0,0,1,1,1,1,1,Hashimoto’s
+1,Loss,Normal,Hot,1,1,1,Constipation,1,1,1,0,0,1,0,1,0,0,0,1,1,1,Hashimoto’s
+1,No Change,Slow,Hot,1,1,1,Diarrhea,1,1,1,1,0,0,1,1,0,0,0,1,1,1,Hashimoto’s
+1,No Change,Slow,Normal,0,1,0,Diarrhea,1,1,1,0,0,1,1,0,1,1,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Cold,1,0,0,Constipation,1,0,0,0,1,1,0,1,1,0,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Normal,0,1,0,Diarrhea,0,1,1,1,1,0,0,1,0,1,0,1,1,0,Hashimoto’s
+1,Gain,Slow,Normal,0,1,0,Diarrhea,0,0,1,1,0,1,0,1,1,1,0,1,0,1,Hashimoto’s
+1,Gain,Normal,Cold,1,1,1,Diarrhea,1,0,0,1,1,1,0,0,1,0,0,1,1,0,Hashimoto’s
+1,No Change,Slow,Normal,0,1,1,Normal,0,0,0,1,1,1,1,1,0,0,1,1,1,0,Hashimoto’s
+1,Loss,Fast,Hot,1,1,1,Diarrhea,1,0,1,1,1,0,0,1,1,1,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Normal,0,1,0,Constipation,0,1,1,0,1,0,1,1,1,1,0,1,0,1,Hashimoto’s
+1,Gain,Fast,Cold,0,0,0,Normal,0,1,1,1,1,1,0,1,0,1,1,1,1,0,Hashimoto’s
+1,Gain,Slow,Hot,1,1,0,Normal,0,1,0,1,1,1,1,1,0,1,1,1,1,0,Hashimoto’s
+1,No Change,Normal,Hot,0,0,0,Constipation,0,0,1,0,0,0,0,0,0,0,1,1,0,0,Hashimoto’s
+1,Gain,Fast,Normal,0,0,1,Diarrhea,0,1,0,0,0,0,1,0,0,0,0,1,0,1,Hashimoto’s
+1,Loss,Slow,Normal,0,1,1,Normal,1,1,0,1,0,1,1,1,0,0,0,1,1,0,Hashimoto’s
+1,No Change,Fast,Hot,0,0,0,Normal,1,0,1,1,1,0,1,1,0,1,1,1,0,0,Hashimoto’s
+1,Loss,Fast,Normal,0,1,0,Normal,0,1,1,1,0,1,0,0,0,0,1,1,0,1,Hashimoto’s
+1,Loss,Normal,Cold,0,0,1,Diarrhea,1,0,0,0,0,1,1,1,1,0,0,1,0,0,Hashimoto’s
+1,Gain,Fast,Normal,0,1,1,Normal,0,1,0,1,0,0,0,1,0,0,1,1,0,1,Hashimoto’s
+1,Loss,Normal,Normal,0,0,1,Constipation,0,1,1,0,1,0,1,1,1,0,0,1,0,0,Hashimoto’s
+1,No Change,Slow,Hot,1,0,1,Diarrhea,0,1,1,0,0,1,1,1,1,1,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Normal,0,1,0,Constipation,0,0,1,0,1,1,0,1,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Normal,0,0,1,Constipation,1,1,0,0,0,0,1,1,1,0,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Normal,1,0,1,Normal,0,1,0,1,0,1,1,1,1,0,0,1,0,1,Hashimoto’s
+1,Loss,Slow,Cold,1,0,1,Normal,1,1,1,0,0,0,0,1,1,0,0,1,0,0,Hashimoto’s
+1,Loss,Fast,Normal,1,0,1,Normal,0,1,0,0,1,0,1,0,0,1,1,1,0,1,Hashimoto’s
+1,Gain,Normal,Cold,0,0,0,Constipation,0,0,0,1,1,0,1,0,1,1,0,1,1,0,Hashimoto’s
+1,No Change,Fast,Cold,1,1,0,Diarrhea,1,0,1,0,1,0,1,1,1,0,1,1,0,1,Hashimoto’s
+1,Gain,Slow,Cold,1,0,0,Normal,0,1,0,1,1,0,1,1,0,1,0,1,0,1,Hashimoto’s
+1,No Change,Normal,Cold,0,0,0,Normal,0,1,1,0,1,1,0,1,1,1,0,1,1,1,Hashimoto’s
+1,No Change,Slow,Hot,0,1,0,Constipation,1,1,1,1,0,0,1,1,1,1,1,1,0,1,Hashimoto’s
+1,No Change,Normal,Cold,1,1,0,Diarrhea,1,0,0,0,0,0,1,0,1,1,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Normal,1,1,1,Constipation,1,1,0,0,1,0,1,0,1,0,1,1,1,1,Hashimoto’s
+1,No Change,Normal,Cold,0,0,1,Normal,0,1,1,1,1,0,1,0,1,1,0,1,0,1,Hashimoto’s
+1,Loss,Fast,Normal,0,0,1,Constipation,0,0,0,0,0,0,1,0,0,1,0,1,1,0,Hashimoto’s
+1,Gain,Slow,Cold,0,0,1,Normal,1,0,1,0,1,0,1,1,1,0,1,1,0,0,Hashimoto’s
+1,Gain,Normal,Hot,0,0,0,Diarrhea,1,0,0,1,0,0,1,1,0,0,0,1,0,1,Hashimoto’s
+1,Loss,Slow,Cold,0,1,1,Constipation,0,1,0,0,1,1,1,1,1,0,1,1,1,1,Hashimoto’s
+1,No Change,Normal,Cold,1,1,0,Normal,0,0,0,0,0,1,0,0,0,0,0,1,1,1,Hashimoto’s
+1,Gain,Fast,Hot,0,0,1,Normal,1,0,1,1,1,1,0,1,0,1,0,1,0,0,Hashimoto’s
+1,Loss,Normal,Cold,0,0,1,Normal,1,1,0,1,1,1,0,1,0,0,0,1,0,1,Hashimoto’s
+1,Loss,Normal,Normal,0,0,1,Normal,1,0,1,1,0,0,0,0,1,1,1,1,1,0,Hashimoto’s
+1,Gain,Fast,Cold,0,0,0,Constipation,1,1,1,1,0,1,1,0,1,1,0,1,0,1,Hashimoto’s
+1,Gain,Fast,Cold,0,1,1,Normal,0,1,1,1,1,0,1,0,1,0,1,1,0,1,Hashimoto’s
+1,No Change,Fast,Cold,1,1,0,Constipation,0,0,0,0,1,1,0,0,1,0,1,1,0,1,Hashimoto’s
+1,No Change,Normal,Hot,0,0,0,Normal,0,1,1,1,0,1,0,0,1,1,0,1,1,1,Hashimoto’s
+1,Gain,Slow,Cold,1,1,1,Constipation,0,0,1,0,1,0,0,1,0,1,1,1,0,1,Hashimoto’s
+1,No Change,Normal,Cold,0,0,0,Constipation,1,0,0,1,0,0,1,1,0,0,1,1,0,0,Hashimoto’s
+1,Loss,Normal,Normal,1,0,0,Normal,0,0,1,0,0,1,1,0,0,0,0,1,0,1,Hashimoto’s
+1,No Change,Slow,Cold,1,1,1,Normal,1,1,1,0,1,1,0,1,1,0,1,1,1,0,Hashimoto’s
+1,No Change,Fast,Cold,0,0,1,Normal,0,0,0,1,0,1,0,1,1,1,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Cold,0,1,1,Normal,0,1,1,0,0,1,0,1,0,1,0,1,1,1,Hashimoto’s
+1,No Change,Slow,Cold,0,0,1,Diarrhea,0,1,0,0,1,0,0,1,1,0,0,1,0,1,Hashimoto’s
+1,Loss,Fast,Normal,0,1,1,Normal,1,1,1,1,0,1,0,0,1,1,0,1,1,1,Hashimoto’s
+1,No Change,Fast,Normal,0,0,1,Normal,0,0,1,1,0,1,1,1,0,0,1,1,0,0,Hashimoto’s
+1,Gain,Normal,Hot,1,1,0,Normal,1,1,0,1,0,1,0,1,0,1,1,1,1,0,Hashimoto’s
+1,No Change,Fast,Cold,0,0,1,Constipation,1,1,1,1,0,1,1,1,1,1,0,1,0,0,Hashimoto’s
+1,Gain,Fast,Hot,0,0,1,Normal,0,0,1,0,1,1,0,0,1,0,1,1,1,1,Hashimoto’s
+1,Gain,Slow,Hot,1,1,0,Constipation,1,0,1,0,0,0,0,1,0,0,0,1,0,0,Hashimoto’s
+1,Gain,Slow,Cold,0,0,1,Constipation,0,1,0,0,1,0,1,0,1,0,0,1,0,0,Hashimoto’s
+1,Gain,Fast,Normal,1,1,0,Constipation,1,1,0,0,0,0,0,0,0,1,0,1,1,0,Hashimoto’s
+1,Gain,Slow,Normal,0,1,1,Constipation,0,0,0,0,1,0,1,0,0,1,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Cold,1,0,1,Diarrhea,1,1,0,0,0,0,1,0,0,0,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Cold,0,0,0,Normal,1,1,0,1,1,1,0,1,1,1,0,1,1,0,Hashimoto’s
+1,Loss,Slow,Normal,1,0,1,Constipation,0,1,1,0,0,0,0,0,0,0,0,1,0,1,Hashimoto’s
+1,Gain,Fast,Cold,1,0,0,Normal,0,1,0,0,0,0,1,0,0,1,1,1,0,1,Hashimoto’s
+1,No Change,Fast,Cold,0,1,1,Constipation,0,0,0,0,0,1,1,0,1,0,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Cold,0,0,1,Diarrhea,0,1,0,1,0,0,0,0,0,1,1,1,1,0,Hashimoto’s
+1,No Change,Slow,Normal,0,0,0,Constipation,1,0,1,1,1,0,1,0,1,1,0,1,1,0,Hashimoto’s
+1,No Change,Normal,Hot,1,0,1,Normal,1,1,1,1,1,0,0,1,1,1,0,1,0,0,Hashimoto’s
+1,Gain,Fast,Hot,1,1,1,Normal,1,0,0,1,0,0,1,0,1,1,1,1,1,1,Hashimoto’s
+1,Gain,Normal,Cold,1,0,0,Diarrhea,1,1,1,0,1,1,0,1,0,0,1,1,0,0,Hashimoto’s
+1,Gain,Normal,Normal,0,1,1,Normal,0,0,1,0,0,1,1,1,0,1,1,1,0,1,Hashimoto’s
+1,Loss,Normal,Cold,0,0,0,Normal,1,1,1,0,0,0,1,0,1,0,1,1,1,1,Hashimoto’s
+1,Gain,Slow,Normal,1,1,1,Constipation,0,0,1,1,1,1,0,1,1,0,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Cold,0,0,0,Normal,1,1,0,0,1,0,1,1,1,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Normal,1,0,1,Constipation,0,1,0,0,1,1,1,1,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Normal,0,1,0,Diarrhea,0,0,1,0,0,1,1,0,1,1,1,1,0,1,Hashimoto’s
+1,Loss,Normal,Hot,0,0,0,Normal,0,0,1,1,0,1,1,0,1,0,1,1,0,1,Hashimoto’s
+1,Gain,Normal,Cold,1,0,1,Constipation,0,0,1,1,1,1,1,0,1,1,0,1,1,0,Hashimoto’s
+1,Loss,Fast,Hot,0,0,1,Normal,0,0,1,1,0,1,1,0,0,1,0,1,0,1,Hashimoto’s
+1,Gain,Normal,Hot,0,1,0,Constipation,1,0,0,0,1,1,1,0,1,1,1,1,1,0,Hashimoto’s
+1,Gain,Fast,Normal,0,0,1,Diarrhea,0,1,1,0,1,1,0,0,0,1,1,1,1,0,Hashimoto’s
+1,Loss,Normal,Cold,0,1,0,Constipation,1,0,0,0,1,1,1,0,0,0,0,1,1,0,Hashimoto’s
+1,Gain,Normal,Normal,0,1,1,Normal,1,0,1,0,1,1,1,1,1,1,1,1,0,1,Hashimoto’s
+1,No Change,Normal,Normal,1,1,1,Constipation,0,1,0,1,1,1,0,1,1,0,0,1,0,1,Hashimoto’s
+1,Gain,Normal,Normal,0,0,0,Normal,1,0,1,0,1,1,1,0,1,1,0,1,1,0,Hashimoto’s
+1,Gain,Fast,Cold,1,1,0,Diarrhea,1,0,0,1,0,0,1,1,0,1,1,1,1,0,Hashimoto’s
+1,Loss,Fast,Cold,0,1,1,Constipation,1,0,0,0,0,1,0,0,0,0,0,1,1,1,Hashimoto’s
+1,Loss,Normal,Normal,0,0,1,Normal,0,1,0,1,1,0,1,0,0,1,0,1,1,0,Hashimoto’s
+1,Gain,Normal,Cold,1,1,1,Normal,0,0,1,0,1,1,1,0,1,1,0,1,0,1,Hashimoto’s
+1,Loss,Fast,Normal,1,1,1,Normal,0,1,0,0,1,0,0,1,0,1,1,1,1,0,Hashimoto’s
+1,No Change,Slow,Cold,0,0,1,Constipation,0,1,1,1,0,0,0,0,1,1,0,1,0,1,Hashimoto’s
+1,No Change,Slow,Cold,0,0,0,Constipation,1,0,0,1,1,0,1,0,1,1,1,1,0,0,Hashimoto’s
+1,Loss,Slow,Hot,1,1,1,Constipation,1,1,0,0,1,1,1,0,1,0,0,1,0,1,Hashimoto’s
+1,Gain,Fast,Normal,1,0,1,Diarrhea,1,0,1,0,1,1,0,0,0,1,0,1,0,0,Hashimoto’s
+1,No Change,Fast,Hot,1,0,0,Normal,1,0,0,0,0,1,1,1,0,1,0,1,1,1,Hashimoto’s
+1,No Change,Slow,Hot,1,0,0,Normal,1,0,1,1,1,1,0,0,0,0,0,1,0,1,Hashimoto’s
+1,Gain,Slow,Normal,0,1,0,Diarrhea,1,0,1,0,0,0,0,1,1,1,0,1,1,1,Hashimoto’s
+1,Loss,Normal,Normal,0,1,1,Diarrhea,0,0,1,1,0,1,0,1,0,0,1,1,0,1,Hashimoto’s
+1,No Change,Fast,Cold,0,0,0,Constipation,1,1,1,0,1,1,1,0,0,1,1,1,1,0,Hashimoto’s
+1,Gain,Fast,Normal,0,1,0,Constipation,1,1,0,0,0,1,0,0,1,1,0,1,1,1,Hashimoto’s
+1,Gain,Slow,Hot,0,0,0,Constipation,1,1,0,0,0,1,0,1,1,0,1,1,1,1,Hashimoto’s
+1,No Change,Slow,Hot,1,0,0,Constipation,0,1,1,0,0,1,0,1,0,1,1,1,1,0,Hashimoto’s
+1,Loss,Fast,Normal,1,0,1,Constipation,1,0,0,1,1,1,1,1,1,1,0,1,1,1,Hashimoto’s
+1,No Change,Normal,Hot,1,0,1,Constipation,1,0,0,1,0,1,1,1,0,0,1,1,0,0,Hashimoto’s
+1,Gain,Slow,Cold,0,0,1,Diarrhea,0,1,1,0,1,1,1,0,1,0,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Hot,1,1,0,Diarrhea,1,0,0,0,1,0,0,1,1,1,1,1,0,1,Hashimoto’s
+1,Loss,Fast,Cold,0,1,0,Diarrhea,0,1,1,0,1,0,1,1,0,0,1,1,1,1,Hashimoto’s
+1,Gain,Normal,Hot,0,1,0,Normal,0,1,0,1,0,1,1,1,1,1,0,1,0,1,Hashimoto’s
+1,Loss,Normal,Cold,0,1,0,Normal,1,1,0,0,1,1,0,1,1,0,1,1,0,1,Hashimoto’s
+1,No Change,Slow,Cold,1,0,0,Constipation,1,1,1,1,0,1,0,0,1,1,0,1,0,1,Hashimoto’s
+1,No Change,Slow,Normal,0,0,0,Diarrhea,0,0,0,1,0,1,1,0,0,0,0,1,1,0,Hashimoto’s
+1,Loss,Slow,Cold,0,1,1,Normal,1,0,0,1,0,0,1,0,1,0,1,1,0,0,Hashimoto’s
+1,No Change,Fast,Normal,1,1,1,Normal,1,1,1,1,0,0,0,1,1,0,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Hot,0,0,0,Diarrhea,0,1,0,0,1,1,1,1,0,0,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Hot,1,0,1,Normal,0,1,1,0,1,0,0,0,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Hot,0,0,0,Normal,1,1,0,1,0,0,0,0,1,0,1,1,0,0,Hashimoto’s
+1,Loss,Normal,Cold,1,1,0,Diarrhea,0,1,1,0,1,1,1,1,1,0,1,1,1,1,Hashimoto’s
+1,Gain,Normal,Hot,0,0,1,Normal,1,0,1,0,1,1,1,0,1,0,0,1,1,1,Hashimoto’s
+1,Gain,Fast,Hot,0,0,0,Diarrhea,1,1,1,0,1,1,1,1,0,0,1,1,1,1,Hashimoto’s
+1,Loss,Normal,Normal,1,1,1,Normal,1,1,1,1,0,0,1,1,1,1,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Normal,0,1,0,Diarrhea,1,0,1,0,1,0,0,1,0,0,1,1,1,1,Hashimoto’s
+1,No Change,Fast,Hot,1,1,0,Normal,0,0,0,0,0,1,1,1,0,1,1,1,1,1,Hashimoto’s
+1,No Change,Normal,Hot,0,0,1,Normal,1,0,0,0,1,1,1,1,1,0,0,1,0,0,Hashimoto’s
+1,Loss,Fast,Cold,1,0,0,Diarrhea,0,0,1,0,0,0,1,1,1,1,0,1,1,1,Hashimoto’s
+1,Loss,Normal,Cold,0,1,0,Normal,1,0,0,0,0,0,0,0,0,1,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Hot,0,0,0,Diarrhea,1,0,1,0,0,1,1,0,1,0,1,1,0,0,Hashimoto’s
+1,Loss,Slow,Normal,0,0,1,Diarrhea,0,0,0,0,1,0,1,0,1,0,0,1,0,0,Hashimoto’s
+1,Gain,Normal,Hot,1,0,0,Normal,1,0,0,0,0,1,0,1,0,1,1,1,0,0,Hashimoto’s
+1,Loss,Normal,Cold,1,1,0,Constipation,0,0,1,0,1,1,0,0,1,1,1,1,1,0,Hashimoto’s
+1,No Change,Normal,Normal,1,1,0,Normal,0,1,1,0,0,0,0,1,0,0,1,1,0,1,Hashimoto’s
+1,Gain,Normal,Normal,1,0,1,Constipation,1,0,0,1,1,0,0,1,1,0,0,1,0,0,Hashimoto’s
+1,No Change,Slow,Cold,1,0,1,Constipation,1,1,0,0,0,0,0,1,0,0,0,1,1,0,Hashimoto’s
+1,Loss,Fast,Hot,0,0,1,Normal,1,1,1,1,1,1,1,1,0,1,0,1,1,1,Hashimoto’s
+1,Gain,Fast,Hot,0,0,1,Constipation,1,1,0,0,0,1,0,0,1,0,0,1,1,0,Hashimoto’s
+1,Loss,Slow,Hot,0,1,1,Diarrhea,0,1,0,1,0,1,0,0,0,0,1,1,1,0,Hashimoto’s
+1,Gain,Fast,Cold,0,1,0,Diarrhea,1,1,1,1,0,1,0,0,0,0,0,1,0,1,Hashimoto’s
+1,No Change,Slow,Normal,0,0,1,Constipation,1,1,0,0,1,1,0,1,1,0,0,1,1,1,Hashimoto’s
+1,Loss,Fast,Cold,1,0,1,Diarrhea,1,1,1,1,0,1,0,0,1,0,0,1,0,1,Hashimoto’s
+1,Loss,Normal,Hot,0,1,0,Normal,1,1,1,1,0,0,0,0,1,1,0,1,1,1,Hashimoto’s
+1,Gain,Normal,Cold,1,0,1,Diarrhea,1,0,1,1,0,1,0,0,0,1,1,1,0,1,Hashimoto’s
+1,Gain,Normal,Normal,0,1,0,Constipation,0,1,0,0,0,1,0,1,0,0,0,1,1,1,Hashimoto’s
+1,Loss,Slow,Cold,1,0,1,Normal,1,1,0,1,1,1,1,0,0,0,0,1,1,1,Hashimoto’s
+1,Gain,Slow,Hot,1,1,0,Diarrhea,0,1,1,1,0,1,1,1,1,1,0,1,1,0,Hashimoto’s
+1,Loss,Fast,Normal,1,0,0,Normal,1,1,1,0,0,0,1,0,0,0,1,1,0,0,Hashimoto’s
+1,Gain,Fast,Cold,0,0,1,Constipation,1,0,0,1,1,1,0,1,0,1,0,1,0,1,Hashimoto’s
+1,No Change,Fast,Cold,0,1,1,Diarrhea,1,1,0,1,1,0,0,0,1,0,0,1,0,0,Hashimoto’s
+1,Gain,Slow,Normal,0,1,0,Normal,0,0,0,1,1,0,0,0,0,1,0,1,1,1,Hashimoto’s
+1,No Change,Fast,Normal,0,0,0,Normal,1,0,1,0,0,1,1,0,1,1,1,1,0,0,Hashimoto’s
+1,Gain,Normal,Hot,1,0,0,Diarrhea,0,1,1,1,1,1,0,1,1,0,1,1,1,1,Hashimoto’s
+1,Gain,Fast,Normal,1,1,0,Normal,0,1,0,0,1,0,0,0,1,1,0,1,1,0,Hashimoto’s
+1,Loss,Normal,Hot,1,1,0,Normal,1,0,0,1,1,0,0,0,0,0,0,1,1,1,Hashimoto’s
+1,Gain,Slow,Cold,1,0,0,Constipation,0,1,0,1,0,1,1,1,0,1,1,1,0,0,Hashimoto’s
+1,Gain,Normal,Hot,0,0,0,Constipation,1,1,1,1,0,0,1,1,0,0,1,1,1,1,Hashimoto’s
+1,No Change,Normal,Cold,1,1,1,Constipation,1,0,1,1,0,1,0,1,1,0,1,1,0,0,Hashimoto’s
+1,Gain,Normal,Normal,0,1,0,Constipation,0,0,0,0,1,1,1,1,1,0,1,1,1,0,Hashimoto’s
+1,Loss,Slow,Cold,1,1,1,Constipation,1,1,0,1,0,0,0,0,1,1,1,1,1,1,Hashimoto’s
+1,No Change,Slow,Normal,1,1,1,Constipation,1,1,1,0,1,1,0,0,0,0,0,1,1,0,Hashimoto’s
+1,Loss,Slow,Cold,1,1,0,Diarrhea,0,1,1,1,1,1,1,1,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Slow,Cold,0,0,0,Constipation,0,0,0,0,1,1,1,0,0,0,0,1,0,0,Hashimoto’s
+1,Loss,Fast,Cold,0,0,1,Normal,0,1,0,1,0,0,1,1,0,1,0,1,1,0,Hashimoto’s
+1,Loss,Slow,Cold,1,1,0,Diarrhea,0,0,0,1,1,0,1,0,0,0,1,1,0,0,Hashimoto’s
+1,No Change,Normal,Hot,1,0,0,Normal,0,0,1,0,1,0,0,1,1,1,1,1,0,1,Hashimoto’s
+1,Gain,Normal,Cold,1,1,0,Diarrhea,1,1,1,0,1,0,1,0,1,0,1,0,1,0,Graves’ Disease
+0,No Change,Slow,Normal,1,0,0,Normal,1,1,0,1,1,1,0,0,1,1,0,1,0,0,Graves’ Disease
+1,Loss,Fast,Hot,1,0,0,Normal,1,1,0,0,1,1,1,0,0,0,0,0,0,0,Graves’ Disease
+0,Gain,Slow,Cold,1,1,1,Diarrhea,1,1,1,1,0,0,0,0,0,1,1,0,0,0,Graves’ Disease
+1,No Change,Fast,Hot,1,1,0,Diarrhea,1,1,0,0,0,1,0,1,0,1,1,1,1,0,Graves’ Disease
+0,Loss,Slow,Hot,1,1,0,Diarrhea,1,1,0,1,1,0,1,0,0,1,1,1,0,1,Graves’ Disease
+0,No Change,Normal,Hot,1,0,0,Diarrhea,1,1,0,0,0,0,0,0,0,1,1,1,0,0,Graves’ Disease
+0,No Change,Slow,Cold,1,1,1,Normal,1,1,0,1,0,0,1,0,0,1,1,0,1,1,Graves’ Disease
+0,No Change,Slow,Normal,1,0,0,Constipation,1,1,1,0,1,1,0,1,1,0,1,0,1,0,Graves’ Disease
+1,Gain,Normal,Cold,1,1,0,Diarrhea,1,1,0,1,0,1,0,0,0,1,0,0,0,1,Graves’ Disease
+1,Loss,Normal,Hot,1,0,1,Diarrhea,1,1,0,1,0,0,0,1,1,0,1,0,0,1,Graves’ Disease
+1,Loss,Slow,Cold,1,0,0,Normal,1,1,1,0,0,1,0,0,0,0,1,1,0,0,Graves’ Disease
+0,Loss,Normal,Cold,1,1,0,Diarrhea,1,1,0,1,0,1,1,0,1,0,0,1,0,0,Graves’ Disease
+1,Loss,Normal,Hot,1,0,0,Diarrhea,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Graves’ Disease
+1,Gain,Fast,Hot,1,0,1,Normal,1,1,1,0,1,1,1,1,1,1,0,1,0,0,Graves’ Disease
+0,No Change,Normal,Cold,1,1,1,Diarrhea,1,1,1,0,0,1,0,1,1,1,0,1,0,0,Graves’ Disease
+0,Loss,Normal,Cold,1,0,0,Diarrhea,1,1,1,0,0,0,1,0,1,1,0,1,1,0,Graves’ Disease
+0,Gain,Slow,Cold,1,1,0,Normal,1,1,1,0,1,1,1,1,0,1,0,1,0,1,Graves’ Disease
+1,No Change,Slow,Cold,1,0,0,Constipation,1,1,0,0,1,0,0,1,0,0,1,0,1,1,Graves’ Disease
+1,Gain,Fast,Normal,1,0,0,Diarrhea,1,1,1,0,0,1,0,1,0,0,0,1,1,1,Graves’ Disease
+0,Gain,Slow,Cold,1,0,0,Diarrhea,1,1,0,1,1,1,1,1,1,0,0,1,1,1,Graves’ Disease
+1,Loss,Normal,Normal,1,0,0,Constipation,1,1,1,1,0,0,0,1,1,1,0,1,0,1,Graves’ Disease
+0,Loss,Normal,Hot,1,1,1,Normal,1,1,0,1,1,0,0,0,1,1,0,0,0,0,Graves’ Disease
+1,No Change,Normal,Normal,1,1,0,Constipation,1,1,1,0,0,1,0,1,0,1,1,1,1,0,Graves’ Disease
+0,No Change,Slow,Hot,1,1,0,Diarrhea,1,1,1,0,1,0,0,0,0,1,0,0,0,1,Graves’ Disease
+1,Loss,Normal,Normal,1,0,0,Constipation,1,1,0,1,0,0,0,1,1,0,0,0,0,1,Graves’ Disease
+1,Gain,Normal,Hot,1,0,1,Normal,1,1,1,1,1,1,0,1,0,1,1,1,1,0,Graves’ Disease
+1,Loss,Fast,Cold,1,1,0,Diarrhea,1,1,1,0,0,0,0,0,0,1,1,1,0,0,Graves’ Disease
+0,No Change,Fast,Normal,1,1,1,Normal,1,1,1,1,0,1,0,0,0,0,1,0,1,0,Graves’ Disease
+0,Gain,Fast,Normal,1,1,0,Normal,1,1,0,0,0,1,0,0,0,0,0,0,1,0,Graves’ Disease
+0,Gain,Slow,Hot,1,1,0,Constipation,1,1,1,0,1,0,1,0,1,1,1,0,1,1,Graves’ Disease
+1,Gain,Normal,Hot,1,0,0,Constipation,1,1,1,1,1,1,0,1,0,1,1,0,1,1,Graves’ Disease
+0,Loss,Normal,Normal,1,1,0,Normal,1,1,0,0,0,0,0,0,0,0,1,1,0,0,Graves’ Disease
+1,Loss,Normal,Hot,1,0,0,Normal,1,1,0,0,0,1,0,1,1,1,0,0,1,0,Graves’ Disease
+0,No Change,Fast,Cold,1,1,0,Diarrhea,1,1,1,0,0,0,0,1,1,0,0,1,0,1,Graves’ Disease
+0,Gain,Normal,Normal,1,0,1,Normal,1,1,0,0,0,0,0,1,0,0,1,1,0,1,Graves’ Disease
+1,Gain,Normal,Cold,1,1,0,Normal,1,1,0,1,1,1,1,0,0,1,0,0,0,1,Graves’ Disease
+1,Loss,Normal,Normal,1,1,0,Constipation,1,1,0,0,1,0,1,0,0,0,0,1,0,0,Graves’ Disease
+0,No Change,Normal,Cold,1,0,0,Normal,1,1,1,0,1,0,0,0,0,1,0,0,1,1,Graves’ Disease
+0,No Change,Normal,Normal,1,0,1,Normal,1,1,1,1,0,0,1,1,1,1,0,0,1,0,Graves’ Disease
+1,Gain,Slow,Hot,1,1,0,Constipation,1,1,0,0,0,1,0,0,1,1,0,0,1,0,Graves’ Disease
+1,Loss,Normal,Normal,1,0,1,Diarrhea,1,1,1,0,1,1,0,0,1,1,1,1,1,0,Graves’ Disease
+0,Gain,Slow,Cold,1,1,0,Constipation,1,1,0,1,1,0,1,1,0,0,1,1,1,1,Graves’ Disease
+1,Loss,Normal,Normal,1,0,0,Constipation,1,1,1,1,1,0,1,0,0,1,1,0,0,1,Graves’ Disease
+0,No Change,Slow,Cold,1,1,1,Normal,1,1,0,0,1,1,1,1,1,1,1,1,1,0,Graves’ Disease
+0,Gain,Normal,Cold,1,1,1,Normal,1,1,1,0,0,1,1,0,0,0,0,1,0,1,Graves’ Disease
+0,Gain,Normal,Cold,1,1,0,Diarrhea,1,1,0,1,0,1,1,0,1,1,1,1,0,0,Graves’ Disease
+1,Gain,Normal,Hot,1,1,1,Normal,1,1,1,0,0,0,0,0,1,1,1,1,1,1,Graves’ Disease
+0,No Change,Normal,Normal,1,1,1,Diarrhea,1,1,1,0,1,1,0,0,1,1,0,1,0,0,Graves’ Disease
+0,Gain,Fast,Cold,1,1,0,Diarrhea,1,1,0,0,0,0,0,0,1,1,0,0,0,0,Graves’ Disease
+1,No Change,Normal,Hot,1,1,0,Diarrhea,1,1,1,1,1,1,1,1,1,0,0,1,1,1,Graves’ Disease
+1,Loss,Slow,Cold,1,1,0,Diarrhea,1,1,1,0,1,0,0,0,1,0,0,1,1,1,Graves’ Disease
+1,No Change,Fast,Normal,1,0,1,Normal,1,1,1,1,1,1,1,0,1,1,1,0,1,0,Graves’ Disease
+0,Loss,Fast,Hot,1,0,0,Constipation,1,1,1,1,1,0,0,0,0,0,0,1,0,1,Graves’ Disease
+1,No Change,Normal,Cold,1,0,0,Constipation,1,1,1,1,1,1,1,0,1,0,0,1,1,0,Graves’ Disease
+1,No Change,Slow,Cold,1,1,1,Normal,1,1,1,1,0,1,1,0,1,0,0,1,1,0,Graves’ Disease
+0,Gain,Slow,Cold,1,1,1,Normal,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Graves’ Disease
+0,No Change,Fast,Normal,1,1,0,Diarrhea,1,1,1,1,0,1,0,0,1,1,0,1,1,0,Graves’ Disease
+0,Gain,Slow,Hot,1,0,1,Normal,1,1,0,0,1,1,0,1,0,0,0,1,0,0,Graves’ Disease
+0,Loss,Normal,Hot,1,0,1,Constipation,1,1,1,1,0,1,0,1,1,1,1,0,0,0,Graves’ Disease
+1,Loss,Normal,Hot,1,0,1,Normal,1,1,0,1,1,1,1,0,0,1,1,0,1,0,Graves’ Disease
+0,Gain,Normal,Cold,1,0,0,Normal,1,1,1,0,0,0,0,1,0,0,1,1,0,0,Graves’ Disease
+1,Loss,Normal,Hot,1,0,0,Diarrhea,1,1,0,1,1,0,1,0,0,1,0,0,0,1,Graves’ Disease
+0,No Change,Normal,Cold,1,1,0,Diarrhea,1,1,1,1,1,1,0,1,1,0,0,0,1,1,Graves’ Disease
+0,Gain,Fast,Normal,1,0,1,Diarrhea,1,1,0,0,0,0,0,0,0,1,1,0,1,0,Graves’ Disease
+1,Gain,Normal,Hot,1,1,0,Diarrhea,1,1,0,1,1,0,0,0,1,1,1,1,1,0,Graves’ Disease
+1,Gain,Normal,Cold,1,1,0,Constipation,1,1,1,1,0,0,0,1,1,0,1,1,0,0,Graves’ Disease
+1,Loss,Fast,Hot,1,1,1,Normal,1,1,0,1,0,0,0,0,1,1,1,0,0,1,Graves’ Disease
+0,Loss,Fast,Hot,1,0,1,Normal,1,1,1,0,0,0,1,1,1,0,0,0,1,0,Graves’ Disease
+0,No Change,Fast,Normal,1,0,0,Diarrhea,1,1,1,1,1,1,0,0,1,1,1,0,1,0,Graves’ Disease
+1,No Change,Slow,Hot,1,1,1,Constipation,1,1,0,0,1,0,1,0,1,1,0,0,1,0,Graves’ Disease
+1,Gain,Slow,Normal,1,0,0,Constipation,1,1,1,0,1,1,0,0,1,0,0,1,0,1,Graves’ Disease
+0,No Change,Normal,Hot,1,0,0,Normal,1,1,0,0,1,0,1,0,0,0,0,0,1,1,Graves’ Disease
+1,Loss,Normal,Hot,1,1,0,Diarrhea,1,1,0,1,0,1,0,1,1,0,1,1,0,1,Graves’ Disease
+1,No Change,Normal,Hot,1,1,1,Normal,1,1,1,1,1,1,0,0,1,1,1,0,1,0,Graves’ Disease
+0,Loss,Slow,Hot,1,1,1,Normal,1,1,1,1,0,1,0,1,0,0,1,1,0,0,Graves’ Disease
+1,No Change,Normal,Hot,1,1,0,Constipation,1,1,1,1,0,0,1,1,1,0,0,1,0,1,Graves’ Disease
+0,Loss,Normal,Hot,1,1,0,Constipation,1,1,1,0,1,0,1,0,0,0,0,0,1,0,Graves’ Disease
+0,Loss,Slow,Normal,1,0,0,Normal,1,1,1,0,1,1,0,0,0,0,1,1,0,1,Graves’ Disease
+0,No Change,Fast,Normal,1,1,0,Diarrhea,1,1,0,1,0,1,0,1,1,1,0,1,0,1,Graves’ Disease
+1,No Change,Slow,Cold,1,0,1,Diarrhea,1,1,0,1,1,0,0,1,1,1,1,1,1,0,Graves’ Disease
+1,Loss,Normal,Hot,1,0,0,Normal,1,1,1,0,0,0,1,0,0,1,0,0,1,0,Graves’ Disease
+1,Gain,Slow,Normal,1,1,0,Normal,1,1,1,1,1,1,0,1,1,1,0,1,0,0,Graves’ Disease
+1,No Change,Fast,Hot,1,1,1,Diarrhea,1,1,1,1,1,0,1,1,0,1,0,1,0,0,Graves’ Disease
+0,Loss,Fast,Hot,1,0,0,Diarrhea,1,1,0,1,0,0,0,1,0,1,0,0,0,1,Graves’ Disease
+0,No Change,Fast,Normal,1,1,0,Diarrhea,1,1,0,1,0,0,1,0,1,0,0,0,1,1,Graves’ Disease
+1,No Change,Fast,Hot,1,0,0,Normal,1,1,0,1,0,0,1,1,0,1,0,1,0,1,Graves’ Disease
+1,No Change,Fast,Normal,1,1,0,Constipation,1,1,1,1,1,0,1,1,1,0,0,1,0,1,Graves’ Disease
+1,No Change,Fast,Normal,1,1,0,Diarrhea,1,1,1,0,1,0,0,1,1,0,1,0,1,1,Graves’ Disease
+1,No Change,Normal,Cold,1,0,1,Diarrhea,1,1,0,0,1,1,1,1,0,0,0,0,1,1,Graves’ Disease
+0,Gain,Normal,Cold,1,0,1,Diarrhea,1,1,1,0,0,1,0,0,0,0,0,1,1,0,Graves’ Disease
+1,Gain,Slow,Cold,1,1,1,Normal,1,1,1,0,0,1,1,0,1,1,1,1,1,1,Graves’ Disease
+0,Gain,Normal,Cold,1,1,1,Constipation,1,1,0,1,1,1,0,1,1,1,1,0,1,0,Graves’ Disease
+1,Loss,Fast,Hot,1,1,0,Constipation,1,1,0,1,0,1,1,1,1,1,1,0,0,0,Graves’ Disease
+1,Gain,Normal,Hot,1,0,1,Diarrhea,1,1,1,0,1,1,1,1,0,0,1,1,0,1,Graves’ Disease
+1,Gain,Slow,Cold,1,1,1,Normal,1,1,0,0,0,0,0,0,1,1,0,1,0,1,Graves’ Disease
+0,Loss,Fast,Normal,1,1,1,Constipation,1,1,1,0,1,0,0,0,0,1,0,0,1,0,Graves’ Disease
+1,Gain,Normal,Normal,1,1,1,Normal,1,1,0,0,1,1,1,1,0,1,1,1,1,0,Graves’ Disease
+0,No Change,Normal,Normal,1,1,1,Constipation,1,1,0,0,1,1,1,1,0,1,0,1,1,1,Graves’ Disease
+0,Gain,Slow,Normal,1,0,1,Diarrhea,1,1,1,1,0,1,0,0,1,1,1,1,0,1,Graves’ Disease
+1,Gain,Fast,Hot,1,0,1,Normal,1,1,1,1,0,0,1,1,0,1,0,1,1,0,Graves’ Disease
+0,Gain,Slow,Normal,1,0,1,Diarrhea,1,1,0,0,1,0,1,1,1,0,0,0,1,1,Graves’ Disease
+0,No Change,Fast,Normal,1,1,0,Constipation,1,1,1,0,1,0,0,0,0,0,0,0,1,1,Graves’ Disease
+0,No Change,Fast,Cold,1,1,1,Constipation,1,1,0,1,1,0,0,0,1,1,0,1,0,1,Graves’ Disease
+1,No Change,Normal,Normal,1,1,0,Diarrhea,1,1,1,1,1,1,0,0,1,0,0,1,1,1,Graves’ Disease
+0,No Change,Slow,Hot,1,0,1,Constipation,1,1,0,1,1,1,1,0,0,0,1,1,1,1,Graves’ Disease
+0,Loss,Slow,Normal,1,0,1,Diarrhea,1,1,0,0,1,1,1,0,1,1,0,1,0,0,Graves’ Disease
+1,No Change,Slow,Normal,1,0,1,Diarrhea,1,1,0,1,0,1,1,1,0,0,0,0,1,1,Graves’ Disease
+1,No Change,Fast,Hot,1,0,0,Diarrhea,1,1,1,0,0,0,0,0,0,1,0,1,1,1,Graves’ Disease
+0,No Change,Slow,Cold,1,1,0,Constipation,1,1,0,0,0,0,1,0,0,0,0,1,1,0,Graves’ Disease
+0,No Change,Fast,Hot,1,0,1,Normal,1,1,0,1,0,1,0,0,0,1,0,0,0,0,Graves’ Disease
+0,Loss,Slow,Cold,1,0,0,Diarrhea,1,1,0,1,1,0,0,0,0,0,1,0,1,1,Graves’ Disease
+0,Gain,Slow,Normal,1,1,1,Normal,1,1,0,1,1,0,1,0,0,0,0,1,1,1,Graves’ Disease
+1,Gain,Normal,Cold,1,0,0,Constipation,1,1,1,0,1,0,0,0,0,0,1,0,0,0,Graves’ Disease
+1,No Change,Slow,Cold,1,1,0,Constipation,1,1,1,1,0,0,1,1,1,0,0,0,0,1,Graves’ Disease
+0,No Change,Normal,Cold,1,1,0,Normal,1,1,0,1,0,1,0,0,0,1,0,1,1,1,Graves’ Disease
+1,No Change,Normal,Normal,1,1,1,Diarrhea,1,1,0,0,1,0,0,1,0,0,1,1,0,1,Graves’ Disease
+0,Gain,Fast,Cold,1,1,0,Constipation,1,1,1,1,0,1,0,1,1,1,0,0,1,0,Graves’ Disease
+1,Gain,Slow,Cold,1,1,0,Diarrhea,1,1,0,1,0,0,1,0,1,1,0,1,0,1,Graves’ Disease
+1,No Change,Slow,Normal,1,0,1,Diarrhea,1,1,1,0,1,0,0,0,0,0,1,0,1,1,Graves’ Disease
+0,Gain,Slow,Hot,1,0,0,Normal,1,1,0,0,1,1,1,1,0,0,0,0,1,0,Graves’ Disease
+0,Loss,Normal,Hot,1,1,1,Constipation,1,1,1,0,1,1,0,1,0,1,1,0,1,1,Graves’ Disease
+0,No Change,Slow,Hot,1,0,1,Normal,1,1,0,0,0,0,0,1,1,0,1,1,0,1,Graves’ Disease
+0,No Change,Fast,Normal,1,1,0,Constipation,1,1,1,0,1,0,0,0,0,1,1,1,0,1,Graves’ Disease
+1,Loss,Fast,Normal,1,0,1,Normal,1,1,1,1,1,1,1,1,1,0,0,0,1,1,Graves’ Disease
+1,Loss,Slow,Hot,1,0,0,Constipation,1,1,1,1,1,0,1,0,0,1,0,0,1,0,Graves’ Disease
+0,Gain,Normal,Cold,1,0,0,Constipation,1,1,0,0,0,0,1,0,0,0,1,1,1,0,Graves’ Disease
+1,Loss,Fast,Hot,1,0,1,Constipation,1,1,1,1,0,1,1,1,1,0,0,0,1,1,Graves’ Disease
+1,No Change,Fast,Normal,1,0,0,Diarrhea,1,1,1,1,1,0,1,0,0,1,1,0,0,1,Graves’ Disease
+0,Gain,Normal,Cold,1,0,0,Diarrhea,1,1,0,0,1,0,0,0,0,1,0,1,0,1,Graves’ Disease
+0,Loss,Fast,Cold,1,0,1,Normal,1,1,0,0,0,0,0,1,0,1,1,1,1,1,Graves’ Disease
+1,Gain,Normal,Normal,1,1,1,Normal,1,1,0,0,0,0,1,1,1,0,0,1,0,0,Graves’ Disease
+0,Gain,Fast,Cold,1,1,0,Constipation,1,1,0,1,1,0,1,0,0,0,1,1,0,0,Graves’ Disease
+0,Gain,Normal,Hot,1,1,1,Constipation,1,1,1,0,0,1,1,1,0,0,0,0,0,0,Graves’ Disease
+1,Gain,Fast,Normal,1,0,1,Diarrhea,1,1,0,1,1,0,1,0,1,0,1,1,1,1,Graves’ Disease
+1,Loss,Slow,Normal,1,0,1,Diarrhea,1,1,0,1,1,1,0,1,1,1,0,1,1,1,Graves’ Disease
+0,No Change,Fast,Normal,1,1,1,Diarrhea,1,1,0,1,0,1,1,1,0,1,1,0,0,1,Graves’ Disease
+1,No Change,Fast,Normal,1,1,0,Normal,1,1,0,1,1,0,1,1,0,0,0,0,0,0,Graves’ Disease
+0,Loss,Slow,Cold,1,0,0,Diarrhea,1,1,0,0,1,1,1,1,1,0,0,0,1,0,Graves’ Disease
+0,No Change,Slow,Normal,1,1,1,Normal,1,1,0,1,0,0,1,0,0,0,1,1,1,0,Graves’ Disease
+1,Gain,Slow,Normal,1,1,0,Diarrhea,1,1,0,0,1,1,0,1,0,1,0,0,1,0,Graves’ Disease
+1,Gain,Slow,Cold,1,1,1,Diarrhea,1,1,1,1,0,1,0,0,1,1,0,1,0,0,Graves’ Disease
+0,Gain,Normal,Normal,1,1,1,Constipation,1,1,1,0,1,1,1,0,0,0,0,0,0,1,Graves’ Disease
+0,Loss,Normal,Cold,1,0,0,Normal,1,1,1,0,1,0,0,1,0,1,0,1,0,1,Graves’ Disease
+0,Gain,Fast,Cold,1,1,0,Diarrhea,1,1,1,0,0,1,0,1,1,0,1,0,1,1,Graves’ Disease
+1,Gain,Fast,Normal,1,1,0,Constipation,1,1,1,1,0,1,1,1,0,0,0,1,1,0,Graves’ Disease
+0,Loss,Fast,Hot,1,1,0,Normal,1,1,0,1,0,1,1,1,0,1,0,1,1,1,Graves’ Disease
+1,Gain,Normal,Normal,1,1,1,Normal,1,1,0,1,0,0,0,1,0,1,1,0,1,1,Graves’ Disease
+0,Gain,Fast,Hot,1,0,1,Diarrhea,1,1,0,0,0,0,0,0,1,1,0,0,1,0,Graves’ Disease
+1,No Change,Fast,Cold,1,1,0,Normal,1,1,0,1,0,1,0,1,0,1,1,1,0,0,Graves’ Disease
+0,Loss,Normal,Hot,1,1,1,Constipation,1,1,1,1,1,1,0,0,1,0,0,0,0,0,Graves’ Disease
+1,Gain,Fast,Normal,1,1,0,Constipation,1,1,1,1,0,1,0,0,1,1,1,1,0,1,Graves’ Disease
+0,Gain,Normal,Normal,1,1,0,Normal,1,1,0,0,1,1,1,0,0,1,0,1,1,0,Graves’ Disease
+0,Gain,Normal,Hot,1,1,0,Constipation,1,1,0,1,0,0,0,0,1,1,1,1,0,1,Graves’ Disease
+0,Gain,Slow,Normal,1,0,1,Normal,1,1,1,1,1,0,0,1,0,1,1,0,1,1,Graves’ Disease
+0,No Change,Slow,Hot,1,1,1,Constipation,1,1,1,0,1,0,0,1,0,0,1,1,0,0,Graves’ Disease
+1,No Change,Normal,Cold,1,1,0,Normal,1,1,1,0,0,1,0,0,0,0,0,1,0,1,Graves’ Disease
+1,No Change,Normal,Hot,1,0,0,Normal,1,1,0,0,1,0,0,0,1,1,1,1,1,0,Graves’ Disease
+1,No Change,Slow,Hot,1,1,0,Normal,1,1,0,0,1,1,0,1,0,1,0,1,0,0,Graves’ Disease
+1,Loss,Fast,Hot,1,0,0,Constipation,1,1,1,0,1,1,0,0,0,0,1,0,0,1,Graves’ Disease
+1,Gain,Fast,Hot,1,1,1,Normal,1,1,1,0,0,1,0,1,0,0,1,0,0,1,Graves’ Disease
+0,No Change,Fast,Cold,1,0,1,Normal,1,1,0,1,0,0,1,0,1,1,1,1,0,1,Graves’ Disease
+1,Gain,Normal,Cold,1,0,0,Diarrhea,1,1,0,1,1,1,1,1,1,0,0,0,0,0,Graves’ Disease
+1,Loss,Slow,Cold,1,1,0,Diarrhea,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Graves’ Disease
+1,Gain,Fast,Hot,1,0,1,Normal,1,1,0,1,0,1,1,0,0,0,1,1,0,0,Graves’ Disease
+1,Gain,Slow,Cold,1,1,0,Diarrhea,1,1,1,0,1,0,1,0,0,0,1,0,1,0,Graves’ Disease
+0,No Change,Slow,Normal,1,0,1,Normal,1,1,1,1,1,1,1,1,0,1,1,0,0,1,Graves’ Disease
+0,No Change,Normal,Cold,1,0,1,Diarrhea,1,1,1,0,0,0,1,1,1,0,1,0,1,1,Graves’ Disease
+0,Loss,Fast,Hot,1,1,0,Constipation,1,1,0,0,0,1,1,1,1,0,1,0,0,1,Graves’ Disease
+0,Gain,Slow,Normal,1,0,1,Constipation,1,1,0,1,0,0,1,0,1,1,1,0,1,1,Graves’ Disease
+1,No Change,Normal,Hot,1,1,1,Normal,1,1,0,1,1,1,0,0,1,1,1,0,1,0,Graves’ Disease
+1,No Change,Normal,Normal,1,0,1,Normal,1,1,1,1,0,1,0,0,1,1,1,1,0,1,Graves’ Disease
+0,No Change,Normal,Hot,1,0,1,Constipation,1,1,1,1,0,1,1,0,1,0,0,0,1,0,Graves’ Disease
+0,Loss,Fast,Hot,1,1,0,Constipation,1,1,1,1,0,0,0,0,1,1,1,1,1,1,Graves’ Disease
+1,Gain,Fast,Normal,1,1,1,Diarrhea,1,1,0,1,1,1,1,0,0,0,0,1,0,1,Graves’ Disease
+1,No Change,Normal,Cold,1,0,1,Normal,1,1,0,1,1,1,0,1,0,1,1,1,1,1,Graves’ Disease
+0,Gain,Fast,Normal,1,1,1,Constipation,1,1,1,1,1,1,0,1,0,0,0,0,0,0,Graves’ Disease
+0,Loss,Fast,Normal,1,1,0,Constipation,1,1,0,0,0,0,0,1,0,1,0,0,1,1,Graves’ Disease
+0,Gain,Slow,Normal,1,0,0,Normal,1,1,1,1,0,1,1,0,0,1,1,1,1,0,Graves’ Disease
+0,No Change,Normal,Normal,1,0,0,Diarrhea,1,1,1,1,1,1,0,1,0,0,0,1,1,1,Graves’ Disease
+1,Gain,Normal,Normal,1,1,1,Diarrhea,1,1,1,0,0,0,0,0,1,1,0,1,1,1,Graves’ Disease
+1,Gain,Fast,Hot,1,0,0,Diarrhea,1,1,1,0,0,1,1,0,0,1,1,0,0,0,Graves’ Disease
+1,Loss,Normal,Hot,1,1,0,Diarrhea,1,1,0,0,0,0,1,1,1,1,1,0,0,0,Graves’ Disease
+0,Loss,Normal,Cold,1,1,0,Constipation,1,1,0,0,1,1,0,0,0,1,1,0,0,1,Graves’ Disease
+1,Gain,Normal,Cold,1,1,1,Normal,1,1,0,1,0,0,1,0,1,1,0,1,0,1,Graves’ Disease
+1,Gain,Fast,Normal,1,1,0,Normal,1,1,0,1,0,0,0,0,1,0,1,0,0,0,Graves’ Disease
+0,Gain,Fast,Cold,1,1,0,Constipation,1,1,0,0,1,0,0,0,0,0,0,0,1,1,Graves’ Disease
+0,Loss,Fast,Cold,1,1,0,Constipation,1,1,0,0,0,1,1,0,0,1,1,1,0,0,Graves’ Disease
+0,Loss,Slow,Normal,1,0,1,Constipation,1,1,1,1,1,1,1,1,0,1,1,0,1,1,Graves’ Disease
+0,Gain,Normal,Hot,1,1,1,Normal,1,1,0,1,0,0,0,1,0,0,0,1,0,0,Graves’ Disease
+0,Loss,Slow,Hot,1,0,0,Normal,1,1,0,1,1,1,1,0,0,0,0,0,0,0,Graves’ Disease
+0,No Change,Fast,Cold,1,1,0,Normal,1,1,0,1,1,1,0,0,1,1,0,1,0,0,Graves’ Disease
+1,Loss,Slow,Hot,1,0,0,Diarrhea,1,1,1,0,0,0,1,1,0,0,1,0,0,0,Graves’ Disease
+1,Loss,Normal,Hot,1,0,1,Constipation,1,1,0,1,0,0,1,1,1,1,1,1,1,0,Graves’ Disease
+1,Loss,Normal,Cold,1,0,1,Constipation,1,1,1,0,1,0,1,1,1,1,1,0,0,1,Graves’ Disease
+1,No Change,Fast,Normal,1,1,0,Constipation,1,1,0,0,0,0,1,0,1,1,0,1,1,1,Graves’ Disease
+1,No Change,Fast,Cold,1,0,1,Normal,1,1,0,0,1,1,1,1,0,1,0,1,1,1,Graves’ Disease
+1,No Change,Slow,Cold,1,0,0,Constipation,1,1,0,1,0,1,0,1,0,0,0,0,0,1,Graves’ Disease
+0,Gain,Fast,Cold,1,1,1,Constipation,1,1,1,0,0,1,0,0,0,0,0,0,1,1,Graves’ Disease
+0,Gain,Slow,Normal,1,0,0,Diarrhea,1,1,1,1,0,1,0,0,0,0,1,1,1,1,Graves’ Disease
+0,No Change,Normal,Normal,1,0,1,Normal,1,1,0,0,0,1,1,1,0,1,0,0,0,1,Graves’ Disease
+1,Gain,Normal,Normal,1,1,0,Constipation,1,1,0,1,1,1,0,0,0,0,0,1,1,1,Graves’ Disease
+1,Gain,Normal,Normal,1,0,1,Normal,1,1,0,0,1,0,0,1,1,1,1,1,0,1,Graves’ Disease
+0,Gain,Normal,Cold,1,0,0,Normal,1,1,1,0,0,1,1,1,0,1,1,0,0,0,Graves’ Disease
+0,No Change,Normal,Hot,1,1,0,Normal,1,1,1,1,0,1,1,0,1,0,0,0,1,0,Graves’ Disease
+0,Loss,Slow,Cold,1,0,0,Diarrhea,1,1,0,1,0,1,1,0,1,1,0,0,1,1,Graves’ Disease
+0,No Change,Normal,Normal,1,0,0,Normal,1,1,1,0,0,0,0,1,0,1,0,1,1,0,Graves’ Disease
+0,No Change,Slow,Hot,1,0,1,Normal,1,1,1,0,0,0,0,0,0,1,0,1,1,1,Graves’ Disease
+1,Gain,Normal,Cold,1,0,0,Normal,1,1,1,1,1,1,1,0,0,0,0,0,1,0,Graves’ Disease
+1,Gain,Slow,Hot,1,1,1,Constipation,1,1,1,0,1,0,0,0,0,1,0,1,1,0,Graves’ Disease
+1,Loss,Slow,Normal,1,1,1,Diarrhea,1,1,0,1,0,0,0,0,0,0,1,1,1,0,Graves’ Disease
+0,Loss,Slow,Hot,1,1,0,Constipation,1,1,0,1,1,1,1,0,0,1,1,0,0,1,Graves’ Disease
+1,Loss,Fast,Hot,1,1,0,Diarrhea,1,1,1,0,1,1,0,0,1,0,1,1,0,1,Graves’ Disease
+0,Loss,Slow,Normal,1,0,0,Diarrhea,1,1,1,1,0,1,1,0,1,1,1,1,0,1,Graves’ Disease
+1,No Change,Slow,Hot,1,1,0,Normal,1,1,1,0,1,0,0,1,1,0,0,1,1,1,Graves’ Disease
+0,Loss,Normal,Cold,1,1,1,Normal,1,1,0,1,1,0,1,0,1,0,0,0,1,0,Graves’ Disease
+0,No Change,Slow,Hot,1,0,1,Constipation,1,1,0,1,1,1,0,1,1,1,0,0,1,1,Graves’ Disease
+1,Gain,Slow,Cold,1,0,1,Diarrhea,1,1,1,0,1,0,0,0,1,1,0,1,0,0,Graves’ Disease
+1,Loss,Fast,Hot,1,0,1,Normal,1,1,1,1,0,0,1,1,0,1,1,0,0,1,Graves’ Disease
+1,Gain,Normal,Hot,1,1,0,Normal,1,1,1,0,1,0,1,0,0,1,0,1,0,0,Graves’ Disease
+1,Gain,Fast,Normal,1,0,1,Normal,1,1,1,1,1,1,1,1,0,0,0,0,1,0,Graves’ Disease
+1,No Change,Fast,Normal,1,0,0,Normal,1,1,0,1,1,1,1,0,1,1,0,1,0,0,Graves’ Disease
+0,Loss,Fast,Cold,1,0,0,Constipation,1,1,0,1,0,1,0,1,1,0,0,1,0,0,Graves’ Disease
+1,No Change,Slow,Normal,1,1,1,Constipation,1,1,0,1,1,1,1,0,1,1,1,1,1,1,Graves’ Disease
+1,Gain,Fast,Normal,1,1,1,Normal,1,1,0,0,1,1,1,0,0,0,0,1,0,1,Graves’ Disease
+0,Loss,Fast,Normal,1,1,1,Normal,1,1,0,1,1,0,1,1,0,0,1,0,0,0,Graves’ Disease
+1,Gain,Normal,Normal,1,1,1,Normal,1,1,0,1,0,0,1,1,0,0,0,1,0,1,Graves’ Disease
+0,Gain,Normal,Normal,1,1,1,Normal,1,1,1,1,0,0,1,0,1,1,0,1,1,1,Graves’ Disease
+1,Loss,Normal,Cold,1,1,1,Normal,1,1,1,0,0,0,0,1,1,1,0,0,0,0,Graves’ Disease
+1,Loss,Normal,Cold,1,1,0,Diarrhea,1,1,0,0,0,0,1,1,1,0,1,0,1,1,Graves’ Disease
+0,Loss,Fast,Normal,1,0,0,Diarrhea,1,1,0,0,0,0,1,0,0,0,0,1,1,1,Graves’ Disease
+1,No Change,Normal,Normal,1,0,0,Diarrhea,1,1,0,0,1,1,1,1,1,0,0,1,0,1,Graves’ Disease
+1,No Change,Slow,Cold,1,0,1,Diarrhea,1,1,1,1,0,1,0,0,0,0,0,0,0,0,Graves’ Disease
+1,Gain,Fast,Hot,1,1,0,Normal,1,1,1,1,1,0,0,1,0,0,1,1,1,1,Graves’ Disease
+1,Loss,Normal,Cold,1,1,0,Diarrhea,1,1,1,1,0,1,0,0,0,1,1,1,1,0,Graves’ Disease
+0,Gain,Fast,Hot,1,0,0,Diarrhea,1,1,1,0,0,0,1,1,0,0,0,1,1,0,Graves’ Disease
+0,Gain,Normal,Normal,1,0,0,Constipation,1,1,0,0,0,0,1,0,0,1,1,1,1,0,Graves’ Disease
+1,Gain,Fast,Normal,1,1,0,Diarrhea,1,1,1,1,1,1,0,0,0,1,0,1,1,1,Graves’ Disease
+1,Gain,Normal,Cold,1,1,0,Diarrhea,1,1,0,1,1,1,0,1,0,1,0,1,0,1,Graves’ Disease
+0,Gain,Slow,Normal,1,1,1,Normal,1,1,1,1,1,0,1,1,1,0,1,1,1,1,Graves’ Disease
+0,Loss,Normal,Hot,1,1,1,Diarrhea,1,1,1,0,0,1,1,0,0,0,0,1,0,0,Graves’ Disease
+1,No Change,Fast,Hot,1,1,1,Diarrhea,1,1,1,1,0,0,1,0,1,0,0,1,1,1,Graves’ Disease
+0,Loss,Fast,Cold,1,1,0,Normal,1,1,1,1,0,0,0,1,0,0,1,0,0,0,Graves’ Disease
+0,Loss,Slow,Hot,1,1,1,Diarrhea,1,1,0,0,0,0,1,1,0,1,1,0,1,1,Graves’ Disease
+0,Loss,Fast,Cold,1,1,1,Normal,1,1,0,0,0,0,1,1,0,1,1,0,0,0,Graves’ Disease
+0,No Change,Slow,Cold,1,0,0,Diarrhea,1,1,0,1,0,0,0,1,1,1,1,1,0,1,Graves’ Disease
+1,No Change,Fast,Hot,1,1,1,Constipation,1,1,0,0,1,1,0,1,0,0,0,1,1,1,Graves’ Disease
+0,No Change,Fast,Hot,1,1,0,Constipation,1,1,0,1,1,0,0,1,0,0,0,1,1,1,Graves’ Disease
+1,Loss,Slow,Hot,1,1,1,Diarrhea,1,1,0,1,0,1,1,0,1,0,0,0,0,0,Graves’ Disease
+1,No Change,Fast,Hot,1,0,0,Constipation,1,1,0,1,1,0,0,1,1,0,0,0,0,0,Graves’ Disease
+0,Gain,Fast,Hot,1,0,0,Normal,1,1,1,1,1,1,0,1,1,0,0,1,0,1,Graves’ Disease
+1,No Change,Slow,Hot,1,1,1,Diarrhea,1,1,0,0,1,0,1,1,1,0,0,0,1,0,Graves’ Disease
+1,Loss,Normal,Hot,1,0,0,Normal,1,1,1,0,0,1,1,1,0,1,0,0,1,0,Graves’ Disease
+0,Loss,Slow,Normal,1,0,1,Constipation,1,1,0,0,0,0,0,0,0,1,0,1,1,0,Graves’ Disease
+0,Gain,Fast,Cold,1,0,0,Normal,1,1,1,1,0,0,1,0,1,0,1,1,1,1,Graves’ Disease
+0,No Change,Normal,Cold,1,1,1,Constipation,1,1,0,1,0,1,0,0,0,1,0,0,0,1,Graves’ Disease
+1,No Change,Normal,Hot,1,1,1,Constipation,1,1,1,1,1,1,1,0,1,1,0,1,1,1,Graves’ Disease
+1,Gain,Normal,Cold,1,1,0,Constipation,1,1,0,0,0,1,1,1,1,1,0,0,1,0,Graves’ Disease
+1,Loss,Slow,Hot,1,1,1,Normal,1,1,0,0,0,1,0,0,1,1,0,0,1,1,Graves’ Disease
+1,Loss,Normal,Normal,1,1,1,Constipation,1,1,0,1,0,1,0,1,0,0,0,0,1,0,Graves’ Disease
+0,No Change,Normal,Cold,1,1,1,Diarrhea,1,1,0,0,1,1,0,1,1,1,1,1,1,0,Graves’ Disease
+1,No Change,Normal,Cold,1,1,0,Constipation,1,1,1,0,1,0,1,0,0,0,1,0,0,1,Graves’ Disease
+0,No Change,Fast,Normal,1,0,0,Diarrhea,1,1,0,0,1,0,0,0,0,0,1,0,1,1,Graves’ Disease
+0,No Change,Slow,Normal,1,1,1,Diarrhea,1,1,0,0,1,0,1,1,0,1,0,1,0,1,Graves’ Disease
+0,No Change,Slow,Normal,1,1,1,Diarrhea,1,1,1,1,1,1,1,0,1,0,0,1,1,0,Graves’ Disease
+0,Loss,Fast,Cold,1,1,0,Diarrhea,1,1,0,0,0,1,0,0,0,1,0,0,1,0,Graves’ Disease
+1,Loss,Normal,Cold,1,1,0,Normal,1,1,1,1,1,1,1,1,1,0,0,1,1,1,Graves’ Disease
+0,Loss,Fast,Normal,1,1,1,Diarrhea,1,1,1,0,1,0,1,1,0,0,1,1,1,0,Graves’ Disease
+1,Loss,Fast,Normal,1,1,0,Constipation,1,1,0,1,0,1,0,1,0,1,1,0,0,1,Graves’ Disease
+0,Gain,Normal,Normal,1,1,0,Diarrhea,1,1,0,1,0,0,1,1,0,1,0,1,0,1,Graves’ Disease
+0,Loss,Normal,Normal,1,1,1,Constipation,1,1,1,0,0,1,1,1,1,0,0,0,1,1,Graves’ Disease
+0,Gain,Slow,Normal,1,0,0,Normal,1,1,0,1,1,1,0,0,1,1,1,1,0,1,Graves’ Disease
+1,Loss,Normal,Hot,1,0,0,Diarrhea,1,1,1,1,0,1,0,1,1,0,1,1,0,1,Graves’ Disease
+0,No Change,Fast,Normal,1,1,0,Constipation,1,1,0,0,1,0,1,1,1,1,1,0,1,1,Graves’ Disease
+0,No Change,Fast,Hot,1,1,1,Normal,1,1,0,1,0,1,1,1,0,0,1,0,0,0,Graves’ Disease
+0,No Change,Normal,Cold,1,0,0,Normal,1,1,1,0,1,0,1,0,0,0,1,1,0,0,Graves’ Disease
+0,Gain,Slow,Cold,1,1,1,Constipation,1,1,0,1,1,1,1,1,1,0,1,1,1,1,Graves’ Disease
+1,Loss,Fast,Hot,1,1,0,Diarrhea,1,1,0,0,1,1,0,1,1,0,1,1,1,1,Graves’ Disease
+1,Loss,Normal,Normal,1,0,0,Normal,1,1,0,0,1,1,1,0,1,0,0,0,0,0,Graves’ Disease
+0,Gain,Slow,Cold,1,1,1,Constipation,1,1,1,0,0,1,1,1,1,1,0,1,1,0,Graves’ Disease
+0,Gain,Slow,Normal,1,1,1,Diarrhea,1,1,0,0,0,0,1,1,0,0,1,0,1,1,Graves’ Disease
+1,Gain,Fast,Normal,1,1,1,Normal,1,1,1,0,1,1,1,1,1,1,0,1,1,1,Graves’ Disease
+1,Gain,Fast,Hot,1,0,1,Constipation,1,1,0,1,0,0,0,0,1,1,1,1,0,0,Graves’ Disease
+1,Gain,Slow,Cold,1,0,0,Normal,1,1,1,1,1,1,1,0,0,0,0,1,1,1,Graves’ Disease
+0,No Change,Slow,Cold,1,1,1,Normal,1,1,0,0,0,1,0,1,1,0,1,1,1,0,Graves’ Disease
+1,Loss,Slow,Hot,0,0,1,Constipation,1,1,1,1,0,1,0,1,0,0,0,1,0,1,Thyroid Nodules
+0,No Change,Slow,Hot,1,0,1,Constipation,1,1,1,1,1,0,0,1,0,1,1,0,1,0,Thyroid Nodules
+1,No Change,Normal,Cold,1,0,1,Constipation,1,0,1,1,0,1,0,1,0,0,1,1,1,0,Thyroid Nodules
+1,Gain,Fast,Normal,1,1,1,Diarrhea,1,1,0,1,1,0,0,0,1,1,0,1,1,0,Thyroid Nodules
+1,No Change,Fast,Hot,0,0,1,Normal,1,0,1,1,1,0,0,1,1,0,1,0,1,1,Thyroid Nodules
+0,No Change,Fast,Hot,1,1,1,Normal,0,1,0,1,1,1,0,1,0,0,0,1,1,1,Thyroid Nodules
+1,Gain,Fast,Hot,0,1,1,Normal,0,0,0,1,1,0,0,0,0,0,0,1,1,1,Thyroid Nodules
+0,Loss,Fast,Cold,1,0,1,Normal,0,0,1,1,1,1,1,0,0,0,1,1,1,0,Thyroid Nodules
+0,No Change,Slow,Normal,0,1,1,Constipation,1,0,1,1,0,0,0,0,1,0,1,1,0,1,Thyroid Nodules
+0,No Change,Normal,Cold,1,0,1,Diarrhea,0,0,1,1,0,1,0,0,1,1,1,0,1,1,Thyroid Nodules
+0,Loss,Slow,Hot,0,1,1,Constipation,1,0,1,1,1,0,1,0,1,0,1,0,1,0,Thyroid Nodules
+1,Gain,Normal,Cold,1,1,1,Constipation,1,0,1,1,1,1,1,0,0,1,0,1,0,0,Thyroid Nodules
+1,No Change,Normal,Hot,0,0,1,Diarrhea,0,1,0,1,1,1,1,0,0,1,1,1,1,1,Thyroid Nodules
+1,Gain,Normal,Hot,1,0,1,Diarrhea,0,0,0,1,1,0,0,1,0,1,0,1,1,1,Thyroid Nodules
+0,Loss,Normal,Cold,0,1,1,Constipation,1,1,1,1,0,0,0,1,1,1,0,1,0,0,Thyroid Nodules
+1,Loss,Fast,Hot,0,0,1,Normal,1,0,1,1,1,1,1,0,1,0,1,1,1,1,Thyroid Nodules
+0,Gain,Normal,Hot,0,0,1,Diarrhea,0,1,1,1,1,0,1,0,0,0,0,0,0,0,Thyroid Nodules
+0,Loss,Normal,Normal,0,1,1,Diarrhea,0,0,1,1,0,1,1,1,0,0,1,0,1,0,Thyroid Nodules
+0,Loss,Fast,Cold,1,1,1,Constipation,1,0,0,1,0,0,0,0,1,0,1,0,1,1,Thyroid Nodules
+1,No Change,Slow,Cold,1,0,1,Normal,1,1,0,1,0,1,0,0,1,0,0,0,0,1,Thyroid Nodules
+0,Gain,Slow,Hot,1,1,1,Diarrhea,0,0,0,1,0,0,1,0,0,1,0,1,0,0,Thyroid Nodules
+1,No Change,Slow,Hot,0,0,1,Constipation,1,0,1,1,1,1,0,0,0,0,0,1,1,1,Thyroid Nodules
+1,Gain,Slow,Cold,1,0,1,Diarrhea,1,0,1,1,1,0,0,0,1,0,1,0,1,0,Thyroid Nodules
+1,No Change,Normal,Cold,0,1,1,Normal,0,0,1,1,1,1,1,1,0,1,1,0,0,1,Thyroid Nodules
+0,Loss,Fast,Cold,1,0,1,Constipation,0,1,0,1,1,0,1,0,0,0,0,0,1,0,Thyroid Nodules
+1,Gain,Fast,Hot,0,1,1,Constipation,1,0,0,1,1,1,1,0,1,0,1,1,0,1,Thyroid Nodules
+0,Gain,Slow,Normal,1,0,1,Normal,1,1,0,1,1,0,0,0,0,1,1,1,0,1,Thyroid Nodules
+0,Gain,Fast,Normal,0,0,1,Constipation,0,0,1,1,1,0,0,1,1,0,0,1,0,0,Thyroid Nodules
+0,Gain,Normal,Hot,0,0,1,Normal,1,0,0,1,1,1,0,1,0,1,1,0,1,1,Thyroid Nodules
+0,Loss,Slow,Hot,1,1,1,Constipation,0,0,1,1,1,0,0,0,1,1,0,0,1,0,Thyroid Nodules
+1,Loss,Normal,Hot,1,1,1,Normal,1,0,0,1,0,0,0,0,0,0,0,1,1,1,Thyroid Nodules
+1,Loss,Normal,Cold,1,0,1,Diarrhea,0,1,1,1,1,1,1,0,0,1,0,1,0,1,Thyroid Nodules
+1,No Change,Normal,Hot,0,1,1,Diarrhea,1,0,1,1,0,1,0,0,0,0,1,1,1,1,Thyroid Nodules
+1,Loss,Normal,Cold,0,1,1,Diarrhea,1,0,1,1,0,1,0,1,1,0,0,0,0,1,Thyroid Nodules
+0,No Change,Normal,Normal,0,0,1,Constipation,1,0,1,1,0,1,1,1,0,0,0,1,0,0,Thyroid Nodules
+0,No Change,Slow,Hot,1,1,1,Normal,0,1,0,1,0,0,1,0,0,1,0,1,1,0,Thyroid Nodules
+0,Loss,Normal,Hot,0,1,1,Normal,0,1,0,1,1,0,1,0,1,1,0,0,1,1,Thyroid Nodules
+0,Loss,Slow,Cold,1,1,1,Diarrhea,0,1,0,1,0,0,1,1,0,1,1,1,0,0,Thyroid Nodules
+1,Loss,Fast,Cold,0,0,1,Diarrhea,1,1,1,1,0,1,0,1,1,1,0,1,1,0,Thyroid Nodules
+1,No Change,Normal,Cold,1,0,1,Diarrhea,1,0,0,1,1,0,0,0,1,1,1,1,0,1,Thyroid Nodules
+0,Gain,Normal,Normal,0,1,1,Normal,0,0,1,1,0,0,1,0,1,1,0,1,1,0,Thyroid Nodules
+0,Loss,Fast,Normal,0,0,1,Diarrhea,0,1,0,1,1,1,0,0,0,1,1,0,0,0,Thyroid Nodules
+0,No Change,Slow,Hot,1,1,1,Constipation,1,0,0,1,1,0,1,1,1,1,1,1,1,1,Thyroid Nodules
+0,No Change,Normal,Hot,0,0,1,Diarrhea,1,0,1,1,1,0,0,1,0,1,1,0,0,1,Thyroid Nodules
+1,Loss,Fast,Cold,0,1,1,Diarrhea,1,1,1,1,1,1,0,1,1,1,1,1,1,1,Thyroid Nodules
+0,No Change,Fast,Normal,1,0,1,Normal,1,0,1,1,0,0,0,1,0,1,0,0,0,1,Thyroid Nodules
+1,Loss,Normal,Hot,0,1,1,Constipation,0,1,0,1,1,1,1,0,1,0,0,1,0,0,Thyroid Nodules
+1,No Change,Slow,Cold,1,0,1,Normal,0,1,1,1,0,1,1,1,1,1,1,1,0,1,Thyroid Nodules
+0,Gain,Slow,Cold,1,1,1,Constipation,1,1,0,1,0,0,0,1,0,0,1,0,0,0,Thyroid Nodules
+0,No Change,Normal,Normal,0,0,1,Constipation,1,1,0,1,1,0,0,1,1,0,1,1,0,0,Thyroid Nodules
+1,Loss,Fast,Normal,0,0,1,Diarrhea,1,1,0,1,0,0,1,0,0,0,0,1,0,1,Thyroid Nodules
+1,Gain,Normal,Hot,0,0,1,Diarrhea,0,1,1,1,1,1,1,1,1,0,1,0,1,0,Thyroid Nodules
+0,Loss,Slow,Hot,1,1,1,Normal,0,0,0,1,0,1,0,1,0,1,1,1,0,0,Thyroid Nodules
+1,No Change,Fast,Cold,0,1,1,Normal,1,0,1,1,0,0,0,1,1,0,0,1,0,0,Thyroid Nodules
+0,Gain,Normal,Cold,1,1,1,Normal,1,0,1,1,0,0,1,0,1,0,0,1,1,1,Thyroid Nodules
+0,Gain,Fast,Cold,0,0,1,Constipation,1,1,0,1,0,1,0,1,0,0,0,1,1,0,Thyroid Nodules
+1,No Change,Slow,Hot,0,1,1,Normal,1,1,0,1,1,0,1,0,1,1,0,1,0,1,Thyroid Nodules
+1,Gain,Slow,Normal,1,0,1,Constipation,1,1,0,1,1,0,1,0,0,0,0,0,1,1,Thyroid Nodules
+0,Gain,Slow,Hot,0,0,1,Constipation,1,0,0,1,0,1,0,1,0,0,0,0,1,0,Thyroid Nodules
+0,Gain,Normal,Normal,0,0,1,Constipation,0,0,1,1,0,0,0,0,1,1,1,1,0,0,Thyroid Nodules
+1,Loss,Fast,Hot,0,1,1,Constipation,0,1,1,1,0,0,0,1,1,1,1,1,0,1,Thyroid Nodules
+1,Loss,Normal,Hot,0,0,1,Constipation,0,1,1,1,0,0,1,0,1,1,0,0,1,1,Thyroid Nodules
+1,Gain,Normal,Normal,0,1,1,Diarrhea,1,1,1,1,1,0,1,0,0,1,1,0,1,1,Thyroid Nodules
+1,No Change,Normal,Hot,1,1,1,Constipation,1,1,1,1,0,1,1,1,0,1,0,0,1,1,Thyroid Nodules
+0,No Change,Normal,Hot,0,0,1,Constipation,1,1,1,1,0,1,0,1,1,1,1,0,1,1,Thyroid Nodules
+0,Loss,Fast,Cold,1,1,1,Diarrhea,0,0,1,1,0,1,0,0,0,1,0,0,1,0,Thyroid Nodules
+0,No Change,Fast,Normal,0,0,1,Diarrhea,1,1,1,1,1,1,1,0,1,1,0,0,1,1,Thyroid Nodules
+1,Gain,Normal,Normal,0,0,1,Diarrhea,0,1,1,1,0,0,1,0,1,1,1,1,0,0,Thyroid Nodules
+1,No Change,Normal,Cold,1,1,1,Normal,1,1,0,1,1,0,0,0,1,0,1,1,1,1,Thyroid Nodules
+0,Loss,Slow,Normal,0,0,1,Normal,1,1,0,1,1,0,1,1,0,1,0,1,0,0,Thyroid Nodules
+1,Loss,Slow,Cold,0,0,1,Constipation,1,0,1,1,0,0,0,0,0,0,0,1,0,1,Thyroid Nodules
+1,Gain,Fast,Normal,1,0,1,Constipation,0,1,1,1,0,1,0,0,1,0,0,1,1,0,Thyroid Nodules
+1,Loss,Slow,Normal,1,1,1,Constipation,0,1,0,1,0,0,1,1,0,1,0,0,0,0,Thyroid Nodules
+1,Loss,Fast,Normal,0,1,1,Constipation,0,1,0,1,1,0,1,0,1,1,0,0,1,1,Thyroid Nodules
+1,Loss,Fast,Normal,1,1,1,Diarrhea,1,0,0,1,1,1,1,1,1,1,0,0,0,0,Thyroid Nodules
+1,No Change,Fast,Cold,1,0,1,Normal,0,1,1,1,0,1,1,1,0,1,1,0,1,1,Thyroid Nodules
+0,Loss,Slow,Cold,1,0,1,Diarrhea,1,0,0,1,1,1,1,1,1,0,1,0,0,1,Thyroid Nodules
+0,No Change,Slow,Normal,1,1,1,Normal,1,1,0,1,0,0,0,0,1,0,1,0,1,0,Thyroid Nodules
+0,Loss,Fast,Hot,0,1,1,Diarrhea,0,1,0,1,0,1,1,1,1,1,1,1,0,0,Thyroid Nodules
+0,Loss,Fast,Cold,0,1,1,Constipation,0,1,0,1,0,0,0,1,1,0,1,1,1,1,Thyroid Nodules
+1,No Change,Normal,Normal,1,1,1,Normal,1,1,0,1,0,0,1,1,1,1,0,0,0,1,Thyroid Nodules
+0,No Change,Fast,Cold,0,1,1,Constipation,1,1,1,1,0,1,1,0,0,0,0,1,0,1,Thyroid Nodules
+0,Gain,Fast,Hot,1,0,1,Normal,1,1,0,1,0,1,1,0,0,0,1,0,0,0,Thyroid Nodules
+0,Gain,Normal,Hot,0,1,1,Normal,1,1,1,1,1,1,1,0,1,1,0,1,1,0,Thyroid Nodules
+0,No Change,Fast,Hot,0,0,1,Constipation,0,1,0,1,1,0,1,0,0,1,1,0,1,1,Thyroid Nodules
+1,Loss,Fast,Normal,1,0,1,Constipation,0,1,0,1,1,0,1,1,1,0,1,0,1,0,Thyroid Nodules
+1,Gain,Fast,Normal,1,0,1,Constipation,0,0,0,1,0,0,0,1,1,1,0,1,1,0,Thyroid Nodules
+0,No Change,Normal,Hot,0,0,1,Diarrhea,1,0,0,1,0,1,1,1,1,0,0,0,1,0,Thyroid Nodules
+0,No Change,Slow,Cold,0,1,1,Normal,1,0,0,1,0,0,1,0,1,1,1,1,0,1,Thyroid Nodules
+1,Loss,Fast,Cold,0,0,1,Normal,1,0,1,1,1,0,1,1,0,1,1,1,1,1,Thyroid Nodules
+1,No Change,Normal,Hot,1,1,1,Normal,0,1,1,1,0,0,1,0,0,1,1,0,1,0,Thyroid Nodules
+0,Gain,Fast,Normal,0,0,1,Constipation,1,1,1,1,1,0,0,0,1,1,1,0,0,0,Thyroid Nodules
+1,Loss,Normal,Cold,1,1,1,Normal,1,0,1,1,0,1,0,0,0,1,0,0,1,1,Thyroid Nodules
+1,No Change,Fast,Cold,1,1,1,Normal,0,0,1,1,1,0,0,1,1,1,1,1,1,0,Thyroid Nodules
+0,No Change,Normal,Cold,1,0,1,Constipation,0,0,1,1,0,1,0,1,0,1,0,1,1,1,Thyroid Nodules
+1,Loss,Slow,Normal,0,1,1,Constipation,1,0,1,1,0,1,0,0,1,0,1,0,1,1,Thyroid Nodules
+0,Loss,Slow,Hot,1,0,1,Normal,0,1,0,1,1,0,0,1,1,1,1,0,1,1,Thyroid Nodules
+0,Loss,Slow,Normal,0,1,1,Diarrhea,1,0,1,1,1,0,1,0,1,0,0,0,1,1,Thyroid Nodules
+1,Gain,Fast,Cold,1,0,1,Constipation,0,1,0,1,1,1,1,1,0,1,0,0,0,1,Thyroid Nodules
+1,Gain,Normal,Hot,0,0,1,Diarrhea,1,1,0,1,0,0,0,0,0,0,0,0,1,1,Thyroid Nodules
+1,No Change,Fast,Normal,0,1,1,Diarrhea,0,1,1,1,1,1,1,0,1,1,0,0,1,1,Thyroid Nodules
+1,No Change,Fast,Hot,1,1,1,Diarrhea,0,0,0,1,1,0,1,0,0,1,0,0,1,0,Thyroid Nodules
+1,Loss,Normal,Cold,1,0,1,Diarrhea,0,0,0,1,0,0,1,1,0,0,1,1,0,1,Thyroid Nodules
+1,No Change,Fast,Normal,0,0,1,Constipation,0,1,1,1,0,1,1,1,0,1,1,1,0,0,Thyroid Nodules
+0,No Change,Normal,Hot,0,1,1,Normal,1,0,0,1,1,0,1,1,0,1,1,0,0,0,Thyroid Nodules
+1,Loss,Normal,Normal,1,0,1,Normal,1,0,1,1,0,1,0,1,0,1,0,0,0,0,Thyroid Nodules
+0,Gain,Slow,Cold,1,0,1,Constipation,0,1,0,1,1,1,0,1,0,1,0,1,1,1,Thyroid Nodules
+1,Gain,Slow,Hot,0,0,1,Constipation,1,1,1,1,1,0,0,0,0,1,0,0,0,0,Thyroid Nodules
+1,Gain,Slow,Cold,0,1,1,Diarrhea,0,0,0,1,1,1,0,1,0,0,1,1,1,1,Thyroid Nodules
+1,No Change,Normal,Hot,1,0,1,Diarrhea,0,1,1,1,0,0,0,0,0,1,0,1,1,1,Thyroid Nodules
+1,Loss,Slow,Cold,0,0,1,Constipation,1,0,0,1,1,0,0,1,0,0,1,0,1,0,Thyroid Nodules
+1,Gain,Normal,Cold,1,1,1,Normal,1,0,1,1,1,0,1,1,0,0,1,1,0,0,Thyroid Nodules
+0,No Change,Fast,Normal,1,0,1,Diarrhea,1,1,0,1,0,1,0,1,0,0,1,1,1,0,Thyroid Nodules
+0,Loss,Slow,Cold,1,0,1,Constipation,1,1,0,1,1,0,1,0,0,0,0,0,0,0,Thyroid Nodules
+0,Gain,Normal,Normal,1,0,1,Constipation,1,0,1,1,1,0,1,1,1,0,1,0,1,1,Thyroid Nodules
+1,Gain,Normal,Cold,0,0,1,Constipation,1,1,0,1,1,1,0,0,1,0,1,1,0,0,Thyroid Nodules
+1,Loss,Normal,Cold,1,1,1,Diarrhea,1,0,1,1,0,1,0,1,0,0,1,0,0,0,Thyroid Nodules
+1,No Change,Normal,Cold,1,0,1,Constipation,0,1,0,1,1,1,0,0,0,0,0,1,1,0,Thyroid Nodules
+0,No Change,Slow,Hot,0,0,1,Normal,1,0,0,1,0,1,1,0,0,1,1,1,1,0,Thyroid Nodules
+0,Gain,Slow,Normal,0,0,1,Constipation,0,1,1,1,0,0,0,0,1,0,0,1,1,0,Thyroid Nodules
+1,Loss,Slow,Hot,1,0,1,Diarrhea,1,0,0,1,1,0,0,0,1,1,0,1,0,1,Thyroid Nodules
+0,No Change,Normal,Normal,1,0,1,Normal,1,0,1,1,1,0,0,1,0,0,1,1,0,1,Thyroid Nodules
+1,Loss,Fast,Cold,1,1,1,Normal,0,1,0,1,0,0,1,1,0,0,1,1,0,1,Thyroid Nodules
+1,Loss,Normal,Hot,1,1,1,Constipation,0,0,0,1,1,1,0,0,0,1,0,0,1,0,Thyroid Nodules
+0,Gain,Fast,Normal,1,0,1,Constipation,0,0,0,1,1,1,0,1,0,0,1,0,0,0,Thyroid Nodules
+0,Loss,Slow,Cold,1,0,1,Normal,0,0,0,1,0,0,1,0,0,1,0,0,1,1,Thyroid Nodules
+0,Loss,Normal,Normal,0,1,1,Constipation,1,0,1,1,1,1,1,1,1,0,0,0,0,1,Thyroid Nodules
+0,Loss,Normal,Normal,0,1,1,Diarrhea,1,0,1,1,1,1,1,1,0,1,0,1,0,1,Thyroid Nodules
+1,No Change,Slow,Cold,1,1,1,Normal,0,1,0,1,0,1,0,1,1,1,1,1,0,1,Thyroid Nodules
+1,Gain,Normal,Hot,0,0,1,Constipation,0,0,0,1,1,1,0,0,0,0,0,1,1,0,Thyroid Nodules
+0,Gain,Fast,Cold,0,0,1,Normal,1,0,1,1,0,1,1,1,0,0,0,1,1,0,Thyroid Nodules
+0,Loss,Fast,Hot,1,0,1,Constipation,1,0,0,1,0,0,0,0,1,0,1,1,1,0,Thyroid Nodules
+0,Loss,Fast,Normal,0,0,1,Constipation,0,1,1,1,1,0,1,1,1,0,1,0,0,1,Thyroid Nodules
+0,No Change,Normal,Normal,0,0,1,Diarrhea,1,1,0,1,0,1,1,0,0,1,0,0,0,1,Thyroid Nodules
+1,Gain,Normal,Normal,1,0,1,Constipation,1,0,0,1,1,1,1,1,1,1,0,0,0,1,Thyroid Nodules
+1,No Change,Fast,Hot,1,1,1,Constipation,0,0,1,1,1,0,1,0,0,1,0,1,0,0,Thyroid Nodules
+1,Gain,Normal,Cold,1,1,1,Constipation,0,1,0,1,0,0,1,0,1,1,1,1,1,0,Thyroid Nodules
+1,No Change,Fast,Hot,0,0,1,Diarrhea,0,1,1,1,0,1,0,0,1,1,0,0,0,1,Thyroid Nodules
+1,Loss,Slow,Normal,1,0,1,Constipation,0,0,1,1,0,1,0,1,0,1,0,1,0,0,Thyroid Nodules
+1,No Change,Fast,Normal,0,0,1,Constipation,1,1,1,1,0,1,0,0,0,1,1,1,1,1,Thyroid Nodules
+1,Loss,Slow,Cold,1,1,1,Constipation,0,0,1,1,0,0,0,1,1,0,1,0,1,1,Thyroid Nodules
+0,Gain,Slow,Hot,1,1,1,Normal,1,0,1,1,0,1,1,0,0,0,0,1,1,1,Thyroid Nodules
+1,Gain,Slow,Normal,1,1,1,Diarrhea,1,0,1,1,1,1,0,0,1,0,1,0,0,0,Thyroid Nodules
+0,Loss,Fast,Hot,1,1,1,Normal,1,1,0,1,1,1,1,0,1,0,0,0,1,1,Thyroid Nodules
+0,Gain,Fast,Hot,0,0,1,Diarrhea,1,0,1,1,0,1,1,1,0,0,0,0,0,1,Thyroid Nodules
+0,No Change,Normal,Cold,0,1,1,Diarrhea,0,0,1,1,1,1,0,1,1,0,1,0,1,0,Thyroid Nodules
+1,Loss,Normal,Cold,1,1,1,Normal,1,1,0,1,0,1,0,1,0,0,0,1,0,1,Thyroid Nodules
+1,Gain,Slow,Normal,0,0,1,Diarrhea,0,0,1,1,0,1,1,1,0,0,0,1,0,1,Thyroid Nodules
+1,No Change,Fast,Cold,1,0,1,Diarrhea,1,0,0,1,1,1,0,1,1,1,1,1,0,0,Thyroid Nodules
+1,No Change,Normal,Hot,1,0,1,Normal,0,0,1,1,1,0,0,1,0,0,0,0,0,1,Thyroid Nodules
+0,Gain,Normal,Cold,0,1,1,Constipation,1,1,1,1,0,0,0,1,1,0,1,1,0,1,Thyroid Nodules
+1,Gain,Normal,Hot,0,0,1,Diarrhea,1,1,1,1,0,0,0,0,1,0,0,0,0,1,Thyroid Nodules
+0,No Change,Fast,Normal,1,1,1,Normal,0,0,0,1,0,1,1,0,0,1,1,1,1,0,Thyroid Nodules
+1,Loss,Normal,Hot,1,1,1,Diarrhea,0,1,0,1,1,0,1,1,0,0,1,1,0,1,Thyroid Nodules
+1,Gain,Slow,Cold,1,1,1,Normal,0,0,1,1,0,0,0,1,1,1,1,0,0,1,Thyroid Nodules
+0,Gain,Fast,Cold,0,1,1,Constipation,0,0,1,1,0,0,1,1,0,1,1,1,0,1,Thyroid Nodules
+0,Loss,Normal,Normal,1,0,1,Diarrhea,1,1,0,1,1,0,1,1,1,0,1,0,0,0,Thyroid Nodules
+0,Loss,Normal,Cold,1,0,1,Constipation,1,1,0,1,1,0,0,1,1,1,1,0,1,0,Thyroid Nodules
+1,Gain,Fast,Normal,1,1,1,Constipation,1,0,0,1,1,1,0,0,1,0,0,1,0,0,Thyroid Nodules
+1,Loss,Normal,Normal,1,0,1,Normal,1,1,1,1,0,0,1,1,1,0,0,1,0,1,Thyroid Nodules
+0,No Change,Normal,Cold,1,1,1,Diarrhea,1,1,0,1,0,1,1,1,1,0,1,1,1,0,Thyroid Nodules
+1,No Change,Slow,Hot,1,1,1,Diarrhea,0,1,0,1,1,1,1,1,0,1,0,1,0,1,Thyroid Nodules
+0,No Change,Fast,Normal,0,0,1,Diarrhea,0,0,0,1,0,0,0,0,1,0,1,0,1,0,Thyroid Nodules
+1,Gain,Normal,Hot,1,0,1,Diarrhea,1,0,0,1,0,1,1,0,1,0,1,0,0,0,Thyroid Nodules
+0,Loss,Fast,Cold,1,1,1,Diarrhea,0,1,0,1,1,0,1,0,1,0,0,1,0,0,Thyroid Nodules
+0,No Change,Fast,Hot,0,0,1,Normal,1,0,0,1,1,1,0,0,1,1,1,1,1,0,Thyroid Nodules
+1,Loss,Slow,Hot,0,1,1,Diarrhea,1,0,0,1,0,1,1,1,1,1,0,1,1,1,Thyroid Nodules
+0,No Change,Slow,Hot,1,0,1,Constipation,0,1,1,1,1,0,0,0,1,1,1,0,1,0,Thyroid Nodules
+1,Loss,Fast,Hot,0,1,1,Constipation,1,0,0,1,1,1,0,0,0,1,1,1,0,1,Thyroid Nodules
+1,No Change,Slow,Cold,1,1,1,Diarrhea,0,1,1,1,0,1,1,0,0,0,0,0,1,1,Thyroid Nodules
+0,No Change,Slow,Cold,0,0,1,Normal,1,0,1,1,0,1,0,0,1,0,1,1,1,1,Thyroid Nodules
+0,No Change,Normal,Hot,0,0,1,Normal,0,0,0,1,0,1,0,0,1,1,1,1,0,0,Thyroid Nodules
+1,No Change,Slow,Cold,1,1,1,Diarrhea,1,1,1,1,0,1,1,1,1,0,1,0,0,0,Thyroid Nodules
+1,No Change,Slow,Cold,0,0,1,Constipation,1,0,1,1,0,1,0,0,0,1,0,0,0,1,Thyroid Nodules
+0,No Change,Normal,Normal,1,0,1,Diarrhea,0,1,0,1,0,1,1,0,1,0,0,1,1,0,Thyroid Nodules
+0,No Change,Normal,Cold,0,1,1,Diarrhea,1,0,1,1,1,1,0,0,1,0,0,0,0,1,Thyroid Nodules
+0,No Change,Fast,Hot,1,1,1,Diarrhea,1,0,0,1,1,0,0,1,1,1,0,0,1,0,Thyroid Nodules
+1,No Change,Slow,Cold,0,0,1,Normal,0,0,0,1,1,1,1,1,1,1,0,1,1,0,Thyroid Nodules
+1,Loss,Normal,Cold,1,0,1,Normal,0,1,0,1,0,0,1,1,1,0,1,0,1,1,Thyroid Nodules
+1,Loss,Slow,Cold,1,1,1,Constipation,0,0,0,1,0,0,1,1,1,1,0,0,1,0,Thyroid Nodules
+0,Gain,Fast,Cold,1,1,1,Constipation,1,0,0,1,0,1,0,1,0,0,0,1,0,1,Thyroid Nodules
+0,No Change,Slow,Normal,1,1,1,Diarrhea,0,1,0,1,0,1,1,1,1,0,1,1,0,1,Thyroid Nodules
+1,Loss,Slow,Hot,0,1,1,Constipation,0,1,0,1,0,0,0,1,1,0,1,0,1,0,Thyroid Nodules
+1,Loss,Slow,Hot,1,1,1,Diarrhea,0,0,1,1,1,0,1,1,1,0,0,1,1,0,Thyroid Nodules
+0,Loss,Normal,Cold,0,1,1,Constipation,1,1,0,1,0,0,0,0,1,1,1,0,0,0,Thyroid Nodules
+1,Loss,Normal,Cold,0,1,1,Diarrhea,0,1,1,1,1,1,1,0,1,0,1,0,0,1,Thyroid Nodules
+0,Loss,Fast,Normal,1,1,1,Normal,1,1,0,1,0,1,0,1,1,0,1,0,1,0,Thyroid Nodules
+0,Loss,Slow,Cold,1,0,1,Diarrhea,1,1,0,1,1,1,1,0,1,0,0,1,1,0,Thyroid Nodules
+0,Gain,Fast,Normal,0,0,1,Normal,0,0,0,1,1,0,0,1,1,1,1,0,1,0,Thyroid Nodules
+1,Loss,Fast,Hot,0,0,1,Normal,1,1,1,1,1,1,0,0,1,0,1,0,1,0,Thyroid Nodules
+1,Gain,Normal,Hot,0,1,1,Constipation,1,0,1,1,1,1,0,0,0,1,0,0,1,1,Thyroid Nodules
+0,Gain,Slow,Normal,1,0,1,Constipation,1,0,1,1,1,1,0,1,0,1,1,1,0,0,Thyroid Nodules
+0,No Change,Slow,Hot,1,1,1,Normal,1,0,1,1,1,1,1,0,0,1,1,1,1,1,Thyroid Nodules
+1,No Change,Fast,Cold,0,0,1,Diarrhea,1,1,1,1,1,0,0,1,1,1,0,1,0,0,Thyroid Nodules
+0,No Change,Slow,Cold,0,1,1,Diarrhea,0,1,1,1,0,1,1,1,0,1,0,0,1,0,Thyroid Nodules
+1,Loss,Normal,Normal,0,1,1,Constipation,0,0,0,1,0,1,0,0,0,1,0,0,0,0,Thyroid Nodules
+1,No Change,Fast,Hot,1,0,1,Diarrhea,0,0,0,1,1,0,1,1,0,1,1,1,1,1,Thyroid Nodules
+1,Loss,Fast,Hot,0,1,1,Diarrhea,1,1,1,1,0,1,0,0,0,0,0,0,0,1,Thyroid Nodules
+0,Loss,Normal,Normal,0,0,1,Diarrhea,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Thyroid Nodules
+0,No Change,Normal,Normal,0,0,1,Normal,1,0,1,1,1,0,1,1,0,1,1,0,1,1,Thyroid Nodules
+0,No Change,Normal,Hot,0,0,1,Normal,1,1,1,1,0,1,1,1,0,1,1,0,1,1,Thyroid Nodules
+0,Gain,Normal,Normal,1,0,1,Diarrhea,1,1,1,1,1,0,0,1,1,1,1,1,0,0,Thyroid Nodules
+1,Gain,Normal,Cold,0,0,1,Constipation,1,0,0,1,0,1,1,1,0,0,1,1,0,0,Thyroid Nodules
+0,Loss,Normal,Hot,1,0,1,Diarrhea,0,1,0,1,1,0,1,1,1,1,1,1,0,0,Thyroid Nodules
+1,Loss,Fast,Normal,1,0,1,Constipation,1,1,0,1,0,0,1,0,0,0,0,0,1,0,Thyroid Nodules
+0,No Change,Slow,Normal,0,0,1,Normal,0,0,0,1,1,1,0,1,0,0,0,0,0,0,Thyroid Nodules
+0,No Change,Slow,Normal,1,0,1,Diarrhea,0,1,0,1,0,0,1,0,0,1,0,1,1,0,Thyroid Nodules
+0,Gain,Fast,Hot,0,1,1,Diarrhea,1,0,0,1,0,1,0,1,1,0,1,1,1,1,Thyroid Nodules
+0,No Change,Slow,Cold,0,1,1,Constipation,0,1,0,1,0,1,1,0,0,1,0,1,1,0,Thyroid Nodules
+0,Loss,Slow,Cold,0,0,1,Constipation,0,0,0,1,1,1,1,0,0,1,1,0,1,0,Thyroid Nodules
+1,No Change,Fast,Hot,0,1,1,Diarrhea,0,1,1,1,1,1,0,0,1,1,1,1,1,0,Thyroid Nodules
+0,Gain,Slow,Normal,0,1,1,Diarrhea,1,0,1,1,0,0,1,0,0,0,0,0,1,0,Thyroid Nodules
+0,Loss,Slow,Hot,1,0,1,Constipation,1,1,0,1,0,1,1,0,0,1,0,1,0,1,Thyroid Nodules
+0,Gain,Fast,Hot,1,0,1,Normal,1,1,0,1,1,0,1,1,0,0,1,0,0,1,Thyroid Nodules
+0,Gain,Slow,Normal,0,1,1,Constipation,0,1,0,1,0,1,1,0,0,1,1,0,1,1,Thyroid Nodules
+0,Loss,Normal,Hot,1,0,1,Diarrhea,0,0,1,1,0,0,1,1,0,1,0,1,0,0,Thyroid Nodules
+1,Gain,Fast,Cold,0,0,1,Normal,1,1,1,1,1,0,1,0,1,1,0,0,0,0,Thyroid Nodules
+0,No Change,Slow,Hot,1,0,1,Normal,1,0,0,1,1,0,1,1,1,1,1,0,1,1,Thyroid Nodules
+1,No Change,Slow,Normal,1,1,1,Normal,0,1,1,1,0,0,0,0,1,1,1,1,0,1,Thyroid Nodules
+0,Gain,Normal,Hot,0,0,1,Normal,1,1,0,1,1,1,0,0,0,0,1,1,1,0,Thyroid Nodules
+1,No Change,Fast,Cold,1,1,1,Diarrhea,1,1,0,1,0,1,0,1,0,1,1,1,1,0,Thyroid Nodules
+0,Gain,Fast,Hot,1,0,1,Normal,0,1,0,1,0,0,0,1,0,1,0,0,1,0,Thyroid Nodules
+0,No Change,Slow,Hot,1,0,1,Constipation,0,1,0,1,1,0,0,0,0,1,0,0,1,0,Thyroid Nodules
+1,Gain,Normal,Hot,0,1,1,Constipation,1,1,0,1,0,1,1,0,0,0,1,1,0,0,Thyroid Nodules
+0,No Change,Normal,Hot,1,0,1,Constipation,1,0,1,1,1,0,0,1,1,1,1,1,0,1,Thyroid Nodules
+1,Loss,Normal,Normal,1,1,1,Diarrhea,1,0,0,1,1,0,0,0,1,1,0,0,1,0,Thyroid Nodules
+0,Loss,Normal,Cold,1,1,1,Normal,1,1,0,1,0,1,1,0,1,1,1,1,0,1,Thyroid Nodules
+1,No Change,Normal,Cold,1,0,1,Constipation,0,1,0,1,1,0,0,1,0,1,1,1,1,0,Thyroid Nodules
+1,Gain,Normal,Cold,1,0,1,Constipation,1,1,0,1,0,0,1,0,1,0,1,0,1,1,Thyroid Nodules
+1,No Change,Fast,Hot,1,1,1,Constipation,1,1,1,1,1,1,1,0,1,1,1,0,0,1,Thyroid Nodules
+0,Gain,Slow,Cold,1,1,1,Normal,0,1,0,1,0,0,0,1,1,0,1,1,0,1,Thyroid Nodules
+1,No Change,Slow,Normal,1,0,1,Constipation,0,0,0,1,1,1,0,0,1,0,1,0,1,0,Thyroid Nodules
+0,No Change,Normal,Hot,1,0,1,Normal,0,1,1,1,0,1,1,1,0,0,0,0,0,0,Thyroid Nodules
+1,Loss,Fast,Hot,0,0,1,Normal,0,1,0,1,0,1,1,1,0,0,1,1,1,0,Thyroid Nodules
+1,Gain,Fast,Cold,1,0,1,Normal,0,0,0,1,1,1,0,0,1,1,0,1,1,1,Thyroid Nodules
+1,Gain,Normal,Hot,1,0,1,Diarrhea,0,0,0,1,0,0,1,0,1,1,0,1,0,1,Thyroid Nodules
+0,Gain,Slow,Hot,1,1,1,Diarrhea,0,0,0,1,0,1,0,1,1,0,0,0,1,0,Thyroid Nodules
+0,Gain,Normal,Cold,1,1,1,Normal,1,1,1,1,0,1,0,1,1,0,1,1,0,1,Thyroid Nodules
+0,Gain,Fast,Normal,1,1,1,Normal,1,1,0,1,0,0,0,0,1,0,1,0,1,1,Thyroid Nodules
+1,Loss,Normal,Normal,0,1,1,Diarrhea,0,1,0,1,0,1,0,1,1,1,1,1,1,1,Thyroid Nodules
+0,No Change,Slow,Cold,0,0,1,Diarrhea,1,1,1,1,0,0,1,0,1,0,0,0,1,1,Thyroid Nodules
+0,Gain,Slow,Normal,0,1,1,Normal,1,1,0,1,1,1,1,1,1,0,0,0,1,0,Thyroid Nodules
+1,Gain,Fast,Normal,0,0,1,Diarrhea,0,0,0,1,1,1,0,1,1,0,1,1,1,1,Thyroid Nodules
+1,No Change,Normal,Normal,1,0,1,Constipation,0,1,1,1,1,1,0,1,0,0,1,0,0,0,Thyroid Nodules
+0,Loss,Normal,Hot,1,0,1,Normal,0,1,0,1,1,1,1,0,1,0,0,1,1,1,Thyroid Nodules
+0,Loss,Fast,Hot,1,0,1,Normal,0,1,1,1,0,0,1,1,0,1,0,1,0,1,Thyroid Nodules
+0,Loss,Normal,Hot,0,0,1,Diarrhea,0,0,0,1,0,0,1,1,0,0,0,0,0,0,Thyroid Nodules
+1,No Change,Fast,Normal,0,1,1,Constipation,1,1,1,1,1,0,1,1,1,1,1,0,0,1,Thyroid Nodules
+1,No Change,Normal,Hot,0,0,1,Diarrhea,1,1,0,1,0,1,1,1,1,1,0,0,1,0,Thyroid Nodules
+1,Loss,Slow,Normal,0,0,1,Constipation,0,1,0,1,1,1,0,0,0,1,0,1,0,0,Thyroid Nodules
+1,Loss,Fast,Cold,1,0,1,Constipation,0,1,1,1,0,1,0,1,0,1,0,1,0,0,Thyroid Nodules
+1,No Change,Normal,Normal,1,1,1,Normal,1,0,0,1,0,0,0,0,1,1,1,1,0,0,Thyroid Nodules
+0,Loss,Normal,Hot,0,0,1,Constipation,1,0,1,1,1,1,0,1,0,0,1,1,1,0,Thyroid Nodules
+0,Gain,Normal,Normal,1,0,1,Normal,1,0,1,1,0,0,1,1,1,1,1,1,1,0,Thyroid Nodules
+0,No Change,Fast,Hot,0,0,1,Constipation,0,1,1,1,1,0,1,0,1,1,0,1,1,0,Thyroid Nodules
+1,Loss,Slow,Hot,0,1,1,Normal,0,0,1,1,1,0,0,0,0,0,0,0,1,1,Thyroid Nodules
+1,Gain,Normal,Cold,0,0,1,Constipation,1,0,0,1,1,1,0,1,1,1,0,1,0,0,Thyroid Nodules
+0,No Change,Fast,Cold,0,1,1,Diarrhea,0,1,1,1,0,1,1,1,0,0,0,1,1,1,Thyroid Nodules
+0,No Change,Normal,Hot,1,1,1,Constipation,1,1,0,1,0,1,0,1,1,0,1,1,0,1,Thyroid Nodules
+0,Gain,Slow,Normal,1,0,1,Diarrhea,0,0,0,1,1,1,0,0,1,0,0,1,1,1,Thyroid Nodules
+1,No Change,Slow,Cold,0,1,1,Constipation,0,0,1,1,0,0,1,1,0,0,0,0,0,0,Thyroid Nodules
+1,Loss,Slow,Cold,0,1,1,Constipation,1,0,1,1,1,0,1,0,0,0,1,0,1,0,Thyroid Nodules
+1,No Change,Fast,Hot,1,0,1,Normal,1,0,0,1,1,1,1,1,1,1,0,0,1,1,Thyroid Nodules
+1,Loss,Normal,Normal,1,0,1,Constipation,0,1,1,1,0,1,0,0,1,0,0,1,1,0,Thyroid Nodules
+1,Gain,Fast,Cold,0,0,1,Constipation,1,1,0,1,1,1,1,0,0,0,0,1,1,1,Thyroid Nodules
+0,Gain,Normal,Cold,0,0,1,Constipation,0,0,1,1,0,0,1,0,1,1,1,1,0,1,Thyroid Nodules
+0,No Change,Fast,Normal,0,1,1,Diarrhea,1,0,0,1,0,1,0,1,0,1,0,0,1,1,Thyroid Nodules
+1,Gain,Normal,Cold,0,1,1,Normal,1,0,0,1,0,0,1,1,0,1,1,1,1,0,Thyroid Nodules
+1,Gain,Fast,Normal,0,0,1,Normal,0,1,1,1,1,0,0,0,0,1,0,1,1,1,Thyroid Nodules
+0,No Change,Normal,Hot,1,0,1,Constipation,0,1,0,1,1,0,0,0,1,0,1,0,0,0,Thyroid Nodules
+1,Loss,Fast,Cold,1,0,1,Constipation,0,1,0,1,0,0,0,0,0,1,1,0,1,1,Thyroid Nodules
+1,No Change,Slow,Hot,0,1,1,Diarrhea,1,0,1,1,0,0,0,1,1,0,1,1,1,0,Thyroid Nodules
+0,No Change,Fast,Normal,0,0,1,Constipation,1,1,1,1,1,0,1,1,0,1,0,0,0,1,Thyroid Nodules
+1,Loss,Slow,Hot,0,1,1,Normal,0,0,1,1,0,0,0,1,1,1,0,1,0,0,Thyroid Nodules
+1,Loss,Slow,Hot,0,1,1,Normal,1,0,1,1,0,1,1,0,1,1,1,1,0,1,Thyroid Nodules
+0,Loss,Normal,Hot,1,1,1,Diarrhea,0,1,1,1,1,1,1,1,0,1,1,0,1,0,Thyroid Nodules
+1,No Change,Slow,Normal,1,1,1,Diarrhea,0,0,0,1,1,1,1,1,0,1,0,1,0,0,Thyroid Nodules
+1,Loss,Slow,Normal,0,0,1,Normal,0,1,0,1,1,0,1,1,0,0,1,0,1,0,Thyroid Nodules
+0,Gain,Normal,Normal,1,0,1,Diarrhea,0,1,1,1,0,0,1,0,1,0,0,0,0,1,Thyroid Nodules
+0,Loss,Fast,Normal,0,0,1,Constipation,0,0,0,1,1,1,0,1,1,0,0,1,1,1,Thyroid Nodules
+1,Gain,Fast,Normal,0,1,1,Constipation,1,0,0,1,1,0,1,1,1,1,1,0,0,1,Thyroid Nodules
+0,Loss,Slow,Cold,1,1,1,Diarrhea,1,1,0,1,1,0,0,1,0,0,1,1,0,0,Thyroid Nodules
+0,Gain,Fast,Cold,0,0,1,Normal,0,1,0,1,1,0,0,1,0,1,0,1,0,0,Thyroid Nodules
+1,Gain,Slow,Cold,1,1,1,Diarrhea,1,1,0,1,1,0,0,1,0,1,0,0,1,1,Thyroid Nodules
+0,Gain,Fast,Hot,0,1,1,Normal,0,1,1,1,1,0,1,0,0,0,0,0,0,1,Thyroid Nodules
+0,No Change,Slow,Cold,0,1,1,Diarrhea,0,0,0,0,1,1,1,1,1,0,0,1,1,1,Thyroid Cancer
+1,No Change,Fast,Hot,1,0,1,Normal,1,1,1,1,1,0,1,0,0,0,1,0,1,0,Thyroid Cancer
+0,Gain,Fast,Hot,1,0,1,Diarrhea,0,0,0,0,0,0,1,0,1,0,0,0,1,1,Thyroid Cancer
+0,No Change,Normal,Hot,1,0,1,Normal,0,1,0,1,0,0,1,0,1,0,0,0,1,1,Thyroid Cancer
+0,Loss,Fast,Normal,0,1,1,Constipation,1,0,0,0,0,0,1,0,0,0,1,0,1,1,Thyroid Cancer
+1,No Change,Fast,Normal,1,0,1,Diarrhea,0,0,1,0,1,0,1,0,1,1,1,1,1,0,Thyroid Cancer
+0,Loss,Normal,Cold,1,1,1,Normal,0,1,0,1,1,1,1,1,0,0,0,1,0,0,Thyroid Cancer
+1,Loss,Normal,Cold,1,0,1,Normal,0,1,0,1,1,1,1,0,0,1,0,0,0,1,Thyroid Cancer
+0,Loss,Normal,Normal,0,1,1,Constipation,0,1,0,1,1,0,1,1,1,0,1,1,0,0,Thyroid Cancer
+1,Loss,Normal,Hot,0,1,1,Constipation,1,1,0,0,0,0,1,1,1,0,0,0,1,0,Thyroid Cancer
+1,No Change,Slow,Hot,0,1,1,Diarrhea,1,0,1,0,0,0,1,1,1,0,0,0,0,1,Thyroid Cancer
+0,Gain,Normal,Cold,1,1,1,Diarrhea,1,0,0,1,1,1,1,0,1,0,0,1,1,1,Thyroid Cancer
+0,Gain,Slow,Hot,1,1,1,Normal,1,1,0,0,0,0,1,1,0,1,1,1,0,0,Thyroid Cancer
+0,Loss,Normal,Normal,0,0,1,Diarrhea,1,1,1,1,0,0,1,1,1,1,0,1,0,1,Thyroid Cancer
+0,No Change,Normal,Cold,0,0,1,Constipation,1,0,1,0,0,1,1,1,1,0,0,0,1,0,Thyroid Cancer
+1,Gain,Normal,Normal,1,0,1,Diarrhea,0,1,1,1,1,1,1,1,1,1,1,1,0,0,Thyroid Cancer
+1,No Change,Fast,Normal,0,1,1,Diarrhea,0,0,1,0,0,0,1,1,1,0,0,0,1,1,Thyroid Cancer
+1,Gain,Slow,Hot,1,1,1,Normal,0,1,1,1,1,0,1,1,0,1,0,1,0,0,Thyroid Cancer
+1,Loss,Normal,Normal,0,1,1,Constipation,0,1,0,1,1,0,1,0,0,0,1,0,0,1,Thyroid Cancer
+1,Loss,Fast,Normal,0,0,1,Normal,1,0,1,1,1,0,1,1,1,1,1,1,0,0,Thyroid Cancer
+0,Loss,Slow,Hot,0,1,1,Constipation,0,0,1,0,0,1,1,1,1,1,1,0,1,0,Thyroid Cancer
+0,Gain,Slow,Normal,1,1,1,Constipation,0,1,1,1,0,1,1,0,0,1,1,0,1,0,Thyroid Cancer
+1,No Change,Fast,Hot,0,1,1,Normal,1,0,0,0,0,0,1,1,0,0,1,1,0,0,Thyroid Cancer
+0,Loss,Slow,Normal,1,1,1,Diarrhea,0,1,0,1,0,1,1,0,0,1,0,0,0,0,Thyroid Cancer
+0,No Change,Fast,Hot,0,0,1,Normal,0,0,0,1,1,0,1,0,0,0,0,1,1,0,Thyroid Cancer
+0,No Change,Normal,Hot,0,1,1,Diarrhea,1,1,1,1,1,1,1,1,1,1,1,1,0,1,Thyroid Cancer
+0,Loss,Fast,Cold,1,1,1,Normal,0,1,0,0,1,0,1,1,1,0,0,1,0,0,Thyroid Cancer
+0,Gain,Slow,Normal,1,1,1,Normal,0,1,1,0,0,0,1,0,0,0,1,0,1,0,Thyroid Cancer
+0,Loss,Slow,Normal,0,1,1,Diarrhea,1,0,1,0,0,1,1,0,0,0,0,1,0,0,Thyroid Cancer
+1,Loss,Normal,Cold,1,0,1,Diarrhea,0,0,0,1,0,1,1,0,1,1,0,0,0,1,Thyroid Cancer
+0,Gain,Fast,Hot,0,1,1,Diarrhea,0,0,0,0,1,1,1,0,1,1,0,1,1,0,Thyroid Cancer
+0,No Change,Normal,Hot,1,0,1,Normal,0,0,0,1,1,1,1,1,0,0,1,1,1,0,Thyroid Cancer
+1,Gain,Fast,Cold,1,0,1,Diarrhea,0,1,1,1,0,1,1,0,1,0,1,0,1,0,Thyroid Cancer
+1,Gain,Fast,Cold,0,1,1,Diarrhea,0,0,0,1,1,0,1,0,0,0,1,0,1,1,Thyroid Cancer
+1,Loss,Fast,Hot,0,1,1,Diarrhea,1,0,0,1,1,0,1,0,1,1,0,1,0,1,Thyroid Cancer
+0,Gain,Normal,Hot,1,0,1,Constipation,0,0,0,1,0,1,1,1,1,1,1,0,1,1,Thyroid Cancer
+1,Gain,Normal,Cold,1,1,1,Diarrhea,0,1,0,0,0,0,1,0,0,1,0,1,1,0,Thyroid Cancer
+0,Gain,Slow,Normal,0,1,1,Diarrhea,0,0,0,0,1,0,1,0,1,1,0,0,0,0,Thyroid Cancer
+1,No Change,Normal,Hot,1,0,1,Diarrhea,1,0,1,1,0,0,1,1,0,1,1,0,1,0,Thyroid Cancer
+0,No Change,Fast,Cold,1,0,1,Constipation,1,1,1,1,1,0,1,1,1,0,0,1,1,1,Thyroid Cancer
+0,Loss,Fast,Normal,1,0,1,Constipation,1,1,0,0,0,1,1,0,0,0,0,0,0,0,Thyroid Cancer
+1,Loss,Fast,Normal,1,0,1,Diarrhea,0,1,1,1,1,0,1,0,0,0,0,1,1,1,Thyroid Cancer
+0,No Change,Normal,Normal,0,0,1,Diarrhea,0,1,1,1,0,0,1,0,0,0,1,1,1,1,Thyroid Cancer
+0,Gain,Slow,Normal,0,0,1,Diarrhea,0,1,1,1,0,0,1,1,1,1,1,0,0,0,Thyroid Cancer
+0,Loss,Normal,Cold,1,1,1,Diarrhea,0,1,0,1,0,0,1,1,0,1,1,1,1,0,Thyroid Cancer
+0,Loss,Slow,Hot,1,1,1,Constipation,0,1,1,0,1,1,1,0,0,0,0,0,1,1,Thyroid Cancer
+1,Gain,Normal,Normal,0,1,1,Diarrhea,1,0,0,1,1,0,1,0,1,1,0,0,0,0,Thyroid Cancer
+1,Gain,Fast,Normal,1,1,1,Constipation,0,1,1,0,0,0,1,0,1,0,1,1,0,1,Thyroid Cancer
+1,Gain,Slow,Cold,1,1,1,Normal,0,1,0,0,1,0,1,1,0,1,0,0,1,1,Thyroid Cancer
+0,Gain,Normal,Normal,1,1,1,Constipation,1,1,1,0,1,1,1,0,0,1,1,1,1,0,Thyroid Cancer
+1,Gain,Fast,Cold,1,1,1,Normal,1,1,1,0,0,1,1,0,1,0,1,1,1,0,Thyroid Cancer
+1,No Change,Slow,Cold,1,1,1,Constipation,1,1,0,1,0,0,1,1,1,0,1,0,0,0,Thyroid Cancer
+0,Gain,Slow,Hot,0,1,1,Constipation,1,0,0,1,0,0,1,0,1,0,1,0,1,0,Thyroid Cancer
+1,Loss,Fast,Normal,1,0,1,Constipation,1,0,1,1,1,1,1,1,0,1,0,1,1,0,Thyroid Cancer
+1,No Change,Fast,Hot,1,0,1,Diarrhea,0,0,0,0,0,0,1,1,1,1,0,1,0,0,Thyroid Cancer
+1,Loss,Normal,Cold,1,1,1,Constipation,0,0,0,0,1,1,1,0,0,1,0,1,1,0,Thyroid Cancer
+0,Gain,Normal,Normal,0,1,1,Diarrhea,0,0,0,0,1,0,1,1,0,0,1,0,1,1,Thyroid Cancer
+1,Loss,Fast,Cold,1,0,1,Constipation,0,0,0,1,1,0,1,1,0,0,0,0,1,0,Thyroid Cancer
+1,Gain,Normal,Cold,1,0,1,Constipation,0,0,1,1,0,1,1,0,1,0,1,1,0,0,Thyroid Cancer
+1,Loss,Fast,Cold,0,0,1,Normal,1,1,0,1,0,0,1,1,1,1,1,0,0,0,Thyroid Cancer
+0,Loss,Fast,Normal,0,1,1,Constipation,0,1,1,0,1,0,1,1,1,1,1,1,1,0,Thyroid Cancer
+0,Gain,Normal,Cold,0,0,1,Diarrhea,0,1,1,0,1,0,1,0,0,0,0,0,1,1,Thyroid Cancer
+1,Loss,Normal,Cold,0,0,1,Normal,1,1,0,1,0,1,1,0,0,0,1,1,0,0,Thyroid Cancer
+1,No Change,Slow,Normal,1,0,1,Normal,1,1,0,0,0,1,1,0,1,0,0,1,1,1,Thyroid Cancer
+1,Loss,Slow,Hot,1,1,1,Constipation,0,1,0,0,0,0,1,0,1,1,0,1,0,1,Thyroid Cancer
+0,No Change,Normal,Cold,1,0,1,Constipation,0,0,0,1,0,0,1,0,0,1,0,1,0,1,Thyroid Cancer
+0,No Change,Normal,Hot,0,1,1,Normal,1,1,1,0,0,0,1,1,0,0,0,1,0,1,Thyroid Cancer
+1,Loss,Normal,Hot,1,0,1,Diarrhea,0,1,1,0,0,0,1,1,0,0,0,1,0,1,Thyroid Cancer
+1,No Change,Slow,Hot,0,0,1,Constipation,1,1,0,1,0,1,1,1,0,0,0,0,0,0,Thyroid Cancer
+0,No Change,Normal,Hot,0,1,1,Normal,0,0,1,0,0,1,1,1,1,1,0,1,1,1,Thyroid Cancer
+0,Loss,Slow,Hot,1,0,1,Diarrhea,1,0,0,0,0,1,1,1,0,1,0,1,0,1,Thyroid Cancer
+1,Gain,Slow,Hot,0,0,1,Constipation,1,0,1,0,1,0,1,0,0,1,1,1,1,0,Thyroid Cancer
+0,Gain,Slow,Normal,0,0,1,Normal,1,1,1,0,0,0,1,0,1,0,1,1,1,1,Thyroid Cancer
+1,No Change,Slow,Normal,1,1,1,Normal,0,1,1,1,0,1,1,0,1,0,0,1,1,0,Thyroid Cancer
+1,No Change,Fast,Hot,1,1,1,Constipation,1,1,0,1,1,0,1,0,1,0,0,0,0,0,Thyroid Cancer
+0,Gain,Normal,Normal,0,1,1,Diarrhea,1,0,0,0,0,0,1,1,1,0,0,1,1,0,Thyroid Cancer
+1,No Change,Normal,Normal,1,0,1,Diarrhea,0,0,1,1,0,1,1,0,0,0,0,1,1,0,Thyroid Cancer
+1,Gain,Fast,Hot,1,1,1,Normal,0,1,0,1,1,0,1,0,0,0,0,1,1,1,Thyroid Cancer
+1,Loss,Normal,Hot,0,0,1,Diarrhea,0,0,0,1,0,1,1,1,0,0,1,1,0,1,Thyroid Cancer
+1,No Change,Slow,Cold,0,0,1,Normal,1,1,1,0,1,0,1,1,0,0,0,0,1,1,Thyroid Cancer
+1,Loss,Fast,Normal,1,0,1,Constipation,1,0,0,0,1,0,1,0,0,0,0,0,0,0,Thyroid Cancer
+1,Gain,Slow,Hot,1,0,1,Diarrhea,1,0,0,1,0,0,1,1,1,0,0,1,0,0,Thyroid Cancer
+1,Gain,Fast,Normal,0,0,1,Constipation,0,0,1,1,1,0,1,1,1,0,1,1,1,0,Thyroid Cancer
+0,Loss,Slow,Normal,1,0,1,Normal,0,1,1,1,1,0,1,0,0,1,1,0,1,1,Thyroid Cancer
+0,No Change,Normal,Normal,0,0,1,Constipation,1,0,1,1,1,1,1,1,1,0,0,1,0,0,Thyroid Cancer
+1,Loss,Normal,Cold,0,0,1,Diarrhea,0,1,1,0,1,1,1,0,0,0,1,0,0,1,Thyroid Cancer
+0,Loss,Normal,Hot,1,1,1,Constipation,0,1,0,1,0,0,1,1,0,1,1,1,1,1,Thyroid Cancer
+1,No Change,Fast,Normal,1,1,1,Diarrhea,1,1,0,0,1,0,1,1,0,0,1,0,1,0,Thyroid Cancer
+1,Gain,Normal,Hot,1,0,1,Diarrhea,1,0,1,0,1,1,1,1,0,1,1,0,1,0,Thyroid Cancer
+0,Loss,Fast,Normal,1,1,1,Diarrhea,0,0,1,0,0,1,1,1,0,1,1,1,1,0,Thyroid Cancer
+1,Loss,Slow,Hot,1,1,1,Diarrhea,1,0,0,0,1,0,1,0,1,0,1,1,1,0,Thyroid Cancer
+1,Gain,Normal,Hot,0,1,1,Diarrhea,0,1,0,0,0,1,1,1,1,0,1,1,0,0,Thyroid Cancer
+0,Loss,Slow,Hot,1,0,1,Normal,0,0,0,0,1,1,1,0,0,1,1,1,0,1,Thyroid Cancer
+0,Gain,Normal,Normal,0,1,1,Constipation,1,0,1,0,0,1,1,0,0,0,0,0,0,1,Thyroid Cancer
+0,No Change,Slow,Cold,1,0,1,Normal,1,1,1,1,1,0,1,1,1,0,0,0,0,0,Thyroid Cancer
+0,Gain,Fast,Hot,0,1,1,Constipation,0,1,1,0,0,1,1,1,0,0,1,1,0,0,Thyroid Cancer
+0,Gain,Normal,Cold,1,1,1,Constipation,0,1,1,1,1,1,1,0,0,1,1,0,1,0,Thyroid Cancer
+0,Loss,Fast,Hot,1,1,1,Constipation,1,0,0,1,0,1,1,1,0,1,0,1,0,1,Thyroid Cancer
+1,Gain,Fast,Cold,0,0,1,Normal,0,0,1,1,0,1,1,1,1,0,0,1,1,1,Thyroid Cancer
+0,Gain,Slow,Hot,1,0,1,Diarrhea,0,1,1,1,0,0,1,0,0,0,1,1,0,1,Thyroid Cancer
+0,Loss,Normal,Cold,1,0,1,Diarrhea,0,0,0,1,0,1,1,1,0,1,0,0,0,1,Thyroid Cancer
+1,Gain,Fast,Hot,0,0,1,Normal,0,1,1,0,0,1,1,0,1,1,1,1,1,0,Thyroid Cancer
+1,Loss,Slow,Hot,0,0,1,Diarrhea,0,0,0,0,1,1,1,1,0,0,0,0,0,1,Thyroid Cancer
+0,No Change,Slow,Cold,0,0,1,Constipation,1,1,1,1,1,0,1,1,0,0,1,1,0,1,Thyroid Cancer
+1,Gain,Slow,Hot,1,0,1,Diarrhea,0,0,0,1,0,0,1,1,1,0,0,0,0,0,Thyroid Cancer
+1,No Change,Normal,Normal,0,0,1,Diarrhea,0,1,0,1,0,0,1,1,1,1,1,0,0,0,Thyroid Cancer
+1,Gain,Normal,Hot,0,0,1,Diarrhea,1,1,0,0,1,1,1,1,0,1,0,0,1,1,Thyroid Cancer
+1,Gain,Slow,Hot,1,1,1,Constipation,1,1,1,1,1,1,1,1,1,0,0,0,0,0,Thyroid Cancer
+1,No Change,Normal,Normal,1,1,1,Diarrhea,1,0,1,0,0,1,1,0,0,1,1,1,0,0,Thyroid Cancer
+1,No Change,Slow,Normal,1,0,1,Diarrhea,0,0,1,0,1,0,1,0,0,0,1,0,0,0,Thyroid Cancer
+1,Loss,Normal,Normal,1,1,1,Diarrhea,0,0,1,1,0,1,1,1,1,0,0,0,0,1,Thyroid Cancer
+0,Loss,Normal,Cold,1,1,1,Normal,1,1,1,0,0,1,1,1,0,0,0,1,0,1,Thyroid Cancer
+1,No Change,Slow,Normal,1,0,1,Normal,1,1,1,0,0,0,1,0,1,0,1,0,0,0,Thyroid Cancer
+0,Gain,Slow,Cold,0,0,1,Diarrhea,1,1,0,0,1,1,1,0,1,0,0,1,0,0,Thyroid Cancer
+1,Loss,Normal,Normal,0,1,1,Normal,1,1,1,1,0,1,1,0,1,1,0,0,0,1,Thyroid Cancer
+1,Gain,Slow,Cold,1,0,1,Normal,1,1,1,1,1,0,1,1,0,1,0,1,1,1,Thyroid Cancer
+0,Loss,Slow,Normal,0,1,1,Constipation,0,1,0,1,1,0,1,1,1,0,0,0,1,0,Thyroid Cancer
+1,Loss,Slow,Normal,0,0,1,Normal,1,1,0,1,1,0,1,1,0,1,0,0,1,0,Thyroid Cancer
+1,Loss,Slow,Hot,0,1,1,Normal,0,1,1,1,1,0,1,0,1,0,1,0,0,1,Thyroid Cancer
+0,No Change,Normal,Normal,0,0,1,Diarrhea,0,1,0,1,0,0,1,0,1,1,0,0,0,0,Thyroid Cancer
+1,Gain,Fast,Hot,1,1,1,Constipation,1,0,1,1,0,1,1,1,0,1,0,1,1,1,Thyroid Cancer
+1,No Change,Normal,Normal,1,1,1,Constipation,1,1,0,1,1,0,1,0,0,1,1,0,1,0,Thyroid Cancer
+0,Loss,Slow,Normal,0,1,1,Constipation,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Thyroid Cancer
+0,No Change,Slow,Hot,1,1,1,Normal,1,1,0,1,1,1,1,1,0,0,1,1,1,0,Thyroid Cancer
+1,No Change,Normal,Hot,0,0,1,Diarrhea,1,0,0,0,0,0,1,0,0,1,1,1,0,1,Thyroid Cancer
+0,No Change,Slow,Cold,0,1,1,Constipation,0,1,1,0,0,0,1,1,1,1,1,1,1,0,Thyroid Cancer
+1,Gain,Normal,Hot,1,0,1,Constipation,1,0,1,1,0,1,1,0,1,1,0,0,0,0,Thyroid Cancer
+1,No Change,Fast,Cold,0,1,1,Normal,1,1,0,0,0,1,1,0,0,1,0,0,1,0,Thyroid Cancer
+0,No Change,Slow,Normal,1,0,1,Constipation,0,1,0,0,0,1,1,1,1,1,0,0,0,0,Thyroid Cancer
+0,No Change,Fast,Hot,1,1,1,Diarrhea,1,1,0,1,0,0,1,1,1,1,1,0,0,1,Thyroid Cancer
+0,No Change,Fast,Hot,1,0,1,Constipation,1,0,0,0,1,1,1,0,1,1,1,0,0,0,Thyroid Cancer
+0,No Change,Slow,Normal,1,1,1,Diarrhea,1,1,1,1,0,0,1,1,0,1,1,0,0,1,Thyroid Cancer
+1,No Change,Slow,Normal,1,1,1,Diarrhea,0,0,0,0,0,1,1,0,0,0,0,1,1,1,Thyroid Cancer
+0,No Change,Normal,Normal,1,0,1,Diarrhea,1,0,0,0,0,1,1,1,0,0,0,1,0,0,Thyroid Cancer
+0,Loss,Normal,Normal,1,1,1,Normal,1,0,1,1,1,1,1,0,1,0,0,0,0,1,Thyroid Cancer
+1,No Change,Slow,Hot,1,1,1,Normal,1,0,1,0,0,0,1,0,0,1,0,0,1,0,Thyroid Cancer
+1,No Change,Normal,Normal,1,1,1,Diarrhea,1,0,1,0,0,0,1,1,1,0,0,0,1,1,Thyroid Cancer
+1,Gain,Fast,Normal,0,1,1,Diarrhea,0,1,1,1,0,1,1,1,1,0,0,1,1,0,Thyroid Cancer
+1,Loss,Fast,Hot,1,0,1,Constipation,1,0,1,1,1,1,1,0,1,0,1,0,1,0,Thyroid Cancer
+1,No Change,Slow,Cold,0,1,1,Constipation,0,0,1,0,0,1,1,0,1,1,0,0,0,1,Thyroid Cancer
+1,Gain,Normal,Hot,1,0,1,Constipation,1,0,0,0,1,0,1,0,0,0,0,0,1,1,Thyroid Cancer
+1,No Change,Slow,Cold,0,0,1,Normal,1,0,0,1,1,0,1,0,1,0,0,1,0,0,Thyroid Cancer
+1,No Change,Fast,Normal,1,0,1,Constipation,1,1,0,0,0,0,1,1,1,0,0,1,1,1,Thyroid Cancer
+1,No Change,Slow,Hot,1,0,1,Diarrhea,0,1,1,1,0,0,1,1,0,0,0,0,0,0,Thyroid Cancer
+0,No Change,Slow,Normal,1,1,1,Diarrhea,1,1,1,1,1,0,1,1,1,0,1,1,1,0,Thyroid Cancer
+0,No Change,Slow,Hot,0,1,1,Normal,1,0,0,1,1,1,1,0,0,0,0,1,1,1,Thyroid Cancer
+1,Gain,Slow,Cold,0,0,1,Normal,0,0,0,0,0,1,1,1,0,0,0,1,1,0,Thyroid Cancer
+0,No Change,Fast,Hot,1,1,1,Constipation,1,0,1,0,0,1,1,0,0,1,1,0,1,1,Thyroid Cancer
+1,Gain,Slow,Normal,0,1,1,Normal,1,1,1,0,1,0,1,0,1,0,1,0,0,0,Thyroid Cancer
+1,No Change,Slow,Hot,1,0,1,Diarrhea,1,0,0,1,1,1,1,1,0,0,0,1,1,0,Thyroid Cancer
+1,Gain,Normal,Normal,0,0,1,Diarrhea,1,1,0,0,1,0,1,1,1,1,0,1,0,0,Thyroid Cancer
+1,Loss,Slow,Hot,0,0,1,Normal,0,0,0,1,1,0,1,0,0,1,0,1,0,1,Thyroid Cancer
+0,No Change,Normal,Cold,0,1,1,Diarrhea,0,0,0,0,0,1,1,0,0,1,0,0,1,0,Thyroid Cancer
+0,Loss,Slow,Hot,1,0,1,Normal,0,1,0,1,1,1,1,1,0,1,0,1,1,0,Thyroid Cancer
+1,Loss,Normal,Hot,0,0,1,Diarrhea,1,0,1,1,0,0,1,0,0,1,1,1,0,1,Thyroid Cancer
+0,Loss,Slow,Hot,0,1,1,Constipation,1,1,0,0,1,0,1,1,1,0,1,0,0,0,Thyroid Cancer
+0,No Change,Normal,Hot,1,1,1,Normal,1,0,0,1,1,1,1,1,1,0,0,1,0,1,Thyroid Cancer
+1,Loss,Slow,Cold,1,1,1,Normal,1,1,1,0,0,0,1,0,0,0,0,1,0,1,Thyroid Cancer
+1,Gain,Slow,Normal,0,1,1,Normal,0,0,0,0,0,0,1,0,0,1,1,0,0,1,Thyroid Cancer
+0,No Change,Normal,Hot,0,1,1,Diarrhea,1,0,1,0,0,0,1,0,0,0,1,1,1,0,Thyroid Cancer
+0,Loss,Slow,Hot,1,1,1,Constipation,0,0,1,0,0,1,1,0,1,0,0,1,1,1,Thyroid Cancer
+1,No Change,Slow,Hot,1,1,1,Normal,1,0,0,0,1,0,1,0,0,1,0,1,0,0,Thyroid Cancer
+1,Loss,Slow,Cold,1,1,1,Diarrhea,1,0,0,1,0,0,1,1,0,1,0,1,1,1,Thyroid Cancer
+0,Gain,Slow,Normal,1,0,1,Normal,0,1,1,0,0,0,1,1,1,0,0,0,0,0,Thyroid Cancer
+1,No Change,Fast,Normal,1,1,1,Diarrhea,1,1,1,1,0,0,1,1,0,1,0,0,1,1,Thyroid Cancer
+1,No Change,Slow,Hot,0,0,1,Constipation,0,0,1,0,1,0,1,1,0,0,0,0,0,1,Thyroid Cancer
+1,Loss,Fast,Hot,1,1,1,Diarrhea,0,1,0,1,1,0,1,0,0,1,1,1,1,1,Thyroid Cancer
+0,Gain,Fast,Normal,1,1,1,Diarrhea,1,1,0,1,0,0,1,1,0,0,1,0,1,0,Thyroid Cancer
+0,No Change,Slow,Hot,0,0,1,Normal,0,1,0,0,1,1,1,0,1,0,1,0,0,1,Thyroid Cancer
+1,Loss,Normal,Hot,1,1,1,Diarrhea,0,1,0,1,1,1,1,0,1,0,1,1,1,0,Thyroid Cancer
+0,Gain,Normal,Hot,1,0,1,Normal,1,0,0,0,0,1,1,0,1,1,0,0,0,0,Thyroid Cancer
+1,Gain,Slow,Cold,1,1,1,Diarrhea,0,1,1,0,1,0,1,0,0,1,1,1,0,0,Thyroid Cancer
+0,Gain,Fast,Cold,0,0,1,Constipation,0,1,0,0,0,1,1,0,0,1,1,1,1,0,Thyroid Cancer
+0,Gain,Normal,Normal,1,0,1,Diarrhea,1,0,0,1,0,1,1,1,1,1,0,1,0,0,Thyroid Cancer
+0,No Change,Slow,Cold,1,1,1,Normal,0,0,1,1,0,0,1,0,0,0,1,0,1,0,Thyroid Cancer
+1,No Change,Slow,Cold,1,0,1,Diarrhea,1,0,0,1,1,1,1,0,0,0,0,0,1,1,Thyroid Cancer
+1,Gain,Fast,Normal,1,0,1,Diarrhea,0,0,0,1,0,0,1,1,1,0,0,1,0,1,Thyroid Cancer
+1,Loss,Normal,Cold,0,1,1,Constipation,1,0,0,0,1,0,1,1,1,0,1,0,1,0,Thyroid Cancer
+0,Loss,Slow,Normal,0,1,1,Normal,1,0,1,0,1,0,1,1,0,1,1,1,0,0,Thyroid Cancer
+1,Gain,Normal,Hot,1,0,1,Constipation,1,0,1,1,1,1,1,0,1,1,1,0,0,1,Thyroid Cancer
+1,Gain,Slow,Normal,1,1,1,Diarrhea,1,0,0,1,1,0,1,0,0,1,0,0,1,1,Thyroid Cancer
+1,Loss,Slow,Normal,1,0,1,Constipation,1,1,0,0,0,1,1,0,1,1,1,0,0,0,Thyroid Cancer
+1,Gain,Slow,Normal,1,0,1,Diarrhea,0,0,0,1,0,0,1,0,1,0,0,0,1,1,Thyroid Cancer
+0,Gain,Fast,Hot,1,0,1,Diarrhea,1,1,1,0,1,0,1,1,0,1,1,0,1,0,Thyroid Cancer
+1,No Change,Fast,Hot,1,1,1,Constipation,1,0,1,1,0,1,1,1,0,1,0,1,0,1,Thyroid Cancer
+1,No Change,Fast,Hot,1,1,1,Constipation,0,0,0,1,1,0,1,1,1,1,1,0,1,1,Thyroid Cancer
+0,Gain,Normal,Normal,0,0,1,Diarrhea,1,1,0,1,1,1,1,1,0,0,1,0,0,1,Thyroid Cancer
+1,Gain,Fast,Normal,1,0,1,Constipation,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Thyroid Cancer
+0,No Change,Fast,Normal,0,0,1,Constipation,0,0,0,0,1,0,1,1,0,0,1,0,0,1,Thyroid Cancer
+0,Gain,Normal,Normal,0,1,1,Diarrhea,1,1,1,1,0,0,1,0,1,1,1,0,0,0,Thyroid Cancer
+0,No Change,Normal,Normal,1,0,1,Normal,0,1,1,1,1,0,1,0,0,0,0,1,1,0,Thyroid Cancer
+1,No Change,Normal,Normal,0,1,1,Constipation,0,1,0,1,1,0,1,1,0,0,1,1,0,1,Thyroid Cancer
+0,Loss,Normal,Normal,0,0,1,Constipation,0,1,1,1,1,0,1,1,1,0,1,1,0,0,Thyroid Cancer
+0,No Change,Fast,Cold,0,0,1,Normal,1,1,1,1,1,0,1,1,1,0,0,0,0,0,Thyroid Cancer
+0,Loss,Fast,Hot,1,0,1,Constipation,0,1,0,1,0,0,1,1,1,0,1,0,1,1,Thyroid Cancer
+1,Loss,Normal,Cold,0,0,1,Diarrhea,1,0,0,1,1,1,1,0,1,0,0,1,1,0,Thyroid Cancer
+0,No Change,Fast,Hot,0,1,1,Constipation,1,0,0,1,1,1,1,0,0,1,1,1,0,0,Thyroid Cancer
+0,Gain,Slow,Normal,1,1,1,Diarrhea,0,0,0,0,0,1,1,0,0,1,1,1,1,1,Thyroid Cancer
+0,No Change,Fast,Cold,1,1,1,Normal,1,0,1,0,1,0,1,1,1,0,0,1,1,0,Thyroid Cancer
+1,Loss,Slow,Normal,0,1,1,Normal,0,0,0,0,1,1,1,1,1,1,1,0,0,1,Thyroid Cancer
+0,No Change,Normal,Cold,1,1,1,Normal,0,1,0,0,1,1,1,1,0,0,0,1,0,1,Thyroid Cancer
+0,No Change,Normal,Cold,1,0,1,Constipation,1,1,0,1,1,0,1,0,0,1,0,0,1,0,Thyroid Cancer
+1,Loss,Fast,Normal,0,1,1,Normal,1,0,0,0,1,1,1,0,1,0,1,1,1,1,Thyroid Cancer
+1,No Change,Normal,Cold,0,1,1,Constipation,1,1,1,0,1,0,1,0,0,1,0,0,1,0,Thyroid Cancer
+1,No Change,Fast,Cold,0,1,1,Constipation,0,0,0,1,0,1,1,1,0,0,1,0,0,0,Thyroid Cancer
+0,Loss,Fast,Hot,1,1,1,Constipation,0,1,0,0,1,1,1,0,1,0,0,0,1,1,Thyroid Cancer
+0,Gain,Fast,Normal,0,0,1,Normal,0,0,1,0,0,1,1,0,1,1,1,1,1,0,Thyroid Cancer
+0,Loss,Fast,Normal,0,0,1,Normal,1,0,0,0,1,1,1,1,1,0,1,0,1,0,Thyroid Cancer
+0,Loss,Slow,Cold,1,0,1,Constipation,0,0,0,0,0,1,1,0,1,1,0,0,1,0,Thyroid Cancer
+1,No Change,Slow,Normal,1,1,1,Normal,0,1,0,0,0,0,1,1,0,0,1,1,0,0,Thyroid Cancer
+0,Loss,Normal,Hot,1,0,1,Constipation,0,1,1,1,0,1,1,1,1,0,1,1,0,0,Thyroid Cancer
+1,No Change,Slow,Hot,1,0,1,Normal,0,0,0,1,0,0,1,1,0,0,1,1,0,0,Thyroid Cancer
+0,No Change,Normal,Normal,0,1,1,Diarrhea,1,1,0,1,1,1,1,0,0,0,0,1,1,0,Thyroid Cancer
+0,No Change,Normal,Normal,0,1,1,Normal,0,0,0,0,1,0,1,0,0,1,1,1,0,1,Thyroid Cancer
+0,Loss,Fast,Hot,0,1,1,Normal,1,0,1,0,1,1,1,1,1,1,1,1,1,0,Thyroid Cancer
+1,Loss,Fast,Normal,1,0,1,Normal,0,1,0,0,0,1,1,0,0,1,0,0,1,1,Thyroid Cancer
+1,No Change,Fast,Cold,0,1,1,Constipation,0,0,0,1,0,1,1,1,1,1,1,0,0,1,Thyroid Cancer
+1,Gain,Fast,Normal,1,0,1,Constipation,0,0,0,0,0,1,1,0,1,1,0,1,1,0,Thyroid Cancer
+1,Gain,Fast,Cold,1,0,1,Diarrhea,1,0,1,0,0,1,1,1,1,0,0,1,1,1,Thyroid Cancer
+0,Loss,Fast,Hot,1,0,1,Diarrhea,1,1,1,0,0,0,1,1,0,0,1,0,1,1,Thyroid Cancer
+0,No Change,Slow,Normal,0,0,1,Diarrhea,1,0,0,0,0,1,1,0,1,1,0,0,0,1,Thyroid Cancer
+0,No Change,Normal,Hot,1,0,1,Constipation,0,0,0,1,0,1,1,1,1,0,1,0,0,0,Thyroid Cancer
+0,Loss,Normal,Normal,0,1,1,Diarrhea,0,0,1,1,1,0,1,1,0,1,1,1,0,1,Thyroid Cancer
+0,Gain,Fast,Cold,0,0,1,Diarrhea,1,0,0,0,0,1,1,1,1,0,1,0,0,1,Thyroid Cancer
+1,Loss,Slow,Normal,0,0,1,Normal,0,1,1,1,1,1,1,1,0,1,0,0,0,1,Thyroid Cancer
+1,Loss,Fast,Hot,1,0,1,Diarrhea,0,0,1,1,1,1,1,1,0,0,0,1,0,1,Thyroid Cancer
+0,No Change,Slow,Cold,0,0,1,Normal,1,0,1,1,0,1,1,0,1,0,1,1,0,1,Thyroid Cancer
+0,Loss,Slow,Normal,0,0,1,Constipation,0,1,0,0,0,1,1,0,1,1,1,1,0,1,Thyroid Cancer
+0,Gain,Normal,Hot,1,1,1,Constipation,0,1,1,1,0,0,1,1,1,0,0,0,0,0,Thyroid Cancer
+0,Loss,Normal,Hot,0,0,1,Normal,0,1,1,1,0,1,1,0,1,1,1,1,0,1,Thyroid Cancer
+1,No Change,Slow,Normal,1,0,1,Diarrhea,1,1,0,0,1,0,1,1,0,0,0,0,1,1,Thyroid Cancer
+0,Gain,Normal,Hot,0,0,1,Constipation,0,1,0,1,0,1,1,1,1,1,0,0,0,0,Thyroid Cancer
+0,No Change,Slow,Cold,1,0,1,Normal,1,1,0,1,1,1,1,1,1,0,1,1,1,0,Thyroid Cancer
+0,Loss,Slow,Normal,1,1,1,Constipation,0,0,1,1,0,0,1,1,0,1,1,0,1,1,Thyroid Cancer
+0,Loss,Slow,Cold,1,0,1,Constipation,1,0,1,0,1,1,1,1,1,0,1,1,0,1,Thyroid Cancer
+1,Loss,Normal,Hot,1,0,1,Diarrhea,1,1,0,0,1,1,1,0,1,0,0,1,0,0,Thyroid Cancer
+0,No Change,Fast,Hot,1,0,1,Constipation,1,0,1,1,1,0,1,0,1,1,0,1,1,1,Thyroid Cancer
+1,Loss,Normal,Hot,0,0,1,Normal,1,1,0,0,1,1,1,0,1,1,0,1,0,1,Thyroid Cancer
+1,Gain,Fast,Cold,0,1,1,Diarrhea,0,0,0,0,1,1,1,0,1,1,0,0,0,0,Thyroid Cancer
+0,Gain,Normal,Hot,0,1,1,Normal,1,1,0,0,0,0,1,0,0,1,1,1,1,1,Thyroid Cancer
+0,No Change,Normal,Normal,0,1,1,Normal,0,1,0,1,0,0,1,0,1,0,0,0,0,0,Thyroid Cancer
+0,No Change,Fast,Normal,1,0,1,Normal,0,0,0,1,0,1,1,1,0,0,1,0,0,1,Thyroid Cancer
+0,No Change,Slow,Hot,1,1,1,Diarrhea,1,1,1,0,1,1,1,0,0,0,0,1,1,1,Thyroid Cancer
+0,Loss,Fast,Normal,0,1,1,Constipation,0,0,1,1,0,1,1,1,0,0,0,0,1,0,Thyroid Cancer
+1,Gain,Slow,Cold,1,1,1,Normal,0,1,0,0,1,0,1,1,0,0,1,1,1,0,Thyroid Cancer
+1,Gain,Slow,Cold,0,1,1,Constipation,0,1,1,0,1,0,1,0,1,1,0,1,0,1,Thyroid Cancer
+1,Gain,Normal,Hot,1,1,1,Constipation,0,0,1,1,0,1,1,0,1,1,1,1,1,1,Thyroid Cancer
+1,No Change,Normal,Normal,1,0,1,Normal,1,1,0,0,1,1,1,1,0,1,0,0,0,1,Thyroid Cancer
+1,No Change,Normal,Normal,0,1,1,Constipation,0,0,1,0,0,1,1,1,1,1,1,1,0,0,Thyroid Cancer
+0,Loss,Normal,Hot,0,1,1,Diarrhea,0,0,1,0,1,0,1,1,1,1,0,1,0,0,Thyroid Cancer
+0,No Change,Normal,Cold,1,1,1,Diarrhea,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Thyroid Cancer
+1,Gain,Fast,Hot,0,0,1,Constipation,0,0,1,1,1,0,1,1,1,0,1,1,0,0,Thyroid Cancer
+0,Loss,Fast,Normal,0,0,1,Constipation,0,0,1,0,0,1,1,0,0,1,1,1,0,0,Thyroid Cancer
+0,No Change,Fast,Normal,0,1,1,Diarrhea,1,1,1,1,0,1,1,0,0,1,1,1,1,0,Thyroid Cancer
+1,No Change,Fast,Hot,0,0,1,Constipation,0,1,1,0,1,1,1,1,1,1,0,1,1,1,Thyroid Cancer
+1,Gain,Normal,Cold,1,0,1,Constipation,1,0,1,1,1,0,1,1,1,0,0,1,0,0,Thyroid Cancer
+1,Loss,Fast,Cold,1,1,1,Constipation,0,1,0,0,1,1,1,1,1,1,0,1,1,0,Thyroid Cancer
+0,No Change,Fast,Hot,1,0,1,Constipation,1,0,0,0,0,0,1,1,0,1,0,0,0,0,Thyroid Cancer
+1,No Change,Slow,Normal,1,1,1,Normal,0,1,0,1,0,1,1,1,0,1,0,1,0,0,Thyroid Cancer
+1,Loss,Normal,Cold,0,1,1,Constipation,0,0,0,1,1,0,1,1,1,0,0,1,0,1,Thyroid Cancer
+0,Loss,Fast,Hot,0,1,1,Diarrhea,1,1,0,0,0,1,1,1,0,1,1,1,1,0,Thyroid Cancer
+0,No Change,Fast,Normal,0,0,1,Normal,1,0,1,0,0,1,1,1,1,0,0,1,1,1,Thyroid Cancer
+1,No Change,Fast,Cold,1,1,1,Normal,1,1,1,0,1,0,1,0,1,1,0,0,0,0,Thyroid Cancer
+0,Gain,Normal,Cold,1,1,1,Diarrhea,0,0,0,0,0,1,1,1,1,1,1,1,0,1,Thyroid Cancer
+1,Loss,Fast,Hot,1,0,1,Constipation,1,0,0,0,0,0,1,1,1,0,1,0,0,0,Thyroid Cancer
+0,No Change,Slow,Normal,1,1,1,Normal,1,1,0,1,0,1,1,0,0,0,1,1,0,0,Thyroid Cancer
+1,No Change,Normal,Cold,0,0,1,Normal,1,0,1,1,1,1,1,1,1,1,1,1,1,0,Thyroid Cancer
+0,No Change,Slow,Hot,0,0,1,Constipation,0,0,1,0,0,1,1,1,0,1,1,0,1,0,Thyroid Cancer
+0,No Change,Normal,Cold,0,1,1,Constipation,0,1,1,1,1,0,1,1,0,0,0,0,1,1,Thyroid Cancer
+0,Gain,Fast,Normal,1,0,1,Diarrhea,0,1,1,1,0,1,1,1,0,0,0,1,1,1,Thyroid Cancer
+1,Loss,Normal,Cold,1,1,1,Normal,1,0,1,0,0,0,1,0,0,1,1,1,1,0,Thyroid Cancer
+1,No Change,Normal,Normal,1,0,1,Constipation,0,0,1,1,0,1,1,1,0,0,1,1,0,0,Thyroid Cancer
+1,Loss,Normal,Cold,1,0,1,Constipation,0,0,0,0,0,1,1,1,0,0,0,1,1,1,Thyroid Cancer
+0,Loss,Slow,Cold,1,0,1,Diarrhea,0,0,1,1,0,0,1,1,1,1,1,1,0,1,Thyroid Cancer
+0,No Change,Normal,Hot,1,0,1,Normal,0,1,0,1,1,1,1,0,0,1,0,1,0,1,Thyroid Cancer
+0,No Change,Fast,Cold,0,1,1,Constipation,1,0,0,1,0,1,1,1,1,1,0,0,1,0,Thyroid Cancer
+1,No Change,Normal,Normal,1,1,1,Diarrhea,0,0,1,1,0,0,1,1,0,0,1,1,1,1,Thyroid Cancer
+0,Gain,Normal,Hot,1,0,1,Normal,1,1,1,1,0,0,1,0,1,1,0,1,0,0,Thyroid Cancer
+1,No Change,Fast,Normal,1,1,1,Normal,1,1,1,0,0,1,1,0,1,1,0,1,0,0,Thyroid Cancer
+1,Loss,Fast,Normal,0,1,1,Normal,1,0,1,1,1,0,1,0,0,0,0,0,0,1,Thyroid Cancer
+1,Loss,Slow,Hot,0,1,1,Normal,1,1,1,0,0,0,1,0,1,1,0,0,1,0,Thyroid Cancer
+1,Gain,Fast,Normal,1,1,1,Diarrhea,1,1,1,1,0,1,1,1,1,0,1,0,1,0,Thyroid Cancer
+1,No Change,Fast,Cold,0,1,1,Constipation,1,1,1,1,0,0,1,0,0,0,1,1,1,1,Thyroid Cancer
+0,No Change,Fast,Hot,0,1,1,Normal,0,0,1,1,0,0,1,0,0,1,1,0,1,0,Thyroid Cancer
+0,Gain,Normal,Cold,0,1,1,Normal,1,0,0,0,1,1,1,0,0,1,1,1,0,1,Thyroid Cancer
+1,No Change,Normal,Normal,1,1,1,Diarrhea,1,1,0,1,1,1,1,0,0,0,0,1,0,0,Goiter
+1,Loss,Fast,Cold,0,1,1,Normal,1,1,1,0,0,0,0,0,0,1,0,1,1,0,Goiter
+0,Loss,Slow,Normal,0,0,1,Constipation,0,1,1,0,0,0,0,1,1,1,1,1,1,0,Goiter
+1,Loss,Fast,Cold,0,0,1,Diarrhea,0,1,0,1,0,1,0,1,0,0,0,0,1,1,Goiter
+1,Gain,Fast,Cold,0,0,1,Diarrhea,1,1,1,1,1,1,1,0,1,1,0,1,1,0,Goiter
+0,No Change,Normal,Normal,1,1,1,Normal,1,1,0,0,1,0,1,0,1,1,1,0,0,1,Goiter
+0,No Change,Fast,Cold,0,1,1,Normal,1,1,1,0,0,0,0,0,0,1,0,0,0,1,Goiter
+1,No Change,Slow,Normal,0,1,1,Normal,1,1,0,1,0,0,0,0,0,0,1,0,0,1,Goiter
+0,No Change,Normal,Normal,0,1,1,Constipation,1,1,0,0,0,1,0,0,1,1,1,1,1,0,Goiter
+0,Loss,Normal,Normal,1,0,1,Normal,1,1,1,1,0,1,1,0,0,1,0,1,0,0,Goiter
+0,Gain,Slow,Cold,0,1,1,Diarrhea,0,1,0,0,0,1,0,1,0,1,1,1,0,0,Goiter
+0,No Change,Fast,Normal,1,0,1,Normal,1,1,0,1,0,1,0,1,0,0,1,0,0,1,Goiter
+0,Loss,Fast,Hot,1,1,1,Constipation,0,1,1,1,0,1,0,0,0,0,0,1,1,1,Goiter
+1,Loss,Fast,Cold,1,0,1,Normal,1,1,1,1,0,0,1,0,1,1,1,0,1,0,Goiter
+1,Gain,Fast,Hot,1,0,1,Normal,1,1,1,1,0,0,1,1,1,1,0,0,1,0,Goiter
+1,No Change,Fast,Hot,0,1,1,Diarrhea,0,1,1,0,0,0,1,0,0,0,0,1,1,0,Goiter
+0,Gain,Normal,Hot,0,1,1,Normal,1,1,1,0,1,0,1,0,1,0,0,1,0,0,Goiter
+0,No Change,Normal,Hot,1,1,1,Constipation,1,1,1,1,1,1,1,0,0,0,0,0,0,0,Goiter
+1,Gain,Slow,Normal,0,0,1,Normal,0,1,1,0,0,0,0,1,0,0,0,0,0,0,Goiter
+1,No Change,Fast,Hot,0,1,1,Normal,1,1,1,1,0,1,0,0,0,1,1,1,0,0,Goiter
+1,No Change,Fast,Cold,0,0,1,Diarrhea,0,1,1,0,0,1,0,1,1,0,1,1,1,0,Goiter
+0,Gain,Fast,Hot,0,1,1,Normal,1,1,0,1,1,0,0,0,1,0,1,1,0,0,Goiter
+1,No Change,Slow,Hot,1,0,1,Diarrhea,1,1,0,0,1,0,1,0,1,0,0,0,0,1,Goiter
+0,Gain,Fast,Hot,0,1,1,Diarrhea,0,1,0,0,0,0,1,1,0,0,0,1,1,0,Goiter
+1,Gain,Normal,Normal,0,0,1,Normal,0,1,0,0,0,0,0,0,1,1,0,1,0,0,Goiter
+1,No Change,Fast,Hot,1,0,1,Diarrhea,1,1,0,0,0,0,1,1,1,1,0,0,0,1,Goiter
+0,No Change,Slow,Hot,0,0,1,Diarrhea,0,1,0,1,1,0,0,1,0,1,1,0,1,1,Goiter
+0,Gain,Normal,Hot,0,1,1,Normal,0,1,0,1,1,1,1,0,0,1,1,1,1,1,Goiter
+1,Loss,Normal,Cold,0,0,1,Normal,0,1,1,0,1,1,0,1,0,0,0,1,0,1,Goiter
+1,Gain,Normal,Normal,1,1,1,Constipation,1,1,0,0,1,1,0,1,0,1,0,1,0,1,Goiter
+1,Loss,Fast,Normal,0,0,1,Constipation,0,1,0,0,0,0,0,0,1,1,0,0,0,1,Goiter
+0,Loss,Slow,Normal,0,1,1,Diarrhea,0,1,0,0,0,1,1,0,1,0,1,1,0,1,Goiter
+0,Gain,Slow,Cold,1,1,1,Diarrhea,0,1,0,1,0,0,0,0,0,1,1,0,0,0,Goiter
+1,Gain,Fast,Hot,0,0,1,Normal,0,1,0,0,0,0,0,1,0,1,0,1,1,0,Goiter
+1,Gain,Slow,Cold,1,0,1,Constipation,0,1,1,0,0,1,1,0,0,1,0,0,0,0,Goiter
+1,Loss,Normal,Normal,1,1,1,Constipation,1,1,0,0,1,1,0,0,0,0,1,1,0,1,Goiter
+0,Gain,Normal,Normal,1,0,1,Normal,1,1,0,0,0,0,1,0,1,0,1,1,0,0,Goiter
+1,Gain,Slow,Normal,0,1,1,Normal,1,1,1,0,0,0,1,0,0,0,0,1,0,1,Goiter
+1,No Change,Slow,Cold,0,1,1,Normal,1,1,0,0,1,1,1,1,0,1,0,0,0,0,Goiter
+0,No Change,Fast,Normal,0,1,1,Normal,1,1,1,0,0,1,0,0,1,0,0,0,0,1,Goiter
+1,No Change,Fast,Hot,0,1,1,Constipation,0,1,1,0,0,1,1,0,0,0,1,0,0,0,Goiter
+1,Gain,Fast,Cold,0,1,1,Normal,0,1,1,1,0,1,1,0,0,1,0,0,0,0,Goiter
+0,Gain,Fast,Hot,1,1,1,Normal,1,1,0,0,1,1,1,0,0,0,1,1,0,0,Goiter
+0,Gain,Fast,Normal,1,1,1,Constipation,0,1,0,0,0,1,0,0,0,1,0,0,1,0,Goiter
+1,Loss,Fast,Normal,1,1,1,Normal,0,1,1,0,1,0,1,1,0,1,0,0,1,0,Goiter
+0,Loss,Normal,Cold,1,1,1,Constipation,0,1,0,0,1,1,0,0,1,0,0,1,0,0,Goiter
+0,No Change,Slow,Hot,0,0,1,Constipation,1,1,0,1,1,0,1,0,1,1,1,0,0,0,Goiter
+0,Loss,Fast,Cold,1,1,1,Normal,0,1,1,0,1,0,1,1,1,1,0,1,0,1,Goiter
+0,Loss,Normal,Hot,1,1,1,Normal,0,1,1,1,0,1,0,0,1,1,1,0,0,1,Goiter
+0,Loss,Slow,Normal,0,1,1,Diarrhea,1,1,0,1,1,1,0,1,0,0,0,0,0,0,Goiter
+0,No Change,Slow,Cold,1,0,1,Diarrhea,1,1,1,1,0,1,0,1,0,1,1,1,0,0,Goiter
+0,No Change,Slow,Cold,0,0,1,Constipation,0,1,1,1,1,0,1,1,0,0,0,1,1,0,Goiter
+1,Loss,Fast,Hot,0,0,1,Constipation,0,1,0,0,0,0,1,1,0,0,1,1,0,0,Goiter
+0,Gain,Fast,Normal,0,0,1,Diarrhea,1,1,0,1,0,1,0,0,0,1,0,1,1,1,Goiter
+0,No Change,Fast,Normal,1,0,1,Constipation,1,1,1,1,0,1,0,0,0,1,1,0,1,1,Goiter
+0,Loss,Slow,Hot,1,0,1,Diarrhea,0,1,0,0,0,0,0,1,1,1,1,0,1,0,Goiter
+0,Gain,Slow,Hot,1,1,1,Normal,0,1,0,1,0,0,0,1,0,1,0,1,1,0,Goiter
+1,Gain,Normal,Hot,1,0,1,Normal,1,1,0,1,0,1,0,1,0,1,1,1,1,0,Goiter
+1,No Change,Normal,Hot,1,0,1,Normal,0,1,0,1,0,1,1,1,1,0,1,0,1,0,Goiter
+0,Gain,Normal,Hot,1,0,1,Constipation,1,1,0,1,0,1,1,1,1,0,0,1,1,1,Goiter
+1,No Change,Normal,Normal,0,0,1,Normal,1,1,0,0,0,0,0,0,0,1,1,0,1,1,Goiter
+1,Loss,Slow,Normal,0,0,1,Constipation,1,1,1,1,0,0,0,1,1,0,0,1,1,1,Goiter
+1,No Change,Fast,Cold,1,1,1,Normal,0,1,1,0,1,1,1,0,1,0,0,1,0,1,Goiter
+1,Gain,Fast,Normal,1,1,1,Constipation,0,1,1,0,0,1,0,1,0,0,1,1,0,0,Goiter
+1,No Change,Fast,Hot,0,0,1,Constipation,1,1,1,0,0,1,0,1,0,1,1,1,1,1,Goiter
+0,No Change,Fast,Normal,0,1,1,Diarrhea,1,1,1,1,0,0,0,0,1,0,1,0,1,0,Goiter
+0,Loss,Normal,Normal,0,0,1,Diarrhea,1,1,0,1,1,0,0,1,1,0,1,1,1,1,Goiter
+0,Gain,Slow,Normal,1,1,1,Diarrhea,1,1,0,0,1,0,1,0,1,0,1,0,0,1,Goiter
+1,No Change,Fast,Cold,1,1,1,Constipation,0,1,1,0,0,1,0,0,1,1,0,1,0,0,Goiter
+0,Loss,Slow,Cold,1,0,1,Diarrhea,1,1,0,0,0,1,1,1,1,0,0,1,1,1,Goiter
+1,Loss,Normal,Hot,0,0,1,Diarrhea,1,1,1,0,1,1,1,1,1,1,1,0,1,0,Goiter
+0,Loss,Normal,Hot,1,0,1,Diarrhea,1,1,0,0,0,0,1,0,0,0,1,1,1,0,Goiter
+0,Loss,Fast,Cold,1,1,1,Constipation,0,1,1,0,0,0,1,0,0,1,1,0,1,0,Goiter
+0,Loss,Fast,Normal,1,1,1,Constipation,1,1,0,1,1,0,0,1,1,0,1,1,1,0,Goiter
+0,No Change,Normal,Normal,1,0,1,Diarrhea,1,1,1,1,1,1,1,0,1,1,1,0,1,0,Goiter
+1,No Change,Normal,Cold,1,0,1,Diarrhea,1,1,0,1,0,1,0,1,0,0,0,1,0,1,Goiter
+0,Gain,Slow,Hot,1,1,1,Constipation,1,1,1,0,0,0,0,1,1,1,0,1,0,1,Goiter
+0,No Change,Normal,Normal,0,0,1,Constipation,1,1,0,1,0,1,1,1,0,1,0,1,0,0,Goiter
+1,Gain,Slow,Hot,1,1,1,Diarrhea,0,1,0,0,1,1,0,0,1,0,1,1,1,0,Goiter
+1,Gain,Normal,Normal,0,1,1,Diarrhea,0,1,1,0,0,0,0,1,1,0,1,1,1,0,Goiter
+0,Gain,Slow,Hot,0,0,1,Diarrhea,0,1,1,1,0,0,1,0,1,1,1,0,0,0,Goiter
+0,No Change,Normal,Normal,0,1,1,Constipation,1,1,1,0,1,0,1,0,1,1,0,0,0,1,Goiter
+1,Loss,Normal,Hot,1,1,1,Diarrhea,1,1,1,1,0,0,1,1,0,0,0,0,1,0,Goiter
+1,Gain,Slow,Hot,1,1,1,Constipation,0,1,1,1,0,0,0,0,0,1,0,1,0,1,Goiter
+0,Loss,Slow,Hot,1,1,1,Normal,1,1,1,1,0,1,0,0,0,0,0,1,0,1,Goiter
+1,Gain,Fast,Cold,1,0,1,Diarrhea,0,1,1,0,0,0,1,0,0,0,1,1,0,0,Goiter
+1,No Change,Fast,Hot,0,1,1,Normal,1,1,1,0,1,1,1,0,1,1,1,0,0,1,Goiter
+0,Gain,Normal,Cold,1,0,1,Constipation,0,1,0,0,1,1,0,0,0,0,1,0,1,0,Goiter
+0,No Change,Normal,Cold,0,1,1,Normal,0,1,0,1,1,0,0,1,0,1,1,0,1,0,Goiter
+0,Loss,Slow,Hot,1,0,1,Diarrhea,1,1,0,0,0,0,1,1,0,0,1,1,1,1,Goiter
+1,No Change,Normal,Cold,1,1,1,Normal,1,1,0,1,0,1,0,0,1,0,1,1,1,0,Goiter
+0,Loss,Fast,Cold,0,1,1,Normal,0,1,1,0,0,1,0,1,1,0,0,0,0,0,Goiter
+0,No Change,Slow,Cold,0,0,1,Normal,0,1,0,1,0,1,1,1,1,0,1,0,0,1,Goiter
+0,Gain,Normal,Normal,0,1,1,Constipation,1,1,0,1,1,0,1,1,1,0,1,0,0,1,Goiter
+1,Gain,Slow,Hot,1,0,1,Diarrhea,0,1,1,0,0,1,0,0,1,0,1,0,1,1,Goiter
+0,No Change,Fast,Cold,0,1,1,Constipation,1,1,0,0,0,0,0,0,0,0,1,1,1,0,Goiter
+0,Loss,Fast,Hot,0,0,1,Normal,0,1,1,1,0,0,0,1,0,0,1,0,1,1,Goiter
+1,Loss,Fast,Cold,0,0,1,Normal,1,1,0,1,1,1,0,1,0,0,1,1,1,1,Goiter
+1,Loss,Normal,Hot,1,1,1,Constipation,1,1,0,0,0,0,1,1,0,0,1,1,0,1,Goiter
+0,No Change,Normal,Cold,0,1,1,Constipation,1,1,1,1,0,1,0,0,1,0,1,1,1,1,Goiter
+0,No Change,Normal,Normal,0,1,1,Normal,0,1,1,0,0,1,1,0,0,0,0,1,0,0,Goiter
+0,No Change,Normal,Normal,1,1,1,Diarrhea,1,1,0,0,0,0,0,1,1,1,0,1,0,1,Goiter
+1,No Change,Normal,Normal,0,1,1,Constipation,1,1,0,1,0,0,1,0,1,1,0,1,0,1,Goiter
+0,Loss,Normal,Cold,0,1,1,Normal,1,1,0,0,1,1,0,0,0,0,1,0,1,0,Goiter
+0,Loss,Fast,Hot,0,1,1,Normal,0,1,1,1,0,0,0,0,0,0,0,0,1,1,Goiter
+1,No Change,Fast,Cold,1,1,1,Diarrhea,1,1,1,0,0,0,1,1,0,1,1,0,0,1,Goiter
+1,No Change,Normal,Normal,0,1,1,Normal,1,1,1,1,0,1,0,0,0,0,0,0,0,0,Goiter
+0,Loss,Fast,Cold,0,0,1,Constipation,1,1,1,0,0,0,1,0,0,0,0,1,1,0,Goiter
+1,Loss,Slow,Hot,0,0,1,Normal,1,1,1,0,0,1,1,1,1,0,1,0,1,0,Goiter
+0,Gain,Normal,Normal,0,0,1,Normal,1,1,1,1,1,1,1,1,0,1,1,1,1,0,Goiter
+0,No Change,Slow,Cold,0,1,1,Normal,0,1,0,0,0,0,0,1,1,0,1,0,1,0,Goiter
+1,Gain,Normal,Hot,0,0,1,Normal,1,1,1,1,1,1,0,0,1,1,1,0,0,1,Goiter
+1,Loss,Normal,Normal,0,1,1,Diarrhea,1,1,1,1,1,0,0,0,0,1,0,1,0,1,Goiter
+1,Loss,Fast,Hot,1,1,1,Constipation,0,1,0,1,0,1,1,0,1,0,0,1,0,1,Goiter
+1,No Change,Slow,Hot,1,1,1,Normal,0,1,0,1,0,0,0,0,1,1,1,0,0,1,Goiter
+0,Gain,Fast,Normal,1,1,1,Constipation,0,1,1,1,1,1,0,0,1,1,0,0,0,0,Goiter
+1,Loss,Normal,Cold,0,0,1,Diarrhea,0,1,1,0,0,1,1,0,1,1,0,1,0,0,Goiter
+1,Gain,Slow,Cold,1,0,1,Constipation,1,1,1,0,1,0,1,1,1,0,0,1,1,0,Goiter
+0,Gain,Normal,Cold,0,0,1,Diarrhea,0,1,1,0,1,0,1,0,0,0,1,1,0,1,Goiter
+0,Gain,Fast,Cold,0,1,1,Constipation,1,1,0,0,0,0,1,0,0,1,1,1,1,0,Goiter
+0,Gain,Normal,Hot,0,1,1,Constipation,0,1,0,0,0,0,0,1,0,0,1,1,1,0,Goiter
+1,Gain,Normal,Cold,1,0,1,Normal,0,1,0,0,1,0,1,1,1,1,0,1,0,1,Goiter
+0,No Change,Fast,Cold,1,1,1,Constipation,1,1,1,0,0,0,1,0,1,0,1,1,1,0,Goiter
+1,No Change,Normal,Hot,0,0,1,Normal,0,1,0,1,1,0,0,0,0,0,1,1,0,0,Goiter
+1,Gain,Slow,Hot,0,0,1,Normal,0,1,1,1,1,0,0,1,1,1,0,1,0,1,Goiter
+1,No Change,Fast,Normal,1,0,1,Constipation,1,1,0,1,0,0,1,0,1,0,1,1,1,1,Goiter
+1,Loss,Normal,Hot,1,1,1,Normal,0,1,1,0,1,1,0,1,1,1,1,0,1,0,Goiter
+0,Gain,Fast,Normal,1,0,1,Constipation,0,1,1,1,1,0,0,1,1,0,1,1,1,1,Goiter
+0,No Change,Normal,Normal,1,1,1,Normal,0,1,0,0,1,1,1,0,1,1,0,1,1,0,Goiter
+0,No Change,Fast,Cold,1,0,1,Normal,1,1,0,0,1,0,0,1,0,0,1,0,1,1,Goiter
+0,Loss,Fast,Cold,1,1,1,Diarrhea,1,1,1,0,1,0,1,0,0,1,0,1,1,1,Goiter
+0,Loss,Slow,Cold,1,1,1,Diarrhea,1,1,0,1,1,1,0,1,1,0,0,0,1,1,Goiter
+1,Loss,Fast,Hot,0,0,1,Constipation,1,1,1,1,0,1,0,1,0,0,0,1,1,1,Goiter
+1,Loss,Slow,Hot,0,1,1,Normal,1,1,1,1,1,0,0,1,0,1,0,0,1,0,Goiter
+1,Gain,Fast,Cold,1,1,1,Diarrhea,0,1,0,0,1,1,0,0,1,0,0,1,0,0,Goiter
+1,No Change,Fast,Cold,1,1,1,Diarrhea,1,1,0,0,0,0,1,0,0,1,0,0,0,0,Goiter
+0,No Change,Normal,Hot,0,0,1,Diarrhea,0,1,1,0,0,1,1,0,0,0,1,0,1,1,Goiter
+1,Loss,Normal,Normal,1,1,1,Normal,1,1,1,0,0,0,0,0,1,1,1,1,1,0,Goiter
+1,No Change,Normal,Normal,0,0,1,Constipation,0,1,1,1,1,1,0,0,0,1,0,1,1,1,Goiter
+1,No Change,Fast,Cold,0,0,1,Normal,1,1,1,1,0,0,0,0,1,1,0,0,0,0,Goiter
+1,No Change,Fast,Cold,1,1,1,Normal,1,1,1,1,1,1,1,1,0,1,1,0,0,1,Goiter
+1,Loss,Slow,Cold,0,0,1,Diarrhea,0,1,1,1,1,0,0,1,0,1,1,0,1,1,Goiter
+1,No Change,Slow,Normal,1,0,1,Normal,0,1,0,0,1,1,1,0,0,1,1,1,1,1,Goiter
+0,No Change,Slow,Cold,1,0,1,Normal,0,1,0,0,1,0,0,0,0,1,0,0,1,0,Goiter
+0,No Change,Normal,Normal,0,0,1,Diarrhea,0,1,0,1,0,0,1,0,1,1,0,0,1,0,Goiter
+1,Gain,Normal,Hot,0,0,1,Diarrhea,1,1,1,0,1,0,1,1,1,0,1,0,0,0,Goiter
+1,Gain,Slow,Hot,0,1,1,Normal,0,1,1,0,1,1,0,0,0,0,0,0,0,0,Goiter
+1,No Change,Fast,Hot,1,1,1,Diarrhea,0,1,0,1,1,1,1,0,1,0,0,1,1,1,Goiter
+1,No Change,Normal,Cold,1,0,1,Constipation,1,1,0,1,1,1,0,0,1,0,0,1,1,1,Goiter
+1,No Change,Normal,Hot,1,0,1,Constipation,0,1,0,0,1,1,1,1,0,1,0,0,0,1,Goiter
+0,No Change,Slow,Normal,1,1,1,Constipation,0,1,1,1,1,1,1,1,0,1,1,1,0,1,Goiter
+0,No Change,Normal,Normal,1,1,1,Constipation,0,1,1,1,0,0,0,1,1,0,0,1,1,0,Goiter
+1,No Change,Slow,Normal,1,1,1,Constipation,1,1,1,1,0,1,1,1,1,0,0,0,1,0,Goiter
+0,Gain,Normal,Cold,1,0,1,Diarrhea,0,1,0,1,1,0,0,0,1,1,0,0,0,1,Goiter
+1,Loss,Fast,Cold,0,0,1,Diarrhea,1,1,0,1,1,0,1,0,1,0,0,1,0,0,Goiter
+1,No Change,Fast,Normal,1,1,1,Constipation,0,1,0,1,1,0,0,0,0,1,1,1,0,1,Goiter
+0,No Change,Normal,Normal,0,0,1,Constipation,1,1,1,1,1,0,1,1,1,0,0,0,1,1,Goiter
+0,No Change,Slow,Normal,0,1,1,Constipation,1,1,0,1,1,0,1,0,1,1,0,0,0,1,Goiter
+0,Loss,Normal,Normal,1,1,1,Diarrhea,0,1,0,1,0,1,0,1,1,1,1,0,1,0,Goiter
+0,No Change,Slow,Hot,0,0,1,Diarrhea,0,1,1,0,1,0,1,0,0,0,0,0,0,1,Goiter
+1,No Change,Normal,Normal,0,1,1,Normal,0,1,1,1,0,1,0,0,1,0,0,0,0,0,Goiter
+0,Loss,Fast,Cold,0,1,1,Normal,0,1,0,1,0,0,0,0,1,1,0,1,0,1,Goiter
+0,No Change,Fast,Cold,1,1,1,Normal,0,1,1,1,0,0,1,0,0,0,0,0,1,0,Goiter
+0,Loss,Normal,Cold,0,1,1,Normal,0,1,0,0,0,1,0,1,0,0,1,0,1,0,Goiter
+1,Loss,Normal,Cold,1,1,1,Diarrhea,1,1,1,1,0,1,0,1,1,1,1,0,0,1,Goiter
+1,No Change,Normal,Cold,1,0,1,Diarrhea,1,1,1,1,1,0,0,1,0,0,1,0,1,1,Goiter
+1,Gain,Fast,Normal,1,1,1,Diarrhea,0,1,1,0,1,0,0,0,1,0,0,1,0,0,Goiter
+0,Gain,Fast,Normal,0,0,1,Diarrhea,1,1,1,0,1,0,0,1,1,1,0,1,1,0,Goiter
+0,No Change,Slow,Hot,0,0,1,Constipation,0,1,1,1,1,1,0,0,0,1,1,1,0,0,Goiter
+0,Loss,Normal,Hot,1,1,1,Normal,0,1,1,0,0,1,1,0,0,1,1,1,0,1,Goiter
+1,Loss,Normal,Hot,1,1,1,Diarrhea,1,1,0,0,0,0,0,0,0,0,0,1,1,1,Goiter
+0,Loss,Fast,Normal,1,1,1,Diarrhea,0,1,0,0,1,1,0,0,1,1,0,1,0,0,Goiter
+0,No Change,Normal,Hot,0,0,1,Normal,1,1,0,0,0,1,1,0,0,0,0,0,1,0,Goiter
+1,Gain,Slow,Normal,0,0,1,Diarrhea,0,1,1,0,1,1,0,1,1,0,0,0,0,0,Goiter
+0,Loss,Normal,Cold,0,0,1,Constipation,1,1,1,1,0,1,0,1,0,0,0,0,1,1,Goiter
+0,Loss,Fast,Normal,0,1,1,Diarrhea,0,1,0,0,0,1,0,0,1,0,0,1,0,1,Goiter
+0,No Change,Normal,Normal,0,1,1,Normal,1,1,0,1,0,1,1,0,1,1,0,1,0,0,Goiter
+0,Gain,Fast,Cold,0,1,1,Constipation,1,1,0,1,0,1,1,1,0,0,0,1,1,0,Goiter
+1,Gain,Slow,Cold,0,1,1,Constipation,0,1,1,1,1,0,0,0,0,0,0,0,0,1,Goiter
+1,No Change,Slow,Cold,1,1,1,Normal,0,1,0,0,0,1,0,1,1,0,0,1,1,1,Goiter
+1,Gain,Normal,Hot,0,0,1,Normal,1,1,0,1,1,1,1,0,0,1,1,0,0,0,Goiter
+0,No Change,Normal,Hot,1,0,1,Constipation,0,1,0,0,1,0,0,1,0,1,0,1,0,0,Goiter
+0,Loss,Fast,Hot,0,0,1,Diarrhea,0,1,0,1,0,1,1,0,0,1,0,0,0,0,Goiter
+1,No Change,Slow,Cold,1,1,1,Normal,0,1,1,1,1,1,0,1,0,0,0,1,0,1,Goiter
+0,Loss,Slow,Hot,0,1,1,Constipation,0,1,0,1,1,1,0,0,0,0,1,0,1,0,Goiter
+1,No Change,Slow,Cold,0,0,1,Normal,0,1,0,0,1,1,1,0,0,1,0,0,1,0,Goiter
+1,Loss,Slow,Cold,0,1,1,Diarrhea,0,1,1,1,1,0,0,0,0,1,1,1,1,0,Goiter
+0,Loss,Normal,Cold,1,0,1,Diarrhea,1,1,1,0,0,1,1,0,1,0,0,1,0,1,Goiter
+1,No Change,Normal,Hot,0,1,1,Constipation,1,1,1,0,0,0,1,0,0,1,1,0,1,1,Goiter
+1,Loss,Fast,Hot,0,1,1,Diarrhea,0,1,1,0,0,1,0,1,1,0,1,1,1,1,Goiter
+1,Gain,Slow,Cold,1,1,1,Diarrhea,1,1,1,1,0,1,0,0,0,1,0,1,0,0,Goiter
+1,No Change,Normal,Hot,0,1,1,Diarrhea,0,1,0,1,1,1,1,0,1,0,1,0,1,1,Goiter
+1,Gain,Normal,Normal,0,0,1,Normal,1,1,0,1,1,1,1,0,1,0,1,0,0,1,Goiter
+1,Loss,Slow,Hot,1,1,1,Constipation,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Goiter
+0,Loss,Normal,Cold,0,0,1,Constipation,0,1,1,0,0,0,0,1,0,1,0,1,1,1,Goiter
+1,Loss,Fast,Cold,1,0,1,Constipation,0,1,0,1,1,0,0,1,0,1,0,0,1,1,Goiter
+1,No Change,Fast,Cold,1,0,1,Diarrhea,1,1,1,0,0,0,0,1,0,0,0,1,1,0,Goiter
+0,Loss,Slow,Normal,1,0,1,Normal,0,1,1,0,1,0,1,0,1,1,0,1,1,0,Goiter
+0,Gain,Fast,Cold,0,0,1,Constipation,0,1,0,1,0,1,1,0,1,0,0,0,0,0,Goiter
+1,Gain,Normal,Cold,0,1,1,Normal,1,1,1,1,1,0,0,0,0,1,1,1,1,0,Goiter
+0,No Change,Fast,Hot,1,0,1,Constipation,1,1,0,0,1,0,1,0,1,1,1,1,0,0,Goiter
+0,Gain,Normal,Normal,1,0,1,Diarrhea,0,1,1,0,0,1,0,0,0,0,0,0,1,1,Goiter
+1,No Change,Slow,Hot,0,0,1,Constipation,1,1,0,1,0,0,1,1,1,1,0,0,0,1,Goiter
+0,No Change,Slow,Cold,0,0,1,Constipation,1,1,1,1,0,1,1,1,0,1,0,1,1,0,Goiter
+1,Loss,Normal,Cold,0,0,1,Diarrhea,0,1,1,1,1,0,0,1,1,0,0,0,1,1,Goiter
+1,Gain,Normal,Normal,1,1,1,Diarrhea,0,1,1,0,0,1,0,0,0,0,1,0,0,0,Goiter
+1,Gain,Fast,Cold,0,0,1,Constipation,0,1,0,0,0,0,0,1,1,0,1,1,1,0,Goiter
+1,Gain,Normal,Normal,1,1,1,Normal,0,1,1,1,0,1,0,1,0,0,0,0,1,1,Goiter
+0,Loss,Slow,Hot,1,0,1,Diarrhea,1,1,0,0,0,0,1,0,0,1,1,0,1,0,Goiter
+1,No Change,Normal,Normal,0,1,1,Constipation,0,1,1,0,0,0,1,1,1,1,1,1,1,1,Goiter
+0,Gain,Fast,Hot,0,1,1,Diarrhea,0,1,0,0,1,1,0,0,1,0,0,1,0,0,Goiter
+0,Gain,Fast,Cold,1,1,1,Normal,0,1,1,0,0,1,1,0,1,1,0,1,0,1,Goiter
+1,Gain,Normal,Hot,1,1,1,Constipation,1,1,0,1,0,1,1,0,1,0,1,0,1,1,Goiter
+1,Gain,Fast,Hot,0,1,1,Constipation,0,1,1,0,0,0,0,0,1,0,0,0,0,1,Goiter
+0,Loss,Fast,Hot,1,1,1,Normal,0,1,1,1,0,1,0,0,0,0,0,1,1,1,Goiter
+1,No Change,Slow,Normal,0,1,1,Normal,0,1,1,1,1,0,0,1,1,1,0,0,0,1,Goiter
+1,Gain,Normal,Hot,0,0,1,Constipation,1,1,0,0,1,1,1,0,1,1,1,0,0,1,Goiter
+1,Gain,Slow,Normal,1,1,1,Normal,0,1,1,1,0,0,0,0,1,1,1,0,0,0,Goiter
+0,No Change,Slow,Normal,1,0,1,Normal,0,1,1,1,0,1,0,1,1,0,1,0,1,0,Goiter
+0,Loss,Fast,Normal,0,0,1,Constipation,0,1,1,1,0,1,1,0,0,0,1,1,0,1,Goiter
+0,Loss,Slow,Cold,1,0,1,Diarrhea,0,1,0,0,1,0,1,0,0,1,0,1,0,1,Goiter
+0,Loss,Normal,Cold,1,1,1,Normal,1,1,1,1,1,1,1,1,0,1,0,0,1,0,Goiter
+1,Loss,Normal,Cold,0,0,1,Diarrhea,1,1,0,0,0,1,1,1,0,1,1,0,0,0,Goiter
+1,Gain,Normal,Normal,1,1,1,Diarrhea,0,1,0,1,1,1,0,0,1,1,1,0,1,0,Goiter
+0,No Change,Slow,Cold,0,1,1,Diarrhea,1,1,1,1,1,0,1,1,0,0,0,1,0,0,Goiter
+0,No Change,Normal,Hot,1,1,1,Normal,1,1,1,1,1,0,0,0,0,1,1,1,1,0,Goiter
+0,No Change,Normal,Normal,0,0,1,Constipation,0,1,0,1,1,1,0,1,1,1,1,1,0,1,Goiter
+0,Loss,Slow,Cold,1,0,1,Constipation,0,1,0,0,1,1,1,1,1,0,1,1,1,0,Goiter
+0,Loss,Slow,Normal,1,1,1,Constipation,1,1,1,1,1,0,0,0,1,1,1,1,0,0,Goiter
+1,No Change,Slow,Cold,1,1,1,Constipation,0,1,0,1,0,0,0,0,1,1,1,0,0,0,Goiter
+0,Gain,Slow,Hot,1,1,1,Constipation,0,1,0,1,1,1,1,0,1,1,1,0,1,1,Goiter
+0,Loss,Fast,Normal,1,1,1,Constipation,0,1,1,0,0,0,1,1,1,0,1,1,0,0,Goiter
+1,Gain,Slow,Cold,1,0,1,Diarrhea,0,1,1,0,1,1,1,1,0,0,0,1,0,0,Goiter
+1,No Change,Slow,Cold,1,0,1,Diarrhea,1,1,0,1,0,1,0,1,0,1,0,0,1,1,Goiter
+1,Loss,Normal,Hot,1,0,1,Diarrhea,0,1,0,1,1,0,0,0,1,0,0,1,1,1,Goiter
+0,Gain,Normal,Hot,0,0,1,Normal,1,1,1,1,0,0,1,1,0,1,1,0,0,0,Goiter
+1,Loss,Slow,Cold,1,0,1,Normal,0,1,0,1,0,0,1,0,1,1,0,1,1,1,Goiter
+0,No Change,Slow,Cold,1,1,1,Normal,0,1,0,0,1,0,1,0,1,0,0,0,0,0,Goiter
+0,No Change,Slow,Normal,1,1,1,Constipation,1,1,1,0,0,0,1,1,0,1,0,1,1,0,Goiter
+1,No Change,Normal,Normal,1,0,1,Diarrhea,1,1,0,0,0,0,1,1,0,0,0,0,1,1,Goiter
+0,Gain,Normal,Cold,1,1,1,Normal,1,1,0,1,1,0,1,1,0,0,1,0,1,0,Goiter
+0,Loss,Slow,Hot,0,0,1,Diarrhea,1,1,0,1,0,0,1,1,0,0,0,1,1,1,Goiter
+1,Loss,Normal,Normal,0,1,1,Constipation,0,1,0,1,1,1,0,1,0,1,0,1,0,1,Goiter
+1,Loss,Normal,Cold,1,1,1,Diarrhea,0,1,1,1,0,1,1,0,1,1,0,1,1,1,Goiter
+1,No Change,Slow,Hot,1,1,1,Constipation,1,1,0,0,0,0,1,1,0,1,0,1,0,1,Goiter
+1,Gain,Normal,Hot,1,0,1,Normal,0,1,0,0,1,1,1,0,0,1,1,1,0,0,Goiter
+1,No Change,Slow,Cold,1,0,1,Constipation,0,1,1,0,0,1,1,1,1,0,1,0,0,0,Goiter
+1,No Change,Fast,Cold,0,0,1,Constipation,0,1,0,1,0,1,0,1,0,1,0,1,0,0,Goiter
+1,Gain,Fast,Normal,1,1,1,Diarrhea,1,1,0,1,1,1,1,0,0,1,0,1,0,1,Goiter
+1,No Change,Fast,Cold,0,1,1,Constipation,1,1,1,1,1,1,0,1,0,0,0,1,1,0,Goiter
+1,No Change,Normal,Normal,1,1,1,Normal,1,1,0,1,1,0,0,1,0,0,0,1,1,1,Goiter
+1,Loss,Fast,Hot,0,1,1,Normal,1,1,0,1,0,0,0,0,0,1,1,0,0,0,Goiter
+0,Gain,Normal,Normal,0,1,1,Constipation,1,1,0,0,0,0,1,0,1,0,1,1,0,1,Goiter
+0,Gain,Slow,Cold,0,0,1,Diarrhea,1,1,0,1,1,0,1,1,0,1,0,1,1,0,Goiter
+0,Loss,Fast,Normal,1,0,1,Normal,1,1,0,1,0,0,0,1,0,1,1,1,0,0,Goiter
+1,Gain,Normal,Hot,1,1,1,Normal,0,1,0,0,0,0,0,1,1,0,1,1,1,1,Goiter
+0,Loss,Fast,Hot,1,0,1,Constipation,0,1,0,0,0,1,1,0,0,0,0,0,0,0,Goiter
+0,No Change,Normal,Cold,1,1,1,Constipation,1,1,1,1,0,0,0,1,1,1,0,0,1,1,Goiter
+0,Gain,Normal,Normal,1,1,1,Normal,0,1,1,0,0,1,0,1,1,1,1,0,1,1,Goiter
+0,Gain,Slow,Cold,0,0,1,Constipation,0,1,1,1,1,0,1,1,1,1,1,0,0,0,Goiter
+0,No Change,Normal,Cold,0,1,1,Constipation,1,1,0,1,1,1,1,0,0,1,1,0,1,0,Goiter
+1,No Change,Normal,Hot,0,0,1,Normal,0,1,1,0,0,1,0,1,0,1,0,1,0,0,Goiter
+1,Gain,Fast,Normal,1,0,1,Diarrhea,0,1,1,1,0,0,0,0,0,0,0,0,1,1,Goiter
+1,Gain,Slow,Cold,0,0,1,Diarrhea,1,1,1,1,0,0,1,0,0,1,0,0,1,1,Goiter
+0,Gain,Normal,Hot,1,1,1,Normal,1,1,1,1,1,0,1,0,1,0,0,1,0,1,Goiter
+0,Loss,Fast,Cold,0,0,1,Constipation,0,1,0,0,1,0,1,0,1,0,1,0,1,1,Goiter
+1,Gain,Slow,Normal,1,1,1,Normal,1,1,0,0,1,1,0,0,1,0,0,0,1,1,Goiter
+1,Gain,Normal,Cold,0,1,1,Normal,1,1,0,0,1,0,1,1,0,1,1,0,0,1,Goiter
+1,No Change,Fast,Normal,1,1,1,Constipation,0,1,1,0,1,0,0,0,1,1,1,0,1,1,Goiter
+0,No Change,Slow,Hot,0,1,1,Diarrhea,1,1,0,1,0,1,0,1,0,0,1,1,0,1,Goiter
+1,Loss,Slow,Hot,0,1,1,Diarrhea,0,1,1,0,0,1,1,1,1,0,1,0,0,1,Goiter
+1,No Change,Slow,Cold,0,1,1,Constipation,1,1,0,1,0,0,1,0,1,0,0,0,1,0,Goiter
+1,Gain,Slow,Hot,1,1,1,Normal,0,1,0,0,0,0,1,0,1,0,1,0,0,1,Goiter
+1,Gain,Normal,Cold,0,1,1,Constipation,1,1,1,0,1,1,1,0,0,0,1,0,1,1,Goiter
+1,Loss,Normal,Cold,0,0,1,Normal,0,1,1,1,0,0,0,0,1,1,0,0,1,0,Goiter
+0,No Change,Slow,Normal,0,0,1,Constipation,1,1,0,0,0,1,0,1,1,0,1,1,0,0,Goiter
+0,No Change,Slow,Cold,1,1,1,Constipation,0,1,0,0,0,1,0,1,0,1,0,0,1,1,Goiter
+1,No Change,Normal,Normal,0,1,1,Diarrhea,1,1,0,1,0,0,0,0,1,0,0,0,1,0,Goiter
+0,Loss,Fast,Cold,1,0,1,Diarrhea,0,1,1,0,1,1,1,0,1,0,0,1,1,0,Goiter
+1,No Change,Slow,Normal,0,0,1,Constipation,1,1,1,1,1,0,0,1,0,1,0,1,0,1,Goiter
+1,No Change,Normal,Hot,0,0,1,Constipation,0,1,1,0,0,0,1,1,0,1,1,0,0,1,Goiter
+0,No Change,Normal,Cold,1,0,1,Diarrhea,0,1,1,1,0,0,1,0,0,0,0,1,1,0,Goiter
+0,Gain,Fast,Normal,1,0,1,Normal,1,1,0,0,0,1,0,1,0,1,1,0,0,1,Goiter
+0,Loss,Normal,Cold,0,0,1,Diarrhea,1,1,1,1,0,0,0,1,1,1,1,0,1,0,Goiter
+0,Gain,Slow,Normal,1,1,1,Normal,0,1,1,0,1,0,0,1,1,0,0,0,1,1,Goiter

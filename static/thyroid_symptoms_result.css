@@ -1,0 +1,138 @@
+/* Main output container */
+.output {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #eef7ff;
+    /* Light blue background */
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #007bff;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Heading styles */
+.output h2 {
+    color: #0d2746;
+    font-size: 24px;
+    margin-bottom: 10px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Highlight the predicted diagnosis */
+.prediction-box {
+    display: block;
+    background: #ff4500;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 12px 25px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 15px auto;
+    width: fit-content;
+    animation: glowEffect 1.5s infinite alternate;
+}
+
+/* Styling for paragraphs */
+.output p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    background: #f8f8f8;
+    /* Light background */
+    padding: 10px;
+    border-radius: 5px;
+    border-left: 4px solid #007bff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+/* Hover effect on paragraphs */
+.output p:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Style for "Go back" button */
+.output a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s, transform 0.3s;
+}
+
+.output a:hover {
+    background: #0056b3;
+    transform: scale(1.05);
+}
+
+@keyframes glowEffect {
+    from {
+        box-shadow: 0 0 10px rgba(255, 69, 0, 0.5);
+    }
+
+    to {
+        box-shadow: 0 0 20px rgba(255, 69, 0, 0.8);
+    }
+}
+
+/* Main heading styles */
+.output h1 {
+    font-size: 28px;
+    /* Bigger font */
+    font-weight: bold;
+    text-align: center;
+    color: #0d2746;
+    margin-bottom: 20px;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Add an underline effect below the heading */
+.output h1::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 4px;
+    background: #007bff;
+    margin: 10px auto 0;
+    border-radius: 2px;
+}
+
+/* Glow Effect */
+.output h1 {
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Optional: Gradient text effect */
+@supports (-webkit-background-clip: text) {
+    .output h2 {
+        background: linear-gradient(90deg, #007bff, #ff4500);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+/* Animation Effect */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

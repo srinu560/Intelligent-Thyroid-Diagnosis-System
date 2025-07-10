@@ -1,0 +1,371 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Symptoms Prediction</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="56x56" href="static/assets/images/fav-icon/icon.png">
+    <!-- bootstrap CSS -->
+    <link rel="stylesheet" href="static/assets/css/bootstrap.min.css" type="text/css" media="all">
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="static/assets/css/style.css" type="text/css" media="all">
+    <!-- responsive CSS -->
+    <link rel="stylesheet" href="static/assets/css/responsive.css" type="text/css" media="all">
+    <!-- modernizr js -->
+    <script src="static/assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <link href="https://fonts.cdnfonts.com/css/clash-display" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='thyroid_symptoms.css') }}">
+    <style>
+        label {
+            color: black;
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+
+    <!-- loader -->
+    <div id="loftloader-wrapper" class="end-split-h loftloader-waterfilling loftloader-forever">
+        <div class="loader-bg"></div>
+        <div class="loader-inner">
+            <div id="loader"><span></span></div>
+        </div>
+    </div>
+
+
+    <!--==================================================-->
+    <!-- Start Dreamhub Header Top Menu Area Css -->
+    <!--==================================================-->
+
+    <div class="header_top_menu">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-4 col-sm-4">
+                    <div class="header_top_menu_icon">
+                        <div class="header_top_menu_icon_inner">
+                            <ul>
+                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!--==================================================-->
+    <!-- End	Dreamhub Header Top Menu Area Css -->
+    <!--===================================================-->
+
+
+    <!--==================================================-->
+    <!-- Start Dentist Main Menu  -->
+    <!--==================================================-->
+    <div id="sticky-header" class="dentist_nav_manu">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-2">
+                    <div class="logo">
+                        <a class="logo_img" href="#" title="dentist">
+                            <img src="static/assets/images/thyroid.png" alt="logo">
+                        </a>
+                        <a class="main_sticky" href="#" title="dentist">
+                            <img src="static/assets/images/thyroid.png" alt="logo">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-10">
+                    <nav class="dentist_menu">
+                        <ul class="nav_scroll">
+                            <li><a href="/thyroid_val">Prediction</a></li>
+                            <li><a href="/thyroid_symptoms">Symptoms</a></li>
+                            <li><a href="/thyroid_cancer">Thyroid Cancer</a></li>
+                        </ul>
+                        <!-- header button -->
+                        <div class="header-right">
+                            <div class="header-button">
+                                <a href="/">Logout</a>
+                            </div>
+
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--==================================================-->
+    <!-- End Dentist Main Menu  -->
+    <!--==================================================-->
+
+
+
+    <!-------------------------------------------------------->
+    <!-------------Symptoms form start---------------------->
+    <!-------------------------------------------------------->
+        <div class="about-section">
+            <div class="container">
+                <div class="row about-bg">
+                    <div class="col-lg-6">
+
+
+                        <h2 style="text-align:center;">Thyroid Disease Prediction Form</h2>
+                        <form action="/symptom_predict" method="post">
+
+                            <label>Fatigue:</label>
+                            <select name="fatigue">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Weight Change:</label>
+                            <select name="weight_change">
+                                <option value="Gain">Gain</option>
+                                <option value="Loss">Loss</option>
+                                <option value="No Change">No Change</option>
+                            </select>
+
+                            <label>Heart Rate:</label>
+                            <select name="heart_rate">
+                                <option value="Slow">Slow</option>
+                                <option value="Normal">Normal</option>
+                                <option value="Fast">Fast</option>
+                            </select>
+
+                            <label>Temperature Sensitivity:</label>
+                            <select name="temperature_sensitivity">
+                                <option value="Cold">Cold</option>
+                                <option value="Normal">Normal</option>
+                                <option value="Hot">Hot</option>
+                            </select>
+
+                            <label>Mood Changes:</label>
+                            <select name="mood_changes">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Hair/Nail Changes:</label>
+                            <select name="hair_nail_changes">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Neck Swelling:</label>
+                            <select name="neck_swelling">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Digestive Issues:</label>
+                            <select name="digestive_issues">
+                                <option value="Normal">Normal</option>
+                                <option value="Constipation">Constipation</option>
+                                <option value="Diarrhea">Diarrhea</option>
+                            </select>
+
+                            <label>Eye Changes:</label>
+                            <select name="eye_changes">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Goiter Presence:</label>
+                            <select name="goiter_presence">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Menstrual Irregularities:</label>
+                            <select name="menstrual_irregularities">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Hoarseness:</label>
+                            <select name="hoarseness">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Family History:</label>
+                            <select name="family_history">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Previous Thyroid Surgery:</label>
+                            <select name="previous_thyroid_surgery">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Radiation Exposure:</label>
+                            <select name="radiation_exposure">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+
+                            <label>Slow Reflexes:</label>
+                            <select name="slow_reflexes">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Puffy Face:</label>
+                            <select name="puffy_face">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            
+
+                            <label>Joint Pain & Stiffness:</label>
+                            <select name="joint_pain">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Muscle Weakness:</label>
+                            <select name="muscle_weakness">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+
+                            <label>Memory Problems (Brain Fog):</label>
+                            <select name="memory_problems">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <label>Dry Skin & Brittle Nails:</label>
+                            <select name="dry_skin">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+
+                            <label>Sweating Excessively:</label>
+                            <select name="sweating_excessively">
+                                <option value="0">No</option>
+                                <option value="1">Yes</option>
+                            </select>
+
+                            <button type="submit">Predict Disease</button>
+                        </form>
+                        <br>
+                        
+                        
+                        <br><br><br>
+                    </div>
+                </div>
+            </div>
+        </div>
+                        
+<!--==================================================-->
+<!-- Symptoms Form End  -->
+<!--==================================================-->
+                        
+                        
+                        
+                        
+ <!-- Start Dentist Footer Section  -->
+ <!--==================================================-->
+                        
+    <div class="footer-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="widget widgets-company-info">
+                        <div class="dreamhub-logo">
+                            <a class="logo_thumb" href="#" title="dreamhub">
+                                <img src="static/assets/images/thyroid.png" alt="">
+                            </a>
+                        </div>
+                        
+                        <div class="follow-company-icon">
+                            <a href="#"> <i class="fab fa-facebook-f"></i> </a>
+                            <a href="#"> <i class="fab fa-pinterest"></i> </a>
+                            <a href="#"> <i class="fab fa-instagram"> </i> </a>
+                            <a href="#"> <i class="fab fa-google"></i> </a>
+                        </div>
+                    </div>
+                </div>
+                        
+                <div class="row footer-bg">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="footer-bottom-content">
+                            <div class="footer-bottom-content-copy">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                        
+                        
+        <!--==================================================-->
+        <!-- End Dentist Footer Section  -->
+        <!--==================================================-->
+                                        
+        <!--==================================================-->
+        <!-- Start scrollup section -->
+        <!--==================================================-->
+            <div id="progress" class="progress hide">
+                <div id="progress-value"></div>
+            </div>
+        <!--==================================================-->
+        <!-- Start scrollup section -->
+        <!--==================================================-->
+                        
+                        
+                        
+        <script src="static/assets/js/vendor/jquery-3.6.2.min.js"></script>
+                        
+        <script src="static/assets/js/popper.min.js"></script>
+                        
+        <script src="static/assets/js/bootstrap.min.js"></script>
+                        
+        <script src="static/assets/js/owl.carousel.min.js"></script>
+                        
+        <script src="static/assets/js/jquery.counterup.min.js"></script>
+                        
+        <script src="static/assets/js/waypoints.min.js"></script>
+                        
+        <script src="static/assets/js/wow.js"></script>
+                        
+        <script src="static/assets/js/imagesloaded.pkgd.min.js"></script>
+                        
+        <script src="static/venobox/venobox.js"></script>
+                        
+        <script src="static/assets/js/animated-text.js"></script>
+                        
+        <script src="static/venobox/venobox.min.js"></script>
+                        
+        <script src="static/assets/js/isotope.pkgd.min.js"></script>
+                        
+        <script src="static/assets/js/jquery.meanmenu.js"></script>
+                        
+        <script src="static/assets/js/jquery.scrollUp.js"></script>
+                        
+        <script src="static/assets/js/custom.js"></script>
+                        
+    </body>
+                        
+</html>
