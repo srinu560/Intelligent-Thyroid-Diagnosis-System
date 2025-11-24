@@ -1,4 +1,4 @@
-﻿<h1 align="center">🩺 Inelligent Thyroid Diagnosis System</h1>
+﻿<h1 align="center">🩺 Intelligent Thyroid Diagnosis System</h1>
 
 ---
 
