@@ -12,8 +12,7 @@ A complete medical diagnostic system that performs:
 
 🔹 **Thyroid Disease Prediction** (Numeric Input)  
 🔹 **Thyroid Disease Prediction** (Symptoms-Based ML + Neural Network)  
-🔹 **Thyroid Cancer Detection** (YOLOv8 Object Detection)  
-🔹 **User Authentication with OTP Email Verification**  
+🔹 **Thyroid Cancer Detection** (YOLOv8 Object Detection)    
 
 This project combines **Machine Learning**, **Deep Learning**, and **Computer Vision** into one unified health-diagnosis platform.
 
