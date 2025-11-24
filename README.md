@@ -28,6 +28,8 @@ Predicts:
  Based on medical inputs like **TSH, T3, T4**, etc.  
  The backend loads a classical ML model for this prediction.
 
+ <img src="static/images/Screenshot 2025-11-24 153430.png" width="70%" alt="Project Logo">
+
 ### 🧠 2. Symptoms-Based Thyroid Prediction (Advanced Pipeline)
 Powered by:
 - 🔹 Categorical Encoding  
@@ -35,12 +37,16 @@ Powered by:
 - 🔹 Ensemble Classifier(Voting/Bagging/Stacking)
 - 🔹 Meta-Classifier (Final Prediction Stage)
 
+<img src="static/images/Screenshot 2025-11-24 151018.png" width="70%" alt="Project Logo">
+
+
 Outputs:
 - 🎯 Disease Name  
 - 📘 Disease Description  
 - 🛡️ Precautionary Measures  
 - 🥗 Food & Diet Recommendations  
 
+<img src="static/images/Screenshot 2025-11-24 150948.png" width="70%" alt="Project Logo">
 
 ### 🩻 3. Thyroid Cancer Detection (YOLOv8)
 Upload a thyroid cell/tissue image → system detects:
@@ -59,6 +65,8 @@ Output includes:
 - Confidence scores  
 - Annotated image generated & saved  
 - JSON response for API usage  
+
+<img src="static/images/Screenshot 2025-11-24 151110.png" width="70%" alt="Project Logo">
 
 ---
 
